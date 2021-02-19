@@ -4,6 +4,7 @@ If you want to contribute, please read our [contributor guide](contributorGuide.
 
 If you need help, please read our [readme file](README.md).
 
-So far, we only have one definition:
+So far, we only have two definitions:
 
 [Actant](actant.md)
+[Actantial Model Greimas](Actantial-Model-Greimas.md)
