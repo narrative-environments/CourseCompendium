@@ -6,5 +6,5 @@ If you need help, please read our [readme file](README.md).
 
 So far, we only have two definitions:
 
-[Actant](actant.md)
-[Actantial Model Greimas](Actantial-Model-Greimas.md)
+* [Actant](actant.md)
+* [Actantial Model Greimas](Actantial-Model-Greimas.md)
