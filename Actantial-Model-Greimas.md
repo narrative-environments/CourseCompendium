@@ -14,7 +14,7 @@ Greimas first turned to the seven characters, which he reformulated as the three
 
 A strategic consideration was that these actants were not necessarily tied to a single representative character in the narrative. Based on Propp’s material Greimas then constructed a model, depicted in the diagram below, where the object of the subject’s desire is also the object of communication. This is the form in which the actantial model has usually come to be known although, as Peisa (2008) notes, Greimas himself has rarely referred to it in this particular graphic form.
 
-[![Semiotic square](http://compendium.kosawese.net/wp-content/uploads/2016/07/Screen-Shot-2016-07-06-at-17.29.19.png)](http://compendium.kosawese.net/wp-content/uploads/2016/07/Screen-Shot-2016-07-06-at-17.29.19.png)
+![Semiotic square](actantial-model-greimas-diagram.png)
 
 The actantial model first appeared in its canonical form in 1966 in A. J. Greimas’s _Semantique structurale_ (_Structural Semantics_). It was later refined by Greimas in his 1973 essay on “Actants, Actors, and Figures”. The model was widely influential, adopted and adapted in much subsequent narratological work.
 
