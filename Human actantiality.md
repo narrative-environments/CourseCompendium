@@ -17,6 +17,17 @@ What this approach makes clear is that while narrativity and learning are not eq
 
 For a fuller outline of Rorty’s historical survey of the concepts of person and identity, see [Modes of Human Actantiality](http://prolepsis-ap.blogspot.co.uk/2016/12/modes-of-human-actantiality.html)
 
+**Related terms**
+
+*     Agon
+* 		Audience
+* 		Hero
+* 		Actantial model (Greimas)
+* 		Agency
+* 		Actant
+* 		Philosophy
+* 		Narrative environment design
+
 **References**
 
 Parsons, A (2016) Modes of actantiality. Poiesis and Prolepsis [Blog]. Available at  [http://prolepsis-ap.blogspot.co.uk/2016/12/modes-of-human-actantiality.html](http://prolepsis-ap.blogspot.co.uk/2016/12/modes-of-human-actantiality.html) [Accessed 10 December 2016]
