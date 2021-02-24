@@ -1,6 +1,6 @@
-**Actant
+**Actant**
 
-**Why actant?
+**Why actant?**
 
 In order to develop a consistent approach in which the narrative, the environmental and the people dimensions of narrative environments are all understood to act, it is necessary to adopt a theory of action that is post-humanist in the sense that it does not put human agency first and foremost, but contextualises it within a field of more complex systemic, networked or rhizomic performance and performativity, while also acknowledging the possibility that such fields of action can generate new contexts.
 
