@@ -1,8 +1,12 @@
+**Actant
+
+**Why actant?
+
 In order to develop a consistent approach in which the narrative, the environmental and the people dimensions of narrative environments are all understood to act, it is necessary to adopt a theory of action that is post-humanist in the sense that it does not put human agency first and foremost, but contextualises it within a field of more complex systemic, networked or rhizomic performance and performativity, while also acknowledging the possibility that such fields of action can generate new contexts.
 
 One such theory is that which has developed around the term ‘actant’.
 
-**Actant: a history of the term**
+**A history of the term**
 
 The structuralist semiotician A.J. Greimas was the first to invoke the term actant in connection with narrative. However, he did not invent the word. In developing his actantial typology Greimas drew on the syntactic theories of Lucien Tesnière who, in _Elements de syntaxe structurale_ (1959), translated as _Elements of Structural Semantics_ (2015), likened a sentence to a little drama. Greimas drew on the syntactic theories of Tesnière in order to re-characterise Propp’s ‘spheres of action’ as actants (Herman, 2000)
 
