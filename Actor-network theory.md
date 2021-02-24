@@ -27,8 +27,7 @@ The relevance of actor network theory to the design of narrative environments is
 
 Actor network theory is not concerned primarily with the design or the creation of new environments but with the study of existing environments as actors-as-networks and networks-as-actors, even though it recognises its study as intervening in practice and that its descriptions, explanations and research actions extend the particular environment/network in question. Nor is actor network theory explicitly concerned with concepts of narrative, although Latour does use the phrase ‘narrative path’ when explaining actor network theory, e.g. in Latour (1996) below.
 
-**Sources:  
-**
+**References:**
 
 Beetz, J. (2013). Latour with Greimas Actor-Network Theory and Semiotics. _Academia.edu_. Available from https://www.academia.edu/11233971/Latour_with_Greimas_-_Actor-Network_Theory_and_Semiotics [Accessed 7 August 2015].
 
