@@ -1,4 +1,4 @@
-## Actor Network Theory
+## Actor-network theory
 
 According to Jary and Jary (2000), actor network theory combines post-structuralist insights with detailed empirical studies of scientific practices and technologies, organisations and social processes. It builds on the work of Bruno Latour, John Law and Michel Callon. The focus of actor network theory is on the reality and transformability of networks, as against such notions as institutions and society. Its conception of the social is as a circulatory field of forces beyond the agency-structure debate.
 
