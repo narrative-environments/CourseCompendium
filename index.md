@@ -9,4 +9,4 @@ So far, we only have four definitions:
 * [Actant](actant.md)
 * [Actantial Model Greimas](Actantial-Model-Greimas.md)
 * [Human actantiality](Human actantiality.md)
-* [Actor network theory] (Actor Network Theory)
+* [Actor Network Theory] (Actor Network Theory)
