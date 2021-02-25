@@ -20,11 +20,39 @@ He further notes that reflective self-consciousness can be further distinguished
 
 Situated reflection, in contrast, is embedded in an ongoing contextualized action. It involves the type of activity that I engage in when someone asks me what I am doing, or when I am deciding what is the next step in my ongoing course of action. In situated reflection, I do not necessarily frame my answers to such questions in terms of beliefs, desires, or strategies. Rather, I may reference the immediate environment and what needs to be accomplished.
 
+## Agency in Actor Network Theory
+
+In actor-network theory (ANT), all entities – living as well as non-living, human as well as non-human – are capable of contributing to the performance or fulfilment of an action. They are therefore said to have ‘actantiality’, a denomination that does does exclude human ‘agency’, nevertheless an agency that is de-centred and situated.
+
+An example (taken from Law, J. (2007). Actor network theory and material semiotics – see below):
+
+“_Thomas Edison, engineer and manager, and his new New York electricity supply network … an artful combination of transmission lines, generators, coal supplies, voltages, incandescent filaments, legal manoeuvres, laboratory calculations, political muscle, financial instruments, technicians, laboratory assistants and salesmen. In short, it was a system, and it worked because Edison engineered the bits and pieces together. … the architecture of the system was the key. Its individual elements, people or objects, were subordinate to the logic of that architecture, created or reshaped in that system._”
+
+###### Thomas Hughes exampled in John Law _ANT and Material Semiotics_
+
+This means that when we are considering how things happen, when we are looking for origins or causes of a movement or a stabilised fact, we no longer have to consider solely the human faculties, as in Enlightenment Humanism, or a supra personal structure, as in Structuralism or in Aristotelian Hylomorphism **[1]**.
+
+In order to emphasise this shift in how we perceive agency, ANT scholars use the term actant, borrowed from the narrative semiotics of A. J Greimas. An actant essentially is that which has agency – which should be seen as the ability to (profoundly) change a situation – and it can be anything: a human being, a scallop, a certain know-how, a given technology or a bacteria.
+
+In this context, agency is not limited humans or non-humans but always in whatever groups or networks these constitute and partake in. The network, then, is where heterogeneous corporeal entities (substances) and incorporeal entities (concepts, theories, methods, know-how) come together to form a seemingly coherent whole, allowing for each individual member to gain something.
+
+An important point here is that these networks organise and bundle together other things in order to sustain themselves. They interiorise them or bring them into the network operation. They could not exist without this interiorization of what is essentially exterior to them. This is a characteristic of open systems or networks.
+
+**[1]** Aristotle contends that every physical object is a compound of matter and form. This doctrine has been called “hylomorphism”, a portmanteau of the Greek words for matter (_hulê)_ and form (_eidos_ or _morphê)_.
+
+Hylomorphism has a range of applications across Aristotle’s work, deriving from a general hylomorphic framework which he extends in a variety of contexts. In his _Metaphysics_, for example, he argues that form is what unifies some matter into a single object, the compound of the two. In his _De Anima_, he treats soul and body as a special case of form and matter and analyzing perception as the reception of form without matter. He suggests in the _Politics_ that a constitution is the form of a _polis_ and the citizens its matter, partly on the grounds that the constitution serves to unify the body politic (Ainsworth, 2016).
+
+For a discussion of some of the limitations of hylomorphism in Aristotle’s psychology, see Shields (2010).
+
+Shields, C (2010). A fundamental problem about Hylomorphism. _Stanford Encyclopedia of Philosophy_. Available from [http://plato.stanford.edu/entries/aristotle-psychology/suppl1.html](http://plato.stanford.edu/entries/aristotle-psychology/suppl1.html) [Accessed 27 September 2015]
+
 **References**
 
 Ahearn, L.M. (2001). Agency and language. _Annual Review of Anthropology_, 30, 28–48.
 
 Ahearn, L. M. (2007) Comment on Kockelman, P., Agency: the relation between meaning, power, and knowledge. _Current Anthropology_, 48 (3), 375–401\. Available from http://www.jstor.org/stable/10.1086/512998 [Accessed 9 December 2016].
+
+Ainsworth, T. (2016). “Form vs. Matter”, _The Stanford Encyclopedia of Philosophy_. Available at https://plato.stanford.edu/archives/spr2016/entries/form-matter/ [Accessed 5 February 2019].
 
 Colapietro, V. (2007) Comment on Kockelman, P., Agency: the relation between meaning, power, and knowledge. _Current Anthropology_, 48 (3), 375–401\. Available from http://www.jstor.org/stable/10.1086/512998 [Accessed 9 December 2016].
 
@@ -33,4 +61,14 @@ Emirbayer, M. and Mische, A. (1998). What Is agency? _The American Journal of So
 Gallagher, S. (2012). Multiple aspects in the sense of agency. _New Ideas in Psychology_, 30 (1), 15–31\. Available from http://dx.doi.org/10.1016/j.newideapsych.2010.03.003 [Accessed 10 October 2015].
 
 Kockelman, P. (2007). Agency: the relation between meaning, power, and knowledge. Current Anthropology, 48 (3), 375–401\. Available from http://www.jstor.org/stable/10.1086/512998 [Accessed 9 December 2016].
+
+Latour, B. (1996). _The trouble with actor-network theory_. Available at: [http://www.bruno-latour.fr/sites/default/files/P-67%20ACTOR-NETWORK.pdf](http://www.bruno-latour.fr/sites/default/files/P-67%20ACTOR-NETWORK.pdf). Accessed 9 May 2009.
+
+Latour, B. (2005). _Reassembling the Social: An Introduction to Actor-network-theory_. Oxford: Oxford University Press.
+
+Latour, B. (2008). A Cautious Prometheus? a few steps toward a philosophy of design (with special attention to Peter Sloterdijk). Available at [http://www.bruno-latour.fr/articles/article/112-DESIGN-CORNWALL.pdf](http://www.bruno-latour.fr/articles/article/112-DESIGN-CORNWALL.pdf). Accessed 27 January 2009.
+
+Law, J. (2007). Actor network theory and material semiotics. version of 25 April 2007\. Available at [http://www.heterogeneities.net/publications/Law-ANTandMaterialSemiotics.pdf](http://www.heterogeneities.net/publications/Law-ANTandMaterialSemiotics.pdf). Accessed 27 November 2008.
+
+Law, J. and Urry, J. (2003). _Enacting the social._ Lancaster: Department of Sociology and the Centre for Science Studies, Lancaster University. Available at [http://www.lancs.ac.uk/fass/sociology/papers/law-urry-enacting-the-social.pdf](http://www.lancs.ac.uk/fass/sociology/papers/law-urry-enacting-the-social.pdf). Accessed 9 March 2007.
 
