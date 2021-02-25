@@ -62,6 +62,26 @@ The notion of agency is paramount in discussions about the architect’s societa
 
 In addition, recent preoccupations with the material and performative dimension of architecture have led to new ways of understanding agency in architecture.
 
+## Agency in Interaction Design
+
+The capacity of the user to control, shape or direct the interaction.
+
+## Agency in Narratology
+
+The capacity of an entity to act, to cause events. Characters are typically entities with agency.
+
+(based on: Porter Abbott, H. The Cambridge Introduction to Narrative, Cambridge, Cambridge University Press, 2002)
+
+## Agency in Sociology
+
+1) The power of actors to operate independently of the determining constraints of social structure. The term agency is related to will and purpose.
+
+2) Any human action, collective or structural or individual, which makes a difference to a human relationships or behaviour.
+
+3) Anthony Giddens interprets agency as being equivalent to power.
+
+All from Jary D. and Jary J. (eds) (2000). _Collins Dictionary of Sociology_, 3rd Ed. Glasgow: HarperCollins.
+
 **References**
 
 Ahearn, L.M. (2001). Agency and language. _Annual Review of Anthropology_, 30, 28–48.
