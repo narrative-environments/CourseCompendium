@@ -69,3 +69,10 @@ Lyotard, J.-F. (1988). _The Differend: phrases in dispute_. Manchester, UK: Manc
 Mouffe, C. (2012). Space, hegemony and radical critique. In: _Spatial Politics: Essays for Doreen Massey,_ edited by D. Featherstone and J. Painter. Chichester, West Sussex, UK: Wiley-Blackwell, 19–31.
 
 Mouffe, C. (2013). _Agonistics: thinking the world politically_. London: Verso.
+
+RELATED TERMS
+
+* Politics and the political
+* Focalisation
+* Arendt
+
