@@ -8,7 +8,7 @@ The weakness of Mouffe’s position from the perspective of narrative environmen
 
 Mouffe’s approach to “thinking the world politically” is outlined below.
 
-[![Screen Shot 2016-07-17 at 12.28.37](http://compendium.kosawese.net/wp-content/uploads/2016/07/Screen-Shot-2016-07-17-at-12.28.37.png)](http://compendium.kosawese.net/wp-content/uploads/2016/07/Screen-Shot-2016-07-17-at-12.28.37.png)
+![Agonistic Politics - Mouffe](Agonistic-Politics-Mouffe.png)
 
 **Antagonism and Hegemony**
 
