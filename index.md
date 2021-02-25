@@ -18,6 +18,6 @@ So far, we currently have thirteen entries:
 * [Ai Weiwei Exhibition](Ai-Weiwei-Exhibition.md)
 * [Aleatory](Aleatory.md)
 * [Alienation](Alienation.md)
-* [Alienation Effect - Verfremdungseffekt](Alienation-Effect-Verfremdungseffekt)
+* [Alienation Effect - Verfremdungseffekt](Alienation-Effect-Verfremdungseffekt.md)
 
 _Use for_ Distancing effect; estrangement effect
