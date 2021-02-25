@@ -12,7 +12,7 @@ Sturken M. and Cartwright, L. (2018). _Practices of Looking: an introduction to 
 
 **Related terms**
 
-Alienation-effect
-Fetishism - Commodity fetishism 
-Reification 
-Historical materialism - Marxism
+* Alienation-effect
+* Fetishism - Commodity fetishism 
+* Reification 
+* Historical materialism - Marxism
