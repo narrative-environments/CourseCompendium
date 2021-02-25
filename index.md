@@ -15,6 +15,6 @@ So far, we currently have ten entries:
 * [Agon](Agon.md)
 * [Agonism and Avant-Gardism](Agonism-and Avant-Gardism.md)
 * [Agonistic Politics - Mouffe](Agonistic-Politics-Mouffe.md)
-
+* [Ai Weiwei Exhibition](Ai-Weiwei-Exhibition.md)
 
 * [Human actantiality](Human actantiality.md)
