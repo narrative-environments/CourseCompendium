@@ -16,8 +16,8 @@ Gibson, J.J., 1979: _The ecological approach to visual perception_. Hillsdale, N
 
 RELATED TERMS
 
-New Materialism
-Lifeworld (Lebenswelt; Umwelt)
-Method and methodology
-Phenomenology
-Disciplinary societies and Societies of control
+* New Materialism
+* Lifeworld (Lebenswelt; Umwelt)
+* Method and methodology
+* Phenomenology
+* Disciplinary societies and Societies of control
