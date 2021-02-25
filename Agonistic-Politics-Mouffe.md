@@ -1,6 +1,5 @@
 ## Agonistic politics - Mouffe
 
-
 While a Greimasian approach to narrative environments emphasises actantiality, as a complex field of inter-related, systemic or networked inter-actions involving actants of many different kinds, from conventional characters to various kinds of artefactual entities such as climate and religious symbolism, there still remains the problem of what might ‘animate’, ‘drive’ or ‘give impulsion’ to this field of interaction.
 
 One approach to understanding some of the human motivations implicated in such fields of inter-action that is potentially compatible with Greimas’s actantial model, with its structured oppositions and dynamic relational axes, is the agonistic politics of Chantal Mouffe, which gives priority to the notions of antagonism, agonism and hegemony (i.e. hierarchical power relations achieved through apparent consensual agreement).
@@ -9,7 +8,7 @@ The weakness of Mouffe’s position from the perspective of narrative environmen
 
 Mouffe’s approach to “thinking the world politically” is outlined below.
 
-[Agonistic-Politics.png](https://github.com/narrative-environments/CourseCompendium/blob/main/Agonistic-Politics.png)
+[![Screen Shot 2016-07-17 at 12.28.37](http://compendium.kosawese.net/wp-content/uploads/2016/07/Screen-Shot-2016-07-17-at-12.28.37.png)](http://compendium.kosawese.net/wp-content/uploads/2016/07/Screen-Shot-2016-07-17-at-12.28.37.png)
 
 **Antagonism and Hegemony**
 
