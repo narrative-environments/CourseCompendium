@@ -10,5 +10,7 @@ So far, we only have six definitions:
 * [Actantial Model - Greimas](Actantial-Model-Greimas.md)
 * [Actor-network theory](Actor-network theory.md)
 * [Actors](Actors.md)
-* [Human actantiality](Human actantiality.md)
 * [Affordances](Affordances.md)
+
+
+* [Human actantiality](Human actantiality.md)
