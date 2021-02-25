@@ -8,6 +8,10 @@ While Coe does not use the term ‘ergodic’, it might be said to occupy a simi
 
 Hypertext can be considered an example of ergodic discourse in which, rather than ‘nothing follows’, it might be argued that ‘everything follows’, an abundance of sequences are possible which undermine contingency, and hence, ‘narrative drive’.
 
+## Aleatory in Music
+
+In aleatory music, the element of chance and dependence on contingencies influences the choice of notes.
+
 **Reference**
 
 Coe, J. (2011, 28 October). Composition No. 1 by Marc Saporta – review. _The Guardian_, 28 October 2011\. Available at [<span class="s1">http://www.guardian.co.uk/books/2011/oct/28/composition-no-1-saporta-review</span>](http://www.guardian.co.uk/books/2011/oct/28/composition-no-1-saporta-review). Accessed on 18 April 2013.
