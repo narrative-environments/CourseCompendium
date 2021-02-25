@@ -14,7 +14,7 @@ So far, we currently have ten entries:
 * [Agency](Agency.md)
 * [Agon](Agon.md)
 * [Agonism and Avant-Gardism](Agonism-and Avant-Gardism.md)
-* [Agonistic-Politics-Mouffe](Agonistic-Politics-Mouffe.md)
+* [Agonistic Politics - Mouffe](Agonistic-Politics-Mouffe.md)
 
 
 * [Human actantiality](Human actantiality.md)
