@@ -46,6 +46,22 @@ For a discussion of some of the limitations of hylomorphism in Aristotle’s psy
 
 Shields, C (2010). A fundamental problem about Hylomorphism. _Stanford Encyclopedia of Philosophy_. Available from [http://plato.stanford.edu/entries/aristotle-psychology/suppl1.html](http://plato.stanford.edu/entries/aristotle-psychology/suppl1.html) [Accessed 27 September 2015]
 
+## Agency in Architecture 
+
+A good place to start to consider the notion of agency in architecture is issue number 4 of [_Footprint_](http://www.footprintjournal.org/issues/show/5) online periodical, Spring 2009, whose theme is Agency in Architecture: Reframing Criticality in Theory and Practice.
+
+The framing editorial text that issue argues that current debates in architecture cannot avoid the notion of agency. It crops up in the context of critiques of the architect’s societal position and the role of the user, conceptualisation of the performative dimension of the architectural object, and in considering the effects of theory for architecture at large.
+
+While fundamental, the notion of agency is often taken for granted. The contributors to this issue of _Footprint_ propose to rethink contemporary criticality in architecture, by explicating the notion of agency in three major directions:
+
+*   ‘the agency of what?’ or the question of multiplicity and relationality;
+*   ‘how does it work?’, a question referring to location, mode and vehicle; and
+*   ‘to what effect?’, raising the notion of intentionality.
+
+The notion of agency is paramount in discussions about the architect’s societal position, whether as autonomous creator, self-interested professional, victim of market forces, resistive agent, ’enabler,’ or ’urban catalyst‘, and in discussions about the role of the user, whether as empowered citizen, producer of urban space, ’self-organizing‘ entity or ’everyday bricoleur‘.
+
+In addition, recent preoccupations with the material and performative dimension of architecture have led to new ways of understanding agency in architecture.
+
 **References**
 
 Ahearn, L.M. (2001). Agency and language. _Annual Review of Anthropology_, 30, 28–48.
