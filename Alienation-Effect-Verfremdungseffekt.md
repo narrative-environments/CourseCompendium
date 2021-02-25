@@ -84,3 +84,12 @@ Selden, R., Widdowson, P. and Brooker, P. (2005). _A Reader’s guide to contemp
 
 Tian, M. (1997). ‘Alienation-effect’ for whom? Brecht’s (mis)interpretation of the classical Chinese theatre. _Asian Theatre Journal_, 14 (2), 200–222\. Available from [http://www.jstor.org/stable/1124277](http://www.jstor.org/stable/1124277) [Accessed 11 March 2016].
 
+Avant-garde movements
+Defamiliarisation, Ostranenie or making strange
+Literary theory
+Psychogeography
+Situationist International
+Epic theatre (Brecht)
+Theatre of Cruelty
+
+
