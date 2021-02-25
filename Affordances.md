@@ -13,3 +13,11 @@ Furthermore, such environmental or ecological perception is part of an engagemen
 Edgeworth, M. (2016). Grounded objects. Archaeology and speculative realism. _Archaeological Dialogues_, 23 (01), 93–113\. Available from http://www.journals.cambridge.org/abstract_S138020381600012X [Accessed 21 June 2016].
 
 Gibson, J.J., 1979: _The ecological approach to visual perception_. Hillsdale, N.J.: Lawrence Erlbaum 1986.
+
+RELATED TERMS
+
+New Materialism
+Lifeworld (Lebenswelt; Umwelt)
+Method and methodology
+Phenomenology
+Disciplinary societies and Societies of control
