@@ -11,3 +11,13 @@ Ai dismantled the original structure into hundreds of pieces and directly moved 
 All of the changes indicated that the structure was no longer a work of architecture but rather a work of art. In fact, after 1950, such architecture was devalued available to anyone who could afford to buy it, so its ancestral meaning was lost at that time. However, when people went through these spaces in the two galleries, they found that they could still remember the old times, prompted by following the trace on stacks, which reminded them of their old homes and of old stories.
 
 From a narrative environment perspective, this is an effective means of storytelling: gathering elements from a prior historical period that evoke memories and recall real stories from that bygone era, employing the capability of old artefacts to provoke in the visitors a diegetic universe.
+
+![Ai-Weiwei-1](Ai-Weiwei-1.png)
+
+![Ai-Weiwei-2](Ai-Weiwei-2.png)
+
+![Ai-Weiwei-3](Ai-Weiwei-3.png)
+
+![Ai-Weiwei-4](Ai-Weiwei-4.png)
+
+![Ai-Weiwei-5](Ai-Weiwei-5.png)
