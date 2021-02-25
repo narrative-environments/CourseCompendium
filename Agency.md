@@ -1,6 +1,6 @@
 ## Agency
 
-**Agency, de-centring the subject, situating the subject and the distribution of agency across a network**
+**Agency, de-centring the subject, situating the subject and distributed agency across a network**
 
 From the perspective of narrative environment design, the interest in ‘agency’ relates to structuralist and poststructuralist approaches, as well as Peircean semiotics, which de-centre the sovereign subject of the modern epoch, but _without effacing human agency_. Similarly to Michel Foucault and Jacques Derrida, C. S. Peirce is as much interested in situating subjectivity as he is in de-centring it. Among Peirce’s most significant achievements is that of exhibiting human beings as somatic, semiotic, and social actors caught up in processes over which they have very limited control and about which they have only fragmentary, fallible, and (often very) distorted understandings (Colapietro, 2007).
 
