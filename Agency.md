@@ -50,7 +50,7 @@ Shields, C (2010). A fundamental problem about Hylomorphism. _Stanford Encyclope
 
 A good place to start to consider the notion of agency in architecture is issue number 4 of [_Footprint_](http://www.footprintjournal.org/issues/show/5) online periodical, Spring 2009, whose theme is Agency in Architecture: Reframing Criticality in Theory and Practice.
 
-The framing editorial text that issue argues that current debates in architecture cannot avoid the notion of agency. It crops up in the context of critiques of the architect’s societal position and the role of the user, conceptualisation of the performative dimension of the architectural object, and in considering the effects of theory for architecture at large.
+The framing editorial text of that issue argues that current debates in architecture cannot avoid the notion of agency. It crops up in the context of critiques of the architect’s societal position and the role of the user, conceptualisation of the performative dimension of the architectural object, and in considering the effects of theory for architecture at large.
 
 While fundamental, the notion of agency is often taken for granted. The contributors to this issue of _Footprint_ propose to rethink contemporary criticality in architecture, by explicating the notion of agency in three major directions:
 
