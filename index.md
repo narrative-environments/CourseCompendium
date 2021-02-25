@@ -4,10 +4,11 @@ If you want to contribute, please read our [contributor guide](contributorGuide.
 
 If you need help, please read our [readme file](README.md).
 
-So far, we only have five definitions:
+So far, we only have six definitions:
 
 * [Actant](actant.md)
 * [Actantial Model - Greimas](Actantial-Model-Greimas.md)
 * [Actor-network theory](Actor-network theory.md)
 * [Actors](Actors.md)
 * [Human actantiality](Human actantiality.md)
+* [Affordances](Affordances.md)
