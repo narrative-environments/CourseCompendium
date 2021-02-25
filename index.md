@@ -4,7 +4,7 @@ If you want to contribute, please read our [contributor guide](contributorGuide.
 
 If you need help, please read our [readme file](README.md).
 
-So far, we currently have twelve entries:
+So far, we currently have thirteen entries:
 
 * [Actant](actant.md)
 * [Actantial Model - Greimas](Actantial-Model-Greimas.md)
@@ -18,5 +18,6 @@ So far, we currently have twelve entries:
 * [Ai Weiwei Exhibition](Ai-Weiwei-Exhibition.md)
 * [Aleatory](Aleatory.md)
 * [Alienation](Alienation.md)
+* [Alienation Effect - Verfremdungseffekt](Alienation-Effect-Verfremdungseffekt)
 
-* [Human actantiality](Human actantiality.md)
+_Use for_ Distancing effect; estrangement effect
