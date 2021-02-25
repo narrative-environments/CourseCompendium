@@ -15,3 +15,14 @@ In aleatory music, the element of chance and dependence on contingencies influen
 **Reference**
 
 Coe, J. (2011, 28 October). Composition No. 1 by Marc Saporta – review. _The Guardian_, 28 October 2011\. Available at [<span class="s1">http://www.guardian.co.uk/books/2011/oct/28/composition-no-1-saporta-review</span>](http://www.guardian.co.uk/books/2011/oct/28/composition-no-1-saporta-review). Accessed on 18 April 2013.
+
+
+RELATED TERMS
+
+* Music
+* Ergodic
+* Interaction
+* Avant-garde movements
+* Interaction Design
+* Literary theory
+* Historicism
