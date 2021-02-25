@@ -4,7 +4,7 @@ If you want to contribute, please read our [contributor guide](contributorGuide.
 
 If you need help, please read our [readme file](README.md).
 
-So far, we currently have eleven entries:
+So far, we currently have twelve entries:
 
 * [Actant](actant.md)
 * [Actantial Model - Greimas](Actantial-Model-Greimas.md)
@@ -17,5 +17,6 @@ So far, we currently have eleven entries:
 * [Agonistic Politics - Mouffe](Agonistic-Politics-Mouffe.md)
 * [Ai Weiwei Exhibition](Ai-Weiwei-Exhibition.md)
 * [Aleatory](Aleatory.md)
+* [Alienation](Alienation.md)
 
 * [Human actantiality](Human actantiality.md)
