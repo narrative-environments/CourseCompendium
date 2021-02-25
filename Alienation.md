@@ -16,4 +16,4 @@ Sturken M. and Cartwright, L. (2018). _Practices of Looking: an introduction to 
 * Fetishism - Commodity fetishism 
 * Reification 
 * Historical materialism - Marxism
-* Lefenvre
+* Lefebvre
