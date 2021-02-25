@@ -13,6 +13,7 @@ So far, we have eight entries:
 * [Affordances](Affordances.md)
 * [Agency](Agency.md)
 * [Agon](Agon.md)
+* [Agonism and Avant-Gardism](Agonism-and Avant-Gardism.md)
 
 
 * [Human actantiality](Human actantiality.md)
