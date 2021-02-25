@@ -4,7 +4,7 @@ If you want to contribute, please read our [contributor guide](contributorGuide.
 
 If you need help, please read our [readme file](README.md).
 
-So far, we only have seven definitions:
+So far, we have eight entries:
 
 * [Actant](actant.md)
 * [Actantial Model - Greimas](Actantial-Model-Greimas.md)
@@ -12,6 +12,7 @@ So far, we only have seven definitions:
 * [Actors](Actors.md)
 * [Affordances](Affordances.md)
 * [Agency](Agency.md)
+* [Agon](Agon.md)
 
 
 * [Human actantiality](Human actantiality.md)
