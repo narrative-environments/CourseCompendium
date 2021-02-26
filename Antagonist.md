@@ -8,7 +8,7 @@ Employing a yet further dualism, that of hero versus villain, the former may be 
 
 The antagonist may also represent a major threat or obstacle to the main character simply by their very existence, without necessarily actively targeting him, her or them. In short, as John Yorke (2013) says, antagonism is "the sum total of all the obstacles that obstruct a character in the pursuit of their desires."
 
-Yorke further suggests that, while antagonists can be external, such as in the James Bond films, antagonism can manifest itself in many different ways, perhaps most interestingly when it lies within the protagonist, such as in _The Diving Bell and the Butterfly_. Thus, cowardice, drunkenness or lack of self-esteem can serve as internal obstacles that prevent a character reaching fulfilment. Futhermore, antagonists can be both extaernal and internal, as in the film, _Jaws_. Nevertheless, Yorke claims, quoting Alfred Hitchcock, they all have one thing in common: "The more successful the villain, the more successful the picture."
+Yorke further suggests that, while antagonists can be external, such as in the James Bond films, antagonism can manifest itself in many different ways, perhaps most interestingly when it lies within the protagonist, such as in _The Diving Bell and the Butterfly_. Thus, cowardice, drunkenness or lack of self-esteem can serve as internal obstacles that prevent a character reaching fulfilment. Furthermore, antagonists can be both extaernal and internal, as in the film, _Jaws_. Nevertheless, Yorke claims, quoting Alfred Hitchcock, they all have one thing in common: "The more successful the villain, the more successful the picture."
 
 **References**
 
