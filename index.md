@@ -21,4 +21,4 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Alienation Effect - Verfremdungseffekt](Alienation-Effect-Verfremdungseffekt.md)
 * [Antagonist](Antagonist.md)
 
-* [Human actantiality](Human-actantiality.md)
+* [Human actantiality](Human actantiality.md)
