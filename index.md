@@ -4,7 +4,7 @@ If you want to contribute, please read our [contributor guide](contributorGuide.
 
 If you need help, please read our [readme file](README.md).
 
-So far, we currently have thirteen entries:
+This is a work in progress. So far, the entries we have are as follows:
 
 * [Actant](actant.md)
 * [Actantial Model - Greimas](Actantial-Model-Greimas.md)
@@ -19,5 +19,6 @@ So far, we currently have thirteen entries:
 * [Aleatory](Aleatory.md)
 * [Alienation](Alienation.md)
 * [Alienation Effect - Verfremdungseffekt](Alienation-Effect-Verfremdungseffekt.md)
+* [Antagonist](Antagonist.md)
 
 _Use for_ Distancing effect; estrangement effect
