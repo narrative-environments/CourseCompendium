@@ -12,12 +12,12 @@ All of the changes indicated that the structure was no longer a work of architec
 
 From a narrative environment perspective, this is an effective means of storytelling: gathering elements from a prior historical period that evoke memories and recall real stories from that bygone era, employing the capability of old artefacts to provoke in the visitors a diegetic universe.
 
-![Ai-Weiwei-1](Ai-Weiwei-1.png)
+![Ai-Weiwei-1](Ai-Weiwei-1.jpg)
 
-![Ai-Weiwei-2](Ai-Weiwei-2.png)
+![Ai-Weiwei-2](Ai-Weiwei-2.jpg)
 
-![Ai-Weiwei-3](Ai-Weiwei-3.png)
+![Ai-Weiwei-3](Ai-Weiwei-3.jpg)
 
-![Ai-Weiwei-4](Ai-Weiwei-4.png)
+![Ai-Weiwei-4](Ai-Weiwei-4.jpg)
 
-![Ai-Weiwei-5](Ai-Weiwei-5.png)
+![Ai-Weiwei-5](Ai-Weiwei-5.jpg)
