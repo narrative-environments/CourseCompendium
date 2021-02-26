@@ -1,6 +1,6 @@
 ## Antagonist
 
-In an agonistic model of narrative, such as that conceived by A. J. Greimas, for example, the antagonist is the opponent of the protagonist or focal character. The antagonist is the actant who obstructs or puts obstacles in the way of the protagonist achieving his/her/its quest, goal or destination/destiny.
+In terms of literary narrative, the antagonist is the opponent of the protagonist or focal character. The antagonist obstructs or puts obstacles in the way of the protagonist achieving his/her/its quest, goal, destination or destiny. In an agonistic model of narrative, such as that conceived by A. J. Greimas, for example, the actantial role of opponent may be played by a single character or by a series of characters. Such characters may be human or non-human
 
 The antagonist may also be called the archenemy of the protagonist.
 
@@ -11,4 +11,12 @@ The antagonist may also represent a major threat or obstacle to the main charact
 **References**
 
 Wikiwrimo (2013). Character. Wikiwrimo [unofficial wiki of National Novel Writing Month]. Available from http://www.wikiwrimo.org/wiki/Character [Accessed on 8 July 2016].
+
+RELATED TERMS
+
+* Narratology
+* Agon
+* Protagonist
+* Actantial model (Greimas)
+* Actant
 
