@@ -12,7 +12,7 @@ Yorke further suggests that, while antagonists can be external, such as in the J
 
 **References**
 
-Yorke, J. (2013) ‘What makes a great screenplay?’, Guardian, p. Review 2-4. Available at: http://www.guardian.co.uk/books/2013/mar/15/john-yorke-best-screenwriting.
+Yorke, J. (2013) ‘What makes a great screenplay?’, _Guardian_, p. Review 2-4. Available at: http://www.guardian.co.uk/books/2013/mar/15/john-yorke-best-screenwriting (Accessed: 16 March 2013).
 
 RELATED TERMS
 
