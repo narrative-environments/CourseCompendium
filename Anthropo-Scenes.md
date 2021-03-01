@@ -25,3 +25,12 @@ Narrating Climate Futures [Website] [https://www.climatefutures.lu.se/climate-fi
 Technology is our next nature: Anthropo-Scene: [https://www.nextnature.net/search/Anthropo-scene/](https://www.nextnature.net/search/Anthropo-scene/)<span class="Apple-converted-space"></span>
 
 The Anthropo.scene [Blog] [http://jeremyjschmidt.com/](http://jeremyjschmidt.com/)
+
+RELATED TERMS
+
+* Anthropocene (Capitalocene, Chthulucene)
+* Postanthropocentrism
+* Posthuman
+* Posthumanism
+* Cultural geography, Human geography, Social geography
+
