@@ -22,5 +22,6 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Antagonist](Antagonist.md)
 * [Anthropo-Scenes](Anthropo-Scenes.md)
 * [Anthropocene - Capitalocene - Chthulucene](Anthropocene-Capitalocene-Chthulucene.md)
+* [Anthropology](Anthroplogy.md)
 
 * [Human actantiality](Human actantiality.md)
