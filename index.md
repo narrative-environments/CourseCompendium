@@ -21,5 +21,6 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Alienation Effect - Verfremdungseffekt](Alienation-Effect-Verfremdungseffekt.md)
 * [Antagonist](Antagonist.md)
 * [Anthropo-Scenes](Anthropo-Scenes.md)
+* [Anthropocene - Capitalocene - Chthulucene](Anthropocene-Capitalocene-Chthulucene.md)
 
 * [Human actantiality](Human actantiality.md)
