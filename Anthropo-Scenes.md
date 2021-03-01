@@ -1,6 +1,6 @@
 ## Anthropo-Scenes
 
-One strand of narrative environments may be defined as Anthropo-Scenes: they concern what the world might be like both now and in times to come and what life, including human life, in those present and future worlds might be like. This is to acknowledge the importance of narrative in understanding and communicating issues related to the notion of an ‘anthropocene’, a concept which begins its life in the discourse of Earth System Science but which has given rise to a wider intellectual event-space termed the Anthropo-Scene, a term denoting “a flurry of activity with far-reaching ontological, epistemic, political and aesthetic consequences” (Lorimer, 2016).
+One strand of narrative environments may be defined as Anthropo-Scenes: they concern what the world is like both now, what it might be like in times to come and what life, including human life, in those present and future worlds is like and might be like. This is to acknowledge the importance of narrative in understanding and communicating issues related to the notion of an ‘anthropocene’, a concept which begins its life in the discourse of Earth System Science but which has given rise to a wider intellectual event-space termed the Anthropo-Scene, a term denoting “a flurry of activity with far-reaching ontological, epistemic, political and aesthetic consequences” (Lorimer, 2016).
 
 Castree (2015) argues that,
 
