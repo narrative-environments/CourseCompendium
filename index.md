@@ -26,5 +26,6 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Apparatus - Dispositif](Apparatus-Dispositif.md)
 * [Architecture](Architecture.md)
 * [Architecture of Fear](Architecture-of-Fear.md)
+* [Architectuul](Architectuul.md)
 
 * [Human actantiality](Human actantiality.md)
