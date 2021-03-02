@@ -30,5 +30,6 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Arendt](Arendt.md)
 * [Audience](Audience.md)
 * [Authorship](Authorship.md)
+* [Avant-Garde Movements](Avant-Garde-Movements.md)
 
 * [Human actantiality](Human actantiality.md)
