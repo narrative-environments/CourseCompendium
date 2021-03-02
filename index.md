@@ -29,5 +29,6 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Architectuul](Architectuul.md)
 * [Arendt](Arendt.md)
 * [Audience](Audience.md)
+* [Authorship](Authorship.md)
 
 * [Human actantiality](Human actantiality.md)
