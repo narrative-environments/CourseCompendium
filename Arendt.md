@@ -1,6 +1,6 @@
 ## Arendt
 
-
+![Arendt.jpg](Arendt.jpg)
 
 For lengthier discussions of the value of Hannah Arendt for narrative environment design, see [Arendt, phenomenology and narrative environments](http://prolepsis-ap.blogspot.co.uk/2017/06/arendt-phenomenology-and-narrative.html) and [Addenda: Arendt, phenomenology and narrative environments](http://prolepsis-ap.blogspot.co.uk/2017/09/addenda-arendt-phenomenology-and.html)
 
