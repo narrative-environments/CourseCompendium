@@ -1,5 +1,7 @@
 ## Anthropology
 
+**RELATED TERMS: Sociology; Ethnomethodology; Agency; Actor Network Theory**
+
 Anthropological research may provide some methodological guidance in the understanding of the design of narrative environments as a complex cultural and social practice.
 
 Much like the discipline of anthropology since the 1980s, the design of narrative environments is concerned to engage with two sets of closely interrelated terms. As listed by Ortner (1984), they are practice, praxis, action, interaction, activity, experience, performance, on the one hand, and, on the other hand, the doer of all that doing: agent, actor, person, self, individual, subject. It is in the context of the relationship or, more properly, the entanglement, of the doer and the doing that the notions of actant and actantiality have arisen, for example in the context of actor-network theory.
@@ -38,8 +40,4 @@ http://mediatedcultures.net/about.htm
 
 ## Cyborg anthropology
 
-RELATED TERMS
 
-* Sociology
-* Ethnomethodology
-* Agency in Actor Network Theory
