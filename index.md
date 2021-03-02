@@ -27,5 +27,6 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Architecture](Architecture.md)
 * [Architecture of Fear](Architecture-of-Fear.md)
 * [Architectuul](Architectuul.md)
+* [Arendt](Arendt.md)
 
 * [Human actantiality](Human actantiality.md)
