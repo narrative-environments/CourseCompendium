@@ -6,7 +6,8 @@ The design of narrative environments also lies at the intersection of the actual
 
 To use terms borrowed from Derrida, the design of narrative environments is thus able to explore critically the actuvirtuality and the artefactuality of the world(s) we inhabit.
 
-Reference
+**Reference**
+
 Derrida, J. (1994) ‘The Deconstruction of actuality.’, _Radical Philosophy_, 68(Autumn 1994), pp. 28–41. Available at: https://www.radicalphilosophyarchive.com/issue-files/rp68_interview_derrida.pdf (Accessed: 3 April 2020).
 
 If you want to contribute, please read our [contributor guide](contributorGuide.md).
