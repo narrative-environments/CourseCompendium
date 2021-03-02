@@ -24,5 +24,6 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Anthropocene - Capitalocene - Chthulucene](Anthropocene-Capitalocene-Chthulucene.md)
 * [Anthropology](Anthropology.md)
 * [Apparatus - Dispositif](Apparatus-Dispositif.md)
+* [Architecture](Architecture.md)
 
 * [Human actantiality](Human actantiality.md)
