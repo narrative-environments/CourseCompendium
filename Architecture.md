@@ -1,3 +1,5 @@
+## Architecture
+
 
 Rowan Moore (2014) argues that it is a terrible misconception to think that architecture is a visual art. To the extent that you do indeed see architecture, it is still not a purely visual experience. When you look at something, you interpret it, you make associations, find memories evoked, gain a greater or lesser sense of the physical efforts and skill that went into making a structure. Architecture does not work with one sense alone, but with synaesthetic hybrids. Such synaesthetic hybrids can be understood as narrative environments.
 
