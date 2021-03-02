@@ -1,7 +1,7 @@
 ## Awestruck
 
 
-
+![Trajans Column 1](TrajansColumn1.jpg)
 
 
 Cast of Trajan Column, V&A Cast Court, London
@@ -15,7 +15,7 @@ I was enthralled by the sheer scale of the Trajan Column, so large it was in two
 
 I was delighted to learn these were casts not artefacts plundered from their original context. I was in awe of the scale and talent on display through these reproductions and enjoyed flitting countries and centuries admiring an 8th Irish High Crosses alongside 15th Baptistery doors from an Italian Church, caskets in memorandum of distinguihed fallen heros next spirited public sculptures.
 
-
+![Trajans Column 2](TrajansColumn2.jpg)
 
 Close up on the detail of the Trajan Column
 
@@ -23,7 +23,7 @@ Close up on the detail of the Trajan Column
 
 Was this space however a narrative environment? Certainly the pieces themselves had stories to tell, in fact many were produced for just this reason when literacy would have been an issue but was there a common thread pulling the space together? Or can there be a display of this magnitude without a story being told? Was the narrative purposely played down so the content would shine or was there no need for narrative when the individual stories were so strong? I have my views but I guess this is the debate I now open up…”
 
-
+![Trajans Column 3](TrajansColumn3.jpg)
 
 Completed in 113AD the original Trajan Column can be found in Rome
 
