@@ -6,9 +6,7 @@ Lazarus, Seedat and Naidoo (2017) argue that community building harnesses the va
 
 "Community building promotes social transformation and a sense of agency and responsibility; fosters citizen and political participation; improves social structures; creates economic, vocational and educational opportunities; supports families and youth; develops community spirit and consciousness; and fosters a ‘sense of community’ and connectedness." (Lazarus, Seedat and Naidoo, 2017)
 
-“A community building process aims to build capacity in neighborhood institutions, strengthen ties among residents, and assist residents to work individually and collectively toward neighborhood change. Community building encompasses a number of dimensions, including: community participation; capacity building; neighborhood governance; collaboration; social capital development; an asset orientation; strengthening civic practices; and addressing deep-rooted issues of race and racism.”
-
-Community Building Resource Exchange (Aspen Institute Roundtable on Comprehensive Community Initiatives for Children and Families), viewed on 10 April 2009, <http://www.commbuild.org/index.html>
+More specifically, Lazarus, Seedat and Naidoo identify a critical community building approach which provides ‘troubling knowledge’, while building support networks, and promoting a sense of agency and responsibility, through questioning dominant norms and goals, particularly those around issues of power, oppression and privilege. Central to critically-oriented community building is the process of reflexivity.
 
 **References**
 
