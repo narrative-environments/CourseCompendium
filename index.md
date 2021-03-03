@@ -34,5 +34,6 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Awestruck](Awestruck.md)
 * [Barbie and Ken - The Break-Up](Barbie-and-Ken.md)
 * [Beat](Beat.md)
+* [Before I Die](Before-I-Die)
 
 * [Human actantiality](Human actantiality.md)
