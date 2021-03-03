@@ -1,6 +1,6 @@
 ## Communal Tea Drinking
 
-**RELATED TERMS: Tripartite Model; **
+**RELATED TERMS: Tripartite Model;**
 
 Contributed by Federica Mandelli
 
