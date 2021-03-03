@@ -1,5 +1,7 @@
 ## Body
 
+RELATED TERMS: Place; Placiality and Spatiality; Biopolitics and biopower; Disciplinary societies and Societies of control
+
 Aside from narratology (e.g. the approaches of Greimas and Genette) and environmental theories of various kinds (e.g. those of Peter Sloterdijk or Henri Lefebvre) the human body, particularly as understood through phenomenology, and inflected by a feminist stance, is a key area of research when designing and analysing narrative environments. In the mutual contextualisation of the actantiality of narrative progression and environmental immersion, the human body can be grasped as an integrative actantiality and potentiality, its being and becoming, mediates and intervenes, draws together and pulls apart.
 
 Human subjectivity is embedded in the world, the world being understood within a narrative environment frame as an enfolded set of narrative worlds (or fictional and factual story worlds) and world stories (i.e. lived narratives, ideologies or belief systems), with the body acting as mediator among these different ontologically-distinct worlds. By multifarious assimilations, sensorimotor interactions and their further processing, the body becomes transparent to the world we are living in and allows us to act in it.
