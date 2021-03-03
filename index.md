@@ -38,5 +38,6 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Biopolitics and Biopower](Biopolitics-and-Biopower.md)
 * [Body](Body.md)
 * [Brand Identity and Brand Image](Brand-Identity.md)
+* [Brion Vega Tomb - Tomba Brion](Brion-Vega-Tombs.md)
 
 * [Human actantiality](Human actantiality.md)
