@@ -4,6 +4,13 @@ Brand identity is formed through the visible elements of a brand, such as its 
 
 The contrast between brand identity and brand image may be considered as parallel to the distinction between the world of the story, the elements presented in narration, and the storyworld, the world that the reader-participant constructs from those elements.
 
+In the context of the design of narrative environments, a brand identity becomes an actant, with agency as part of a network of influence or sphere of existence.
+
 Stuart Jones writes: 
 
 A sophisticated person working in branding will understand that a brand identity, like all identities, is a compact between the brand owner and the consumer (see ‘authorship’ in this compendium, postmodernism, and various debates in psychology and philosophy). Brand owners might prefer something more along the ‘Great Tradition’ hegemony lines, but tough. The generation of a robust brand identity is supported by the construction of a brand narrative that acknowledges, teases out, and supports consumer participation in the creation of the identity.
+
+Sophie Charles comments:
+
+In _Brand Gap_, Marty Neumeier highlights the features, benefits, qualities or experiences that arise from the brand, as distinct from the 'utilities' afforded by the core product or service, for example, the user-friendliness of Google.
+
