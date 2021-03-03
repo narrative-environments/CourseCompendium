@@ -12,7 +12,7 @@ A sophisticated person working in branding will understand that a brand identity
 
 Sophie Charles comments:
 
-In _Brand Gap_, Marty Neumeier highlights the features, benefits, qualities or experiences that arise from the brand, as distinct from the 'utilities' afforded by the core product or service, for example, the user-friendliness of Google.
+In his book, _Brand Gap_, Marty Neumeier highlights the features, benefits, qualities or experiences that arise from the brand identity, as distinct from the 'utilities' afforded by the core product or service, for example, the user-friendliness of Google.
 
 **References**
 
