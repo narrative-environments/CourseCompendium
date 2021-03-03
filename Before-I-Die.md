@@ -2,6 +2,7 @@
 
 **RELATED TERMS: Community building; Interaction**
 
+!
 
 After losing someone she loved and experiencing deep depression, artist [Candy Chang](http://candychang.com) created an interactive wall on an abandoned house in her neighbourhood to create an anonymous place to help restore perspective and share intimately with neighbours while remaining an introvert. After receiving permission, she painted the side of an abandoned house in her neighbourhood in New Orleans with chalkboard paint and stencilled it with a grid of the sentence, “Before I die I want to _______.” Anyone walking by could pick up a piece of chalk, reflect on their lives, and share their personal aspirations in public space.
 
