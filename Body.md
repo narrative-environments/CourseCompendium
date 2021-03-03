@@ -1,6 +1,6 @@
 ## Body
 
-RELATED TERMS: Place; Placiality and Spatiality; Biopolitics and biopower; Disciplinary societies and Societies of control
+**RELATED TERMS: Place; Placiality and Spatiality; Biopolitics and biopower; Disciplinary societies and Societies of control**
 
 Aside from narratology (e.g. the approaches of Greimas and Genette) and environmental theories of various kinds (e.g. those of Peter Sloterdijk or Henri Lefebvre) the human body, particularly as understood through phenomenology, and inflected by a feminist stance, is a key area of research when designing and analysing narrative environments. In the mutual contextualisation of the actantiality of narrative progression and environmental immersion, the human body can be grasped as an integrative actantiality and potentiality, its being and becoming, mediates and intervenes, draws together and pulls apart.
 
