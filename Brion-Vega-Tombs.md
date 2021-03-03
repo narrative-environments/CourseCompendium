@@ -1,7 +1,12 @@
-## Brion Vega Tombs
+## Brion Vega Tomb - Tomba Brion
 
+**RELATED TERMS: Architecture, Sound art; Agency; Framing narrative**
 
 Carlo Scarpa uses a combination of views, sometimes truncated, sometime including ‘borrowed landscapes’, of architectural forms and elements, of textures and surfaces, of changes in density and perspective, to create a poetic, non-verbal narrative that is made up not just of visual architectural form and material, but of sound and touch as well. 
+
+As a framing narrative, Scarpa’s Brion Vega Tomb, uses landscaping to tell a framing story about the buildings it contains, within which spatial layout, acoustics, borrowed landscapes and soundscapes weave a story around the narrative of the key architectural moments.
+
+A video tour by Erik Schmitt can be seen here: https://vimeo.com/104562873
 
 Below is an account of a visit by the architect and sound artist Thomas Lindner:
 _Thanks to Thomas Lindner (Listening Architects) for the text. Used with permission. Images from Flickr (Creative commons, used with permission)_
