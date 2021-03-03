@@ -1,5 +1,7 @@
 ## Brand Identity and Brand Image
 
+**RELATED TERMS: Emergent Attributes**
+
 Brand identity is formed through the visible elements of a brand, such as its name, its logo, the colours, shapes and other design elements its uses in its products and in its marketing and the language it uses in its advertising. These elements identify and distinguish the brand. The ways in which they are articulated aim to cultivate a certain brand image in the minds of consumers. 
 
 The contrast between brand identity and brand image may be considered as parallel to the distinction between the world of the story, the elements presented in narration, and the storyworld, the world that the reader-participant constructs from those elements. In short, in the pithy words of Marty Neumeir, "Your brand isn’t what you say it is. It’s what they say it is."
@@ -12,7 +14,7 @@ A sophisticated person working in branding will understand that a brand identity
 
 Sophie Charles comments:
 
-In his book, _Brand Gap_, Marty Neumeier highlights the features, benefits, qualities or experiences that arise from the brand identity, as distinct from the 'utilities' afforded by the core product or service, for example, the user-friendliness of Google.
+In his book, _Brand Gap_, Marty Neumeier highlights the features, benefits, qualities or experiences, in short the emergent attributes, that arise from the brand identity, as distinct from the 'utilities' afforded by the core product or service, for example, the user-friendliness of Google.
 
 **References**
 
