@@ -33,5 +33,6 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Avant-Garde Movements](Avant-Garde-Movements.md)
 * [Awestruck](Awestruck.md)
 * [Barbie and Ken - The Break-Up](Barbie-and-Ken.md)
+* [Beat](Beat.md)
 
 * [Human actantiality](Human actantiality.md)
