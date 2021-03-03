@@ -1,4 +1,4 @@
-## Brand Identity
+## Brand Identity and Brand Image
 
 Brand Identity is how the brand owner wants the consumer to perceive the brand – and by extension the branded company, organization, product or service. The brand owner will seek to bridge the gap between the brand image and the brand identity.Brand identity is fundamental to consumer recognition and symbolizes the brand’s differentiation from competitors.
 
