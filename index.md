@@ -41,5 +41,6 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Brion Vega Tomb - Tomba Brion](Brion-Vega-Tombs.md)
 * [Business Management](Business-Management.md)
 * [Cinema and Film Theory](Cinema-and-Film-Theory.md)
+* [Cloud Computing](Cloud-Computing.md)
 
 * [Human actantiality](Human actantiality.md)
