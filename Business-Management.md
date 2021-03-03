@@ -1,6 +1,6 @@
 ## Business Management
 
-**RELATED TERMS: Disciplinary societies and Societies of control**
+**RELATED TERMS: Anthropocene - Capitalocene - Chthulucene; Disciplinary societies and Societies of control**
 
 **Business management as an academic discipline**
 
