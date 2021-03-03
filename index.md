@@ -35,5 +35,6 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Barbie and Ken - The Break-Up](Barbie-and-Ken.md)
 * [Beat](Beat.md)
 * [Before I Die](Before-I-Die)
+* [Biopolitics and Biopower](Biopolitics-and-Biopower.md)
 
 * [Human actantiality](Human actantiality.md)
