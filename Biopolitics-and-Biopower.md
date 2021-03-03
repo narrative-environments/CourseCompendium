@@ -1,5 +1,7 @@
 ## Biopolitics and biopower
 
+**RELATED TERMS: Apparatus – Dispositif; Body; Politics and the political; Disciplinary societies and Societies of control**
+
 The term biopolitics or biopower is defined by Foucault as,
 
 “the set of mechanisms through which the basic biological features of the human species became the object of a political strategy, of a general strategy of power, or, in other words, how, starting from the eighteenth century, modern western societies took on board the fundamental biological fact that human beings are a species.” (Foucault, 2007: 16)
