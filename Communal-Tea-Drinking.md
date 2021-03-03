@@ -1,5 +1,7 @@
 ## Communal Tea Drinking
 
+**RELATED TERMS: Tripartite Model; **
+
 Contributed by Federica Mandelli
 
 **The communal tea drinking** is one of the _Precarious Tasks_ designed by Japanese artist Koki Tanaka for the Japan Pavillion at the 55th Venice Biennale in 2013, curted by Mika Kuraya.
@@ -33,6 +35,8 @@ The teabags are the tangible elements that trigger the narrative which starts in
 CONCLUSION: The power of a narrative environment doesn’t necessarily lie in a place itself. In this example the space plays the role of intermediator which make no difference (the experiment could have done everywhere), but it allows something to happen. The power lies within the object (teabag=agency) and the author (artist) that activates the entities.
 
 The simple act of making tea in an uncertain way causes a change in minds and emotions, the stories start to be constructed individually to be subsequently shared together. “There is no place without people in it”.
+
+This brings to attention the mutual dependence of the three major elements of the design of narrative environments: people, story and place. Each one depends on the two others for its emergence.
 
 
 
