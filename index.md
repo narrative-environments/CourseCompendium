@@ -43,5 +43,6 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Cinema and Film Theory](Cinema-and-Film-Theory.md)
 * [Cloud Computing](Cloud-Computing.md)
 * [Co-Design](Co-Design.md)
+* [Collecting](Collecting.md)
 
 * [Human actantiality](Human actantiality.md)
