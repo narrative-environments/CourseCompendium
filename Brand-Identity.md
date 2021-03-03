@@ -1,6 +1,6 @@
 ## Brand Identity and Brand Image
 
-**RELATED TERMS: Emergent Attributes**
+**RELATED TERMS: Actant; Agency; Emergent Attributes**
 
 Brand identity is formed through the visible elements of a brand, such as its name, its logo, the colours, shapes and other design elements its uses in its products and in its marketing and the language it uses in its advertising. These elements identify and distinguish the brand. The ways in which they are articulated aim to cultivate a certain brand image in the minds of consumers. 
 
