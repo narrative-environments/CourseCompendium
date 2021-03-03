@@ -4,10 +4,6 @@ The design of narrative environments lies at the intersection of design as socia
 
 The design of narrative environments also lies at the intersection of the actual and the virtual, so is well positioned to incorporate explorations of the changing terrains emerging from the increasing ubiquity of digital technologies that continue to shift perceptions of the boundaries between the artificial and the natural. 
 
-If you want to contribute, please read our [contributor guide](contributorGuide.md).
-
-If you need help, please read our [readme file](README.md).
-
 This is a work in progress. So far, the entries we have are as follows:
 
 * [Actant](actant.md)
