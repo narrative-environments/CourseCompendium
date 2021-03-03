@@ -18,7 +18,7 @@ McGrath, R. G. (2014) ‘Management’s three eras: a brief history’, Harvard 
 
 **Business management as a theory and practice**
 
-Frederick Taylor’s principles of scientific management which emerged in the late 1880s are often cited as the first modern school of thought on management practices. In the 1930s, Elton Mayo started to question the principles behind scientific management through the Hawthorne experiments, while in the same decade Kurt Lewin conducted research on organisational development and group dynamics.
+Frederick Taylor’s principles of scientific management, which emerged in the late 1880s, are often cited as the first modern school of thought on management practices. In the 1930s, Elton Mayo started to question the principles behind scientific management through the Hawthorne experiments, while in the same decade Kurt Lewin conducted research on organisational development and group dynamics.
 
 After World War II, sociotechnical systems theory became dominant, a framework which encompassed environment subsystem, social subsystem, technical subsystem and organizational design. In 1954, psychologist Abraham Maslow, expanding on his hierarchy of needs, grouped categories of human needs into a pyramid, at whose base was physiological needs, followed by safety needs, love and belonging needs, esteem needs and, at the top, needs for self-actualization.
 
