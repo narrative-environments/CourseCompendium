@@ -1,10 +1,14 @@
 **Actant**
 
+**RELATED TERMS: Actor; Agency; Human actantiality; Actor-network theory; Avatar**
+
 **Why actant?**
 
-In order to develop a consistent approach in which the narrative, the environmental and the people dimensions of narrative environments are all understood to act, it is necessary to adopt a theory of action that is post-humanist in the sense that it does not put human agency first and foremost, but contextualises it within a field of more complex systemic, networked or rhizomic performance and performativity, while also acknowledging the possibility that such fields of action can generate new contexts.
+In order to develop a consistent approach in which the narrative, the environmental and the people dimensions of narrative environments are all understood to act, it is necessary to adopt a theory of action that is post-humanist in the sense that it does not put human agency first and foremost, but contextualises it within a field of more complex systemic, networked or rhizomic performance and performativity, while also acknowledging the possibility that such fields of action can generate new contexts. 
 
 One such theory is that which has developed around the term ‘actant’.
+
+An actant is capable of exterting influence in a narrative setting (epistemological, cultural), of effecting change in an environmental setting (ontological, ecological), and of altering perceptions, thoughts and emotions in a human subjective, social setting (experience, consciousness). In a narrative environment setting, an actant moves across these analytically distinct fields, bringing them into relationship and effecting transformations across them, creating new 'realities'.
 
 **A history of the term**
 
