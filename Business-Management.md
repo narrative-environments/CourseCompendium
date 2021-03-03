@@ -24,6 +24,6 @@ After World War II, sociotechnical systems theory became dominant, a framework w
 
 In the 1950s, researchers developed additional theories of human motivation, including those of Peter Drucker and Frederick Herzberg (two-factor theory) while, in the 1960s, Theory X and Theory Y, Action Learning, and the Management Grid became the frontrunners. It was not until 1990 that the concept of the learning organisation emerged, developed byPeter Senge, while the the idea that ethics mattered in management did not come to the fore until 1995. 
 
-In the early 2000s, business process management developed a more systematic perspective. Later in the 2000s, the older motivational theories were re-formulated, such as the work on drives developed by Daniel Pink.
+In the early 2000s, business process management developed a more systematic perspective. Later in the 2000s, the older motivational theories were re-formulated, such as in the work on drives developed by Daniel Pink.
 
 Source: Based on the timeline presented by Maryville University https://online.maryville.edu/online-masters-degrees/business-administration/history-business-management/ 
