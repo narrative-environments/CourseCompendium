@@ -36,5 +36,6 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Beat](Beat.md)
 * [Before I Die](Before-I-Die)
 * [Biopolitics and Biopower](Biopolitics-and-Biopower.md)
+* [Body](Body.md)
 
 * [Human actantiality](Human actantiality.md)
