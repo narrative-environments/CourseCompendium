@@ -44,5 +44,6 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Cloud Computing](Cloud-Computing.md)
 * [Co-Design](Co-Design.md)
 * [Collecting](Collecting.md)
+* [Communal Tea Drinking](Communal-Tea-Drinking.md)
 
 * [Human actantiality](Human actantiality.md)
