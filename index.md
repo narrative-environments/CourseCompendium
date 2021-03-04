@@ -56,5 +56,6 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Customer Experience](Customer-Experience.md)
 * [Daoism - Taoism](Daoism-Taoism.md)
 * [Dasein](Dasein.md)
+* [Dau Project](Dau-Project.md)
 
 * [Human actantiality](Human actantiality.md)
