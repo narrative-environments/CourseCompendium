@@ -58,5 +58,6 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Dasein](Dasein.md)
 * [Dau Project](Dau-Project.md)
 * [Deep Wounds](Deep-Wounds.md)
+* [Defamiliarisation](Defamiliarisation.md)
 
 * [Human actantiality](Human actantiality.md)
