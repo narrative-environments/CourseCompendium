@@ -50,5 +50,6 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Creative Thinking](Creative-Thinking.md)
 * [Critical Theory](Critical-Theory.md)
 * [Critical Thinking](Critical-Thinking.md)
+* [Cultural Studies](Cultural-Studies.md)
 
 * [Human actantiality](Human actantiality.md)
