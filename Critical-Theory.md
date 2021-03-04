@@ -4,11 +4,9 @@ The design of narrative environments requires critical thinking and creative thi
 
 Bohman explains that critical theory in the narrow sense designates several generations of German philosophers and social theorists in the Western European Marxist tradition known as the Frankfurt School. In traditional approaches, Max Horkheimer argues, the general goal of all theory is a universal systematic science, not limited to any particular subject matter but embracing all possible objects. However, for Horkheimer, a ‘critical’ theory may be distinguished from a ‘traditional’ theory on the basis of a specific practical purpose: a theory is critical to the extent that it seeks human emancipation, acts as a liberating influence, and serves to create a world in which human needs and powers are satisfied (Horkheimer, 2002).
 
-
+![Frankfurt School](Frankfurt School.png)
 
 https://www.marxists.org/subject/frankfurt-school/
-
-
 
 As Horkheimer defines it, critical theory never aims simply at an increase of knowledge as such. Rather, critical theory is adequate only if it meets three criteria: it must be explanatory, practical, and normative, at once (Bohman, 2005). Thus, it must explain what is considered to be problematic with current social reality and in what ways it is a problem; identify the actors to address it and change it; and provide both clear norms for criticism and achievable practical goals for social transformation.
 
