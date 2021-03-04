@@ -2,7 +2,7 @@
 
 **RELATED TERMS: Realism; World, World of the Story and World of the Narrative Environment**
 
-[![Dau1]
+![Dau1](Dau1.png)
 
 An interesting question for the narrative environment designer is: to what extent was the _Dau_ project, enacted in 2009-2011, and reiterated in 2019, a narrative environment? It also raises, obliquely, the question of the boundaries between (voluntary) ‘participation’ and ‘subjection’ particularly, as in this case, in a fictional reconstruction of an oppressive regime where the participants enact the subjection in a recursive cycle.
 
@@ -12,7 +12,7 @@ In 2009, Khrzhanovsky built a huge sealed set in the northeastern Ukrainian city
 
 In the process, the constructed environment became less a film set than a parallel world. It functioned as a mini-state, trapped in the period 1938-1968, sealed off from the contemporary world outside it. This world was populated with hundreds participants, some actors, some non-actors, some celebrities, some scientists, who lived as faithfully as possible as Soviet citizens of the time. The obsessive drive for period authenticity went into such details as clothes, hairstyles, food packaging, cigarette brands, and so on. As well was having a spatial existence, time also moved forwards inside Dau’s world. As it passed from 1938 to 1968, the period detail was continually updated (Rose, 2019).<span class="Apple-converted-space"></span>
 
-[![Dau2]
+![Dau2](Dau2.png) 
 
 James Meek (2015) summarises concisely the events of this ‘staged reality’, “For more than two years, between 2009 and 2011, hundreds of volunteers, few of them professional actors, were filmed living, sleeping, eating, gossiping, working, loving, betraying each other and being punished in character, in costume, with nothing by way of a script, on the Kharkiv set, their clothes and possessions altered, fake decade by fake decade, to represent the privileged, cloistered life of the Soviet scientific elite between 1938 and 1968.”
 
@@ -24,7 +24,7 @@ As expressed by, Teodor Currentzis, one of the points of participating in this e
 
 The Dau experiment in Kharkiv ended definitively in November 2011, when Khrzhanovsky ordered the destruction of the Institute. According to a report in Kommersant, the director hired a group of real-life Russian neo-Nazis to storm the set, destroy it and performatively enact a massacre of its staff.
 
-[![Dau3]
+![Dau3](Dau3.png)
 
 From the seven hundred hours of footage shot in Kharkiv of the myriad threads of an ultra-elaborate artistic experiment, editors in London were said to be fashioning a dozen or more movies, a television series, and a user-directed internet narrative system. Finally, in October 2018, the film, _DAU Freiheit_, or _DAU Freedom_, is to be shown to the public for the first time at an art installation in Berlin.
 
