@@ -55,5 +55,6 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Cultural Studies](Cultural-Studies.md)
 * [Customer Experience](Customer-Experience.md)
 * [Daoism - Taoism](Daoism-Taoism.md)
+* [Dasein](Dasein.md)
 
 * [Human actantiality](Human actantiality.md)
