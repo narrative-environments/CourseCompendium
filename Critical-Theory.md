@@ -1,5 +1,7 @@
 ## Critical Theory
 
+**RELATED TERMS: Avant-garde movements; Theoretical practice; Situationist International; Method and methodology; Critical thinking; Arendt**
+
 The design of narrative environments requires critical thinking and creative thinking, but does it need critical theory, in the more narrow sense?
 
 Bohman explains that critical theory in the narrow sense designates several generations of German philosophers and social theorists in the Western European Marxist tradition known as the Frankfurt School. In traditional approaches, Max Horkheimer argues, the general goal of all theory is a universal systematic science, not limited to any particular subject matter but embracing all possible objects. However, for Horkheimer, a ‘critical’ theory may be distinguished from a ‘traditional’ theory on the basis of a specific practical purpose: a theory is critical to the extent that it seeks human emancipation, acts as a liberating influence, and serves to create a world in which human needs and powers are satisfied (Horkheimer, 2002).
