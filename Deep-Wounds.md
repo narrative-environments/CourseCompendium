@@ -4,12 +4,12 @@
 
 Deep Wounds is an interactive installation created by Brian Knep in 2006\. It was commissioned by the Office for the Arts at Harvard University. It uses Harvard’s historic Memorial Hall to explore unfinished healing and reconciliation relating to the American Civil War. the Memorial Hall was built to honor the Harvard graduates who died while fighting for the Union between 1870 and 1878\. Brian Knep noticed that the names of those who died for the Confederacy have been omitted.
 
-
+![Deep Wounds 1](Deep-Wounds-1.png)
 
 Brian Knep Deep Wounds
 
 
-
+![Deep Wounds 2](Deep-Wounds-2.png)
 
 
 Brian Knep Deep Wounds
