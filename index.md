@@ -52,5 +52,6 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Critical Thinking](Critical-Thinking.md)
 * [Cultural Studies](Cultural-Studies.md)
 * [Cultural Geography](Cultural-Geography.md)
+* [CSM Exhibition 2008](CSM-Exhibition-2008.md)
 
 * [Human actantiality](Human actantiality.md)
