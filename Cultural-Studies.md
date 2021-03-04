@@ -4,7 +4,7 @@
 
 For narrative environment design, cultural studies is an important area of research because, like narrative environments, it is inherently interdisciplinary, or perhaps transdisciplinary, and because of its emphasis upon social practices, including spatial practices. There is therefore a lot to learn both from its subject matter, for example, the topics of power, ethnicity and gender, but also the ways in which it seeks to weave together different traditions of thought to come up with novel insights into social practice.
 
-
+![Cultural Studies](Cultural-Studies.png)
 
 Cultural studies is the engaged, self-conscious study of cultures. While cultural studies has drawn upon the ideas of Marxism, feminism, poststructuralism and postmodernism, its discipline base has shifted from literary studies to sociology and ethnography. In addition, its intellectual agenda has also shifted from an interest in popular culture and (mass) media cultural forms to questions of ideology, power, gender and ethnicity. In recent times, its focus has extended to include questions of representation and the formation of cultural identities (Brooker, 2003: viii).
 
