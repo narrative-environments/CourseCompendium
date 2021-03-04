@@ -2,7 +2,7 @@
 
 **RELATED TERMS: Realism; World, World of the Story and World of the Narrative Environment**
 
-![Dau1](Dau1.png)
+![Dau1](Dau1.jpg)
 
 An interesting question for the narrative environment designer is: to what extent was the _Dau_ project, enacted in 2009-2011, and reiterated in 2019, a narrative environment? It also raises, obliquely, the question of the boundaries between (voluntary) ‘participation’ and ‘subjection’ particularly, as in this case, in a fictional reconstruction of an oppressive regime where the participants enact the subjection in a recursive cycle.
 
