@@ -36,7 +36,7 @@ A report on the project by Alina Simone can be heard here: [https://www.youtube.
 
 A review of the Parisian version of the Dau project, which opens in early 2019, can be seen below from the programme _Encore_
 
-<iframe src="https://www.youtube.com/embed/0Bzg5nelgDA?start=45" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+https://www.youtube.com/embed/0Bzg5nelgDA?start=45
 
 **References**
 
