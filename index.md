@@ -47,5 +47,6 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Communal Tea Drinking](Communal-Tea-Drinking.md)
 * [Computer Science](Computer-Science.md)
 * [Connective Innovation](Connective-Innovation.md)
+* [Creative Thinking](Creative-Thinking.md)
 
 * [Human actantiality](Human actantiality.md)
