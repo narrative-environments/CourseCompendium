@@ -45,5 +45,6 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Co-Design](Co-Design.md)
 * [Collecting](Collecting.md)
 * [Communal Tea Drinking](Communal-Tea-Drinking.md)
+* [Computer Science](Computer-Science.md)
 
 * [Human actantiality](Human actantiality.md)
