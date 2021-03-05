@@ -1,6 +1,6 @@
 ## Epistemology
 
-**RELATED TERMS: Ontology; 
+**RELATED TERMS: Ontology; Philosophy**
 
 
 Epistemology or the theory of knowledge is the branch of philosophy that studies the origin, nature, methods, validity, and limits of human knowledge.
