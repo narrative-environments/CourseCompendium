@@ -68,5 +68,6 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Diegese](Diegese.md)
 * [Diegesis](Diegesis.md)
 * [Diegetic levels](Diegetic-Levels.md)
+* [Digital Ethnography](Digital-Ethnography.md)
 
 * [Human actantiality](Human actantiality.md)
