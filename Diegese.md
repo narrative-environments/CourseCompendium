@@ -5,7 +5,7 @@
 
 Rather than the process of story-telling, that is, _diegesis_ contrasted with _mimesis_ in Greek philosophy and poetics, the term ‘The diegesis’, i.e. as the English translation of Gerard Genette's term _diégèse_, is understood, here, as the world of the story in its entirety, including unseen or not presented parts of it, the beliefs and feelings of the characters and the past and future of that world, in short all that belongs consistenly, 'logically' or by processes of 'reasonable implication' or 'inference' to that world.
 
-It is different from mis en scene, i.e. the arrangement of the scenery, props and so on on the stage of a theatrical production or on the set of a film (the pro-filimc events).
+It is different from _mis en scene_, i.e. the arrangement of the scenery, props and so on on the stage of a theatrical production or on the set of a film (the pro-filimc events).
 
 It bears a complex relation with ‘storyworld’, and may or may not be identical to it.
 
