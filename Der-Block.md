@@ -1,5 +1,7 @@
 ## DER BLOCK – this home was once a house
 
+**RELATED TERMS: Audience; Perfomance; Performative**
+
 Contributed by by Lea Nagano
 
 This project is an event involving video, guide tour, performance and a talk/discussion
