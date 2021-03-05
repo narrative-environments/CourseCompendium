@@ -23,7 +23,7 @@ The diegesis is an important concept in narrative environment design because it 
 
 **References**
 
-Genette, G (1980) Voice, in _Narrative Discourse: An Essay in Method_. Cornell University Press, 1980, pp.212-262.
+Genette, G (1980) Voice, in _Narrative Discourse: An Essay in Method_. Ithaca, NY: Cornell University Press, 1980, pp.212-262.
 
 
 
