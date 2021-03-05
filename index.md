@@ -71,5 +71,6 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Digital Ethnography](Digital-Ethnography.md)
 * [Disciplinary Societies and Societies of Control](Disciplinary-Societies.md)
 * [Dissensus - Ranciere](Dissensus.md)
+* [Distribution of the Sensible](Distribution.md)
 
 * [Human actantiality](Human actantiality.md)
