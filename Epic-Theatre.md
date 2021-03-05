@@ -1,4 +1,4 @@
-## Epic theatre (Brecht)
+## Epic theatre - Brecht
 
 **RELATED TERMS: Alienation effect (Verfremdungseffekt); Avant-garde movements; Defamiliarisation, Ostranenie or making strange; Narrative environment design; Tragic theatre - Aristotle; Historical materialism - Marxism; Theatre of Cruelty; Theatre; Audience; Protagonist; Antagonist**
 
