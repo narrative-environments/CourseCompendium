@@ -2,7 +2,7 @@
 
 **RELATED TERMS: Affordances; Apparatus - Dispositif; Body; Biopolitics and Biopower**
 
-!
+![Societies](Societies.png)
 
 A narrative environment could be said to form a kind of territory with its own characteristic laws, rules and regulations, a kind of ‘world’ or ‘universe’. In order to develop a sense of how such narrative environment enclosures might operate, how power is realised and distributed within them and how they, in turn, relate to their environments (i.e. of other narrative environments), it is worth considering the thoughts of Michel Foucault on disciplinary societies and Gilles Deleuze on societies of control.
 
