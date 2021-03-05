@@ -72,5 +72,6 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Disciplinary Societies and Societies of Control](Disciplinary-Societies.md)
 * [Dissensus - Ranciere](Dissensus.md)
 * [Distribution of the Sensible](Distribution.md)
+* [Dramatic Conflict](Dramatic-Conflict.md)
 
 * [Human actantiality](Human actantiality.md)
