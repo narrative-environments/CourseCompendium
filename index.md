@@ -65,5 +65,6 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Design Practice and Functionalism](Design-Practice.md)
 * [Detournement](Detournement.md)
 * [Device to Root Out Evil](Device-to-Root-Out-Evil.md)
+* [Diegese](Diegese.md)
 
 * [Human actantiality](Human actantiality.md)
