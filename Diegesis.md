@@ -20,5 +20,5 @@ In Narrative environment design, the distinction between diegesis and mimesis as
 
 **Notes**
 
-**[1]** For a discussion of these categories, see under “Voice’ in Genette, G. (1980). _Narrative Discourse: An Essay in Method_. Cornell University Press.
+**[1]** For a discussion of these categories, see Genette, G (1980) Voice, in _Narrative Discourse: An Essay in Method_. Ithaca, NY: Cornell University Press, 1980, pp.212-262.
 
