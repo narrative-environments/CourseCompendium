@@ -78,5 +78,6 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Emergence](Emergence.md)
 * [Enlightenment](Enlightenment.md)
 * [Environment](Environment.md)
+* [Epic Theatre](Epic-Theatre.md)
 
 * [Human actantiality](Human actantiality.md)
