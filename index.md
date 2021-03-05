@@ -70,5 +70,6 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Diegetic levels](Diegetic-Levels.md)
 * [Digital Ethnography](Digital-Ethnography.md)
 * [Disciplinary Societies and Societies of Control](Disciplinary-Societies.md)
+* [Dissensus - Ranciere](Dissensus.md)
 
 * [Human actantiality](Human actantiality.md)
