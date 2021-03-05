@@ -61,6 +61,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Defamiliarisation](Defamiliarisation.md)
 * [Der Block](Der-Block.md)
 * [Derive](Derive.md)
+* [Design History](Design-History.md)
 * [Design Practice and Functionalism](Design-Practice.md)
 
 * [Human actantiality](Human actantiality.md)
