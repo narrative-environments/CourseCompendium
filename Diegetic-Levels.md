@@ -13,6 +13,6 @@ Narrative levels are frequently understood to correspond to narrative framing or
 
 **References**
 
-Genette, 
+Genette, G. (1980) Voice, in _Narrative Discourse: An Essay in Method_. Ithaca, NY: Cornell University Press, 1980 
 
 Metz, Christian (c1971, 1974). _Film Language: A Semiotics of the Cinema_. Chicago: Chicago University Press.
