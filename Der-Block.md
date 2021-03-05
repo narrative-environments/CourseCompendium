@@ -14,13 +14,13 @@ First the visitor is shown a documentary film about the building. It spots light
 
 ![Der Block3](Der-Block3.jpg)
 
-![[Der Block4](Der-Block4.jpg)
+![Der Block4](Der-Block4.jpg)
 
 After having watched this film, the audience is divided into two groups that have separate guided tours through the building. The audience now feels, smells and walks through the space, previously perceived by the documentary only. One group is guided by a Japanese woman speaking in Japanese, the other by a Kongo person, talking French, both have a German translator also. The actors tell and create their own narrative of the building to the group. This shows how the building has become the home and landscape of identity for different people. They do this by making multiple connections between their own culture, history, fiction and facts. 
 
 ![Der Block5](Der-Block5.jpg)
 
-![[Der Block6](Der-Block6.jpg)
+![Der Block6](Der-Block6.jpg)
 
 After the guided tour the audience is watching a performance that throws them back to the 60s – the golden age of depreciation and subvention policies in Berlin. It is not a mere performance play. Instead it is interrupted by the audience being actively engaged into a conversation and discussion about critique of the privatisation and other housing issues in Berlin. Still there are situations when there is the traditional way of theatre performance. The actors tell personal stories of characters that really existed.
 
