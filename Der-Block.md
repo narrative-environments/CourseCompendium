@@ -8,7 +8,7 @@ The ‘Zentrum Kreuzberg’ at Kottbusser Tor in Berlin is a publicly debated re
 
 ![Der Block1](Der-Block1.jpg)
 
-![[Der Block2](Der-Block2.jpg)
+![Der Block2](Der-Block2.jpg)
 
 First the visitor is shown a documentary film about the building. It spots light from different perspectives with real and fictive interviews, of which the audience is not aware of. The film tells about memories, statements and insights of the building and of the city. 
 
