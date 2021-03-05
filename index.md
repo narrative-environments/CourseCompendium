@@ -60,5 +60,6 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Deep Wounds](Deep-Wounds.md)
 * [Defamiliarisation](Defamiliarisation.md)
 * [Der Block](Der-Block.md)
+* [Derive](Derive.md)
 
 * [Human actantiality](Human actantiality.md)
