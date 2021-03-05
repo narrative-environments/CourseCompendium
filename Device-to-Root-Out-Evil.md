@@ -2,7 +2,7 @@
 
 
 
-!
+![Device](Device.png)
 
 This piece of artwork by American sculptor Dennis Oppenheim, entitled _Device to Root Out Evil,_ now stands as an upside-down church in Glenbrow, Canada. It was formerly displayed in Vancouver, but controversy over it blocking the ocean view of where it stood caused it to be moved.
 
