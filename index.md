@@ -59,5 +59,6 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Dau Project](Dau-Project.md)
 * [Deep Wounds](Deep-Wounds.md)
 * [Defamiliarisation](Defamiliarisation.md)
+* [Der Block](Der-Block.md)
 
 * [Human actantiality](Human actantiality.md)
