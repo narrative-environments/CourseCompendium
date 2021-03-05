@@ -67,5 +67,6 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Device to Root Out Evil](Device-to-Root-Out-Evil.md)
 * [Diegese](Diegese.md)
 * [Diegesis](Diegesis.md)
+* [Diegetic levels](Diegetic-Levels.md)
 
 * [Human actantiality](Human actantiality.md)
