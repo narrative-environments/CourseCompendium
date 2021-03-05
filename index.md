@@ -74,5 +74,6 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Distribution of the Sensible](Distribution.md)
 * [Dramatic Conflict](Dramatic-Conflict.md)
 * [Ecology](Ecology.md)
+* [Economy](Economy.md)
 
 * [Human actantiality](Human actantiality.md)
