@@ -75,5 +75,6 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Dramatic Conflict](Dramatic-Conflict.md)
 * [Ecology](Ecology.md)
 * [Economy](Economy.md)
+* [Emergence](Emergence.md)
 
 * [Human actantiality](Human actantiality.md)
