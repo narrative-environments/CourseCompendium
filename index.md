@@ -82,5 +82,6 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Epistemology](Epistemology.md)
 * [Ergodic](Ergodic.md)
 * [Ethnography](Ethnography.md)
+* [Ethnomethodology](Ethnomethodology.md)
 
 * [Human actantiality](Human actantiality.md)
