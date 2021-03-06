@@ -2,7 +2,7 @@
 
 RELATED TERMS: Dasein; Lifeworld, Lebenswelt, Umwelt; Modernism; Feminism - Material feminism; ; Xu Zhen Supermarket; Heidegger; Lefebvre
 
-!
+![Everyday](Everyday.md)
 
 the everyday – le quotidien – Alltaglich
 
