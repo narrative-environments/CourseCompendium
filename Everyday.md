@@ -1,6 +1,6 @@
 ## Everyday
 
-RELATED TERMS: Dasein; Lifeworld, Lebenswelt, Umwelt; Modernism; Feminism - Material feminism; ; Xu Zhen Supermarket; Heidegger; Lefebvre
+**RELATED TERMS: Dasein; Lifeworld, Lebenswelt, Umwelt; Modernism; Feminism - Material feminism; ; Xu Zhen Supermarket; Heidegger; Lefebvre**
 
 ![Everyday](Everyday.jpg)
 
