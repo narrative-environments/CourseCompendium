@@ -84,5 +84,6 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Ethnography](Ethnography.md)
 * [Ethnomethodology](Ethnomethodology.md)
 * [Exhibition Design](Exhibition-Design.md)
+* [Experience Design](Experience-Design.md)
 
 * [Human actantiality](Human actantiality.md)
