@@ -1,6 +1,6 @@
 ## Feminism - Material feminism
 
-**RELATED TERMS: Everyday; Critical Thinking; New Materialism**
+**RELATED TERMS: Everyday; New Materialism; Cultural Studies; Postmodernism; Narrative environment design; Method and methodology; Feminist avant-garde art practice; Historical materialism - Marxism; Critical thinking; Phenomenology**
 
 Spatial practices, and not only in Western countries, are radically gendered. Feminist analyses, particularly those that emphasise the performative character of gender ‘identity’ as processes of identification, which focus on material conditions of living and which bring to attention the significance of practices of the body in the constitution of spatiality, are therefore of great value in narrative environment design.
 
