@@ -1,6 +1,8 @@
 ## Floating Numbers at the Jewish Museum Berlin 
 
-RELATED TERMS: 
+**RELATED TERMS: Architecture; Framing Narrative; Diegetic Levels; Metanarrative; Interaction Design**
+
+Contributed by Stuart Jones
 
 Floating Numbers at the Jewish Museum Berlin constitutes a set of nesting narratives. 
 
