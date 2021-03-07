@@ -88,6 +88,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Extradiegetic](Extradiegetic.md)
 * [Feminism](Feminism.md)
 * [Feminist avant-garde art practices](Feminist-Avant-Garde.md)
+* [Fetishism - Commodity Fetishism](Fetishism.md)
 
 * [Gallery Design](Gallery-Design.md)
 
