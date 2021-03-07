@@ -9,3 +9,5 @@ As an emerging professional discipline, Bayer notes that the task of exhibition 
 **References**
 
 Bayer, H (1961) Aspects of Design of Exhibitions and Museums. _Curator_, 4 (3), p.257-288.  https://doi.org/10.1111/j.2151-6952.1961.tb01561.x
+
+Hughes, P. (2010) _Exhibition Design_. London: Laurence King Publishers.
