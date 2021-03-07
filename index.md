@@ -87,7 +87,8 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Experience Design](Experience-Design.md)
 * [Extradiegetic](Extradiegetic.md)
 * [Feminism](Feminism.md)
-* 
+* [Feminist avant-garde art practices](Feminist-Avant-Garde.md)
+
 * [Gallery Design](Gallery-Design.md)
 
 * [Human actantiality](Human actantiality.md)
