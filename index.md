@@ -85,7 +85,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Ethnomethodology](Ethnomethodology.md)
 * [Exhibition Design](Exhibition-Design.md)
 * [Experience Design](Experience-Design.md)
-* [Extradiegetic](Extradigetic.md)
+* [Extradiegetic](Extradiegetic.md)
 * 
 * [Gallery Design](Gallery-Design.md)
 
