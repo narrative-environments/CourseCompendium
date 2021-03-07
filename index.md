@@ -83,5 +83,6 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Ergodic](Ergodic.md)
 * [Ethnography](Ethnography.md)
 * [Ethnomethodology](Ethnomethodology.md)
+* [Exhibition Design](Exhibition-Design.md)
 
 * [Human actantiality](Human actantiality.md)
