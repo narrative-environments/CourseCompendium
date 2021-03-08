@@ -92,7 +92,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Floating Numbers at the Jewish Museum Berlin](Floating-Numbers.md)
 * [Focalisation](Focalisation.md)
 * [Framing Narrative](Framing-Narrative.md)
-
 * [Gallery Design](Gallery-Design.md)
+* [Games of Nonchalance](Games-of-Nonchalance.md)
 
 * [Human actantiality](Human actantiality.md)
