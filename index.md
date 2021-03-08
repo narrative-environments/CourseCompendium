@@ -101,5 +101,6 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Graphic Design](Graphic-Design.md)
 * [Group Exhibitions](Group-Exhibitions.md)
 * [Habitat](Habitat.md)
+* [Hairyland](Hairyland.md)
 
 * [Human actantiality](Human actantiality.md)
