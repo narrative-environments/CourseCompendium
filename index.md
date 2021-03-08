@@ -97,5 +97,6 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Genealogy - Nietzsche](Genealogy-Nietzsche.md)
 * [Genre](Genre.md)
 * [Geography](Geography.md)
+* [Gilbery Bayes](Gilbert-Bayes.md)
 
 * [Human actantiality](Human actantiality.md)
