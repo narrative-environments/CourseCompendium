@@ -103,5 +103,6 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Habitat](Habitat.md)
 * [Hairyland](Hairyland.md)
 * [Haus der Berge](Haus-der-Berge.md)
+* [Heidegger](Heidegger.md)
 
 * [Human actantiality](Human actantiality.md)
