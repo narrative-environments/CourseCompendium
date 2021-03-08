@@ -98,5 +98,6 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Genre](Genre.md)
 * [Geography](Geography.md)
 * [Gilbert Bayes](Gilbert-Bayes.md)
+* [Graphic Design](Graphic-Design.md)
 
 * [Human actantiality](Human actantiality.md)
