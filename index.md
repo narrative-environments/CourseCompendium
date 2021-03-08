@@ -100,5 +100,6 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Gilbert Bayes](Gilbert-Bayes.md)
 * [Graphic Design](Graphic-Design.md)
 * [Group Exhibitions](Group-Exhibitions.md)
+* [Habitat](Habitat.md)
 
 * [Human actantiality](Human actantiality.md)
