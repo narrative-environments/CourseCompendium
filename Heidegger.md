@@ -2,7 +2,7 @@
 
 **RELATED TERMS: Arendt; Sloterdijk; Lefebvre; Present-at-hand (Vorhanden) and Ready-to-hand (Zuhanden); Everyday; Philosophy**
 
-![Heidegger1](Heidegger1.jpg)
+![Heidegger1](Heidegger1.png)
 
 
 The work of Martin Heidegger (1889–1976) is of great relevance to the design and analysis of narrative environments because it deals with spatio-temporal ways of being in the world and contains concepts such as Dasein (ex-sistence), present-at-hand and ready-to-hand, which might be of value in design contexts, so long as they are not uncritically appropriated.
@@ -21,7 +21,7 @@ In his thinking from the mid- to late-1930s, Heidegger shifts towards a new, his
 
 It was such an appropriating event that Heidegger had been hoping to find in the National Socialist revolution. Nevertheless, in _Contributions to Philosophy_, a text written in the mid-1930s but not published until after his death, Heidegger submits the typical Nazi worldview to strong criticism, insisting that a Volk is never an end in itself. From this point onwards, Heidegger begins to look less towards politics and more toward poetry, specifically that of Holderlin, in order to consider new ways for the Germans to seek themselves. Heidegger’s late writings move even further from the domains of wilful action and power, emphasising the need for patience.
 
-![Heidegger2](Heidegger2.jpg)
+![Heidegger2](Heidegger2.png)
 
 In the speeches, lecture courses and seminars from his year as rector of the University of Freiburg in 1933-1934, Heidegger speaks as an enthusiast of National Socialism. By the time of writing _Introduction to Metaphysics_ in 1935, his enthusiasm is waning and he has become engaged in an internal critique of National Socialism, in an effort to be more radically revolutionary than the Nazi revolution itself. Fried and Polt (2014: xviii) suggest that the question of whether Heidegger is a Nazi in _Introduction to Metaphysics_, because he surely is, is less interesting than the question of what it means to be a Nazi, a question which Heidegger raises in that text, as well as broader questions about what it means to be German, to be Western and to be human.
 
