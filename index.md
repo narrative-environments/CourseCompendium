@@ -94,5 +94,6 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Framing Narrative](Framing-Narrative.md)
 * [Gallery Design](Gallery-Design.md)
 * [Games of Nonchalance](Games-of-Nonchalance.md)
+* [Genealogy - Nietzsche](Genealogy-Nietzsche.md)
 
 * [Human actantiality](Human actantiality.md)
