@@ -104,5 +104,6 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Hairyland](Hairyland.md)
 * [Haus der Berge](Haus-der-Berge.md)
 * [Heidegger](Heidegger.md)
+* [Henriques Oliviera](Henriques-Oliviera.md)
 
 * [Human actantiality](Human actantiality.md)
