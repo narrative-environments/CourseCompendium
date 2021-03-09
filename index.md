@@ -105,5 +105,6 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Haus der Berge](Haus-der-Berge.md)
 * [Heidegger](Heidegger.md)
 * [Henriques Oliviera](Henriques-Oliviera.md)
+* [Hero](Hero.md)
 
 * [Human actantiality](Human actantiality.md)
