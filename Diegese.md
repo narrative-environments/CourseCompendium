@@ -9,6 +9,11 @@ It is different from _mis en scene_, i.e. the arrangement of the scenery, props 
 
 It bears a complex relation with ‘storyworld’, and may or may not be identical to it.
 
+Bob Rehak (2003, 124, n3) notes that,
+
+"Diegesis, from the Greek term for “recounted story,” is conventionally employed in film theory to refer to the “total world ofthe story action” (David Bordwell and Kristin Thompson, Film Art, 6th ed., New York: McGraw-Hill, 2001, 61). I use it here to designate the narrative-strategic space of any given video game — a virtual environment determined by unique rules, limits, goals, and “history,” and additionally designed for the staging and display of agency and identity."
+
+
 
 Stuart Jones writes:
 
@@ -24,6 +29,8 @@ The diegesis is an important concept in narrative environment design because it 
 **References**
 
 Genette, G (1980) Voice, in _Narrative Discourse: An Essay in Method_. Ithaca, NY: Cornell University Press, 1980, pp.212-262.
+
+Rehak, B. (2003) ‘Playing at being: psychoanalysis and the avatar’, in Wolf, M. J. P. and Perron, B. (eds) The Video game theory reader. New York, NY: Routledge, pp. 103–127.
 
 
 
