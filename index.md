@@ -112,6 +112,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Human Actantiality](Human-Actantiality.md)
 * [Human Ecosystem](Human-Ecosystem.md)
 * [Humanism](Humanism.md)
+* [Implict Narrative](Implicit-Narrative.md)
 
 * [Metalepsis](Metalepsis.md)
 
