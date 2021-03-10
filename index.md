@@ -108,3 +108,5 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Hero](Hero.md)
 
 * [Human actantiality](Human actantiality.md)
+
+* [Theoretical Practice](Theoretical-Practice.md)
