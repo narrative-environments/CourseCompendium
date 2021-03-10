@@ -114,6 +114,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Humanism](Humanism.md)
 * [Implict Narrative](Implicit-Narrative.md)
 * [In Medias Res](In-Medias-Res.md)
+* [Information Science](Information-Science.md)
 
 * [Metalepsis](Metalepsis.md)
 
