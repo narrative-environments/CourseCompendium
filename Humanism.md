@@ -1,6 +1,6 @@
 ## Humanism
 
-**RELATED TERMS: Enlightenment; Post-Humanism; Posthuman**
+**RELATED TERMS: Enlightenment; Posthumanism; Posthuman; Postanthropocentrism; Realism; Modernity**
 
 Michel Foucault argues that the term humanism should not be confused with that of Enlightenment. The importance of grasping the notions of humanism and Enlightenment for narrative environment design is that it bears directly upon how the domain of humanity and the human is understood in the design process and in the created narrative environments, i.e. how is human actantiality and potentiality understood in the ways the narrative environment works.
 
