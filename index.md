@@ -1,6 +1,6 @@
 Hello! Welcome to the Narrative Environments Course Compendium!
 
-The design of narrative environments lies at the intersection of design as social practice taking place within, while re-shaping, public space; design as a commercial practice taking place within, while re-shaping, global and local marketplaces; design as a spatial practice taking place within, while re-shaping, the natural and urban environments; and design as an academic discipline, taking place within, while re-shaping, the interdisciplinarity of the university. 
+The design of narrative environments lies at the intersection of design as social practice taking place within, while re-shaping, public space; design as commercial practice taking place within, while re-shaping, global and local marketplaces; design as spatial practice taking place within, while re-shaping, natural, urban and digital environments; and design as academic discipline, taking place within, while re-shaping, the interdisciplinarity of the university. It is this conjuntion which establishes it a a form of public education.
 
 The design of narrative environments also lies at the intersection of the actual and the virtual, so is well positioned to incorporate explorations of the changing terrains emerging from the increasing ubiquity of digital technologies that continue to shift perceptions of the boundaries among the real, the artificial and the natural, a condition that requires not just (critical) reflection but also heightened awareness of the outcomes of reflexive action and interaction.
 
