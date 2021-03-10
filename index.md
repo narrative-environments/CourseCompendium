@@ -110,4 +110,6 @@ This is a work in progress. So far, the entries we have are as follows:
 
 * [Human actantiality](Human actantiality.md)
 
+* [Metalepsis](Metalepsis.md)
+
 * [Theoretical Practice](Theoretical-Practice.md)
