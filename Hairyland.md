@@ -14,3 +14,6 @@ When he is narrating he is usually protagonist (as Hairy); if I am narrating a s
 
 As a theory proposition, I would suggest that young children are almost always in the intradiegetic narratee position, and would propose that moving into the extradiegetic narratee position is part of ‘growing up’. I would also propose that this underpins a potential power of narrative environments, especially if they incorporate interaction: they typically move the narratee into the intradiegetic position, which puts them into a ‘child’ state.
 
+Reference
+
+Jones, S. (2010) Louis, Mr Dog and Rabbit: metalepsis in an interactive narrative. In: R. Aylett et al. (Eds.): ICIDS 2010, LNCS 6432. Berlin: Springer-Verlag, pp.248-251. Available at http://www.stuartjones-wawamoz.com/essays/Louis-Mr-Dog-and-Rabbit.html [Accessed 10 March 2021]
