@@ -113,6 +113,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Human Ecosystem](Human-Ecosystem.md)
 * [Humanism](Humanism.md)
 * [Implict Narrative](Implicit-Narrative.md)
+* [In Medias Res](In-Medias-Res.md)
 
 * [Metalepsis](Metalepsis.md)
 
