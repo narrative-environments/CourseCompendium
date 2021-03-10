@@ -2,7 +2,7 @@
 
 RELATED TERMS: 
 
-Hidden Love Songs was created by Arlete Costelo and Melissa Mongiat, while students on the MA Narrative environments course, Central Saint Martins. The 20-metre installation helped to brighten the area around the Royal Festival Hall during building works. The hidden love messages were gradually revealed in the lead up to St Valentine’s Day [Date]
+Hidden Love Songs was created by Arlete Costelo and Melissa Mongiat, while students on the MA Narrative environments course, Central Saint Martins. The 20-metre installation helped to brighten the area around the Royal Festival Hall during building works in 2006. The hidden love messages were gradually revealed in the lead up to St Valentine’s Day.
 
 
 Commuters on a busy walkway alongside the Royal Festival Hall will be able to read love messages whilst they are serenaded by Mark-Anthony Turnage’s latest composition.
