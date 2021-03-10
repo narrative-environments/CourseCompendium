@@ -107,6 +107,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Heidegger](Heidegger.md)
 * [Henriques Oliviera](Henriques-Oliviera.md)
 * [Hero](Hero.md)
+* [Historical Materialism - Marxism](Historical-Materialism.md)
 
 * [Human actantiality](Human actantiality.md)
 
