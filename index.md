@@ -111,6 +111,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Historicism](Historicism.md)
 * [Human actantiality](Human actantiality.md)
 * [Human Ecosystem](Human-Ecosystem.md)
+* [Humanism](Humanism.md)
 
 * [Metalepsis](Metalepsis.md)
 
