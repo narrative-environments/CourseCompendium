@@ -1,6 +1,6 @@
 ## Interaction Design
 
-RELATED TERMS: 
+**RELATED TERMS: **
 
 Nathan Shedroff (2000) contends that interaction design is essentially story-creating and telling. It is, therefore, both an ancient art and a new technology. This is because, while media have always effected the telling of stories and the creation of experiences, currently new media offer capabilities and opportunities not yet addressed in the history of interaction and performance. Shedroff notes that, "the emphasis in interaction design is on the creation of compelling experiences." This is a characteristic emphasis in the design of narrative environments also.
 
@@ -12,11 +12,11 @@ For examples of such participation, see the work of Usman Haque, particularly [O
 
 In interaction design in the context of human-computer, human-machine or human-technology interaction, the interaction is a two-way exchange which may be person-to-person, machine-to-machine or person-to-machine. It is typified by this mutual responsivity but also by being characterisable as a sequence of discrete exchanges.
 
-*References*
+**References**
 
 Shedroff, N. (2000) ‘Information interaction design: a unified field theory of design’, in Jacobson, B. (ed.) _Interaction design_. Cambridge, MA: MIT Press, pp. 267–292. 
 
-*Other Resources*
+**Other Resources**
 
 Dag Svanaes, Philosophy of Interaction. In _The Encyclopedia of Human-Computer Interaction_, 2nd Ed. Available at https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/philosophy-of-interaction
 
