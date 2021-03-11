@@ -14,9 +14,11 @@ The ‘ideal’ audience, given this multi-layered citationality, is one endowed
 
 In popular culture, intertextuality refers to the incorporation of meanings of one text within another in a reflexive fashion. For example, the television show _The Simpsons_ includes references to films, other television shows, and celebrities. These intertextual references assume that the viewer know the people and cultural products being referenced. 
 
-References
+**References**
 
 Elam, K. (1980) _The Semiotics of theatre and drama_. London, UK: Routledge.
+
+Kristeva, J. (1970) _Le Texte du roman: approche sémiologique d’une structure discursive transformationelle_. The Hague: Mouton.
 
 Said, E. (2003) _Orientalism_. London, UK: Penguin Books.
 
