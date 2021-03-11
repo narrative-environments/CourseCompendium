@@ -2,7 +2,7 @@
 
 **RELATED TERMS: **
 
-![Lefebvre](Lefebvre.png]
+![Lefebvre](Lefebvre.png)
 
 Henri Lefebvre is one of the core writers, along with Michel de Certeau, for examining, understanding and deploying social, spatial and environmental practices in a narrative environment. Lefebvre distinguished between three spatial spheres: the ‘perceived space’ of everyday social life; the ‘conceived space’ of planners and speculators; and the sphere of ‘lived space’, as part of lived experience.
 
