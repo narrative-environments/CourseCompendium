@@ -6,9 +6,11 @@ Nathan Shedroff (2000) contends that interaction design is essentially story-cre
 
 It is the character of the interaction which determines the kind of agency an inter-actant can have within the framed experience. In the design of narrative environments the term actant is used for the participant, while the overall interaction creates a field of actantiality or potential agency, but agency which is of a networked, distributed or systemic kind. The participant-actant has limited capacity to control, shape or direct the interaction.
 
-Participant, or particioant-actant, is a term which extends beyond the usual understanding of the ‘user’ of a design. It posits an active involvement of participants in the generation of the work, at a profound level, through interaction with, arrangement of, or even production of, its elements.
+Participant, or participant-actant, is a term which extends beyond the usual understanding of the ‘user’ of a design. It posits an active involvement of participants in the generation of the work, at a profound level, through interaction with, arrangement of, or even production of, its elements.
 
 For examples of such participation, see the work of Usman Haque, particularly [Open Source Architecture](http://www.haque.co.uk/opensourcearchitecture.php) and [Reconfigurable House](http://www.haque.co.uk/reconfigurablehouse.php)
+
+In interaction design in the context of human-computer, human-machine or human-technology interaction, the interaction is a two-way exchange which may be person-to-person, machine-to-machine or person-to-machine. It is typified by this mutual responsivity but also by being characterisable as a sequence of discrete exchanges.
 
 *References*
 
