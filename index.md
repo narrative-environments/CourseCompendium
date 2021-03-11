@@ -122,4 +122,6 @@ This is a work in progress. So far, the entries we have are as follows:
 
 * [Metalepsis](Metalepsis.md)
 
+* [Sensory Design](Sensory-Design.md)
+
 * [Theoretical Practice](Theoretical-Practice.md)
