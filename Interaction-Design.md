@@ -2,7 +2,7 @@
 
 RELATED TERMS: 
 
-Nathan Shedroff (2000) contends that interaction design is essentially story-creating and telling. It is, therefore, both an ancient art and a new technology. This is because, while media have always effected the telling of stories and the creation of experiences, currently new media offer capabilities and opportunities not yet addressed in the history of interaction and performance. 
+Nathan Shedroff (2000) contends that interaction design is essentially story-creating and telling. It is, therefore, both an ancient art and a new technology. This is because, while media have always effected the telling of stories and the creation of experiences, currently new media offer capabilities and opportunities not yet addressed in the history of interaction and performance. Shedroff notes that, "the emphasis in interaction design is on the creation of compelling experiences." This is a characteristic emphasis in the design of narrative environments also.
 
 It is the character of the interaction which determines the kind of agency an inter-actant can have within the framed experience. In the design of narrative environments the term actant is used for the participant, while the overall interaction creates a field of actantiality or potential agency, but agency which is of a networked, distributed or systemic kind. The participant-actant has limited capacity to control, shape or direct the interaction.
 
