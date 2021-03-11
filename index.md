@@ -122,6 +122,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Interior Design](Interior-Design.md)
 * [Interpretive Design](Interpretive-Design.md)
 * [Intertextuality](Intertextuality.md)
+* [Intradiegetic](Intradiegetic.md)
 
 * [Metalepsis](Metalepsis.md)
 
