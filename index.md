@@ -116,6 +116,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [In Medias Res](In-Medias-Res.md)
 * [Information Science](Information-Science.md)
 * [Installation Art](Installation-Art.md)
+* [Intentionality](Intentionality.md)
 
 * [Metalepsis](Metalepsis.md)
 
