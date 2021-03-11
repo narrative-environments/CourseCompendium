@@ -123,6 +123,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Interpretive Design](Interpretive-Design.md)
 * [Intertextuality](Intertextuality.md)
 * [Intradiegetic](Intradiegetic.md)
+* [Land Art](Land-Art.md)
 
 * [Metalepsis](Metalepsis.md)
 
