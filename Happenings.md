@@ -14,4 +14,4 @@ Kaprow, A. (2014) ‘Assemblages, environments and happenings’, in Brayshaw, T
 
 Kirby, Michael, ed, (1965) _Happenings_. New York: Dutton.
 
-Tate, Arts Terms, 
+Tate, Arts Terms, https://www.tate.org.uk/art/art-terms/h/happening
