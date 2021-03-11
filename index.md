@@ -117,6 +117,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Information Science](Information-Science.md)
 * [Installation Art](Installation-Art.md)
 * [Intentionality](Intentionality.md)
+* [Interaction](Interaction.md)
 
 * [Metalepsis](Metalepsis.md)
 
