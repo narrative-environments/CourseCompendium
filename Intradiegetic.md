@@ -2,7 +2,7 @@
 
 **RELATED TERMS: Extradiegetic; Narratology; Metalepsis**
 
-The term intradiegetic refers to being inside the world of the story.
+The term intradiegetic refers to being inside the world of the story. According to Macrae, interpreting Genette, in the context of literary fiction, the simplest ontological structure has three levels: the level of the story (the diegesis), at which the characters exist; the level of the narration (the extradiegesis), at which the narrator exists, for example, through third-person narration; and the level of the real, at which the reader and author exist. In contrast to the reality of the world in which the book is authored and read, the diegesis and the extradiegesis are both fictional. In this schema, the intradiegetic refers to the level of the diegesis.
 
 
 ## Intradiegetic in Narrative environment design
