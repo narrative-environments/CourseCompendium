@@ -119,6 +119,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Intentionality](Intentionality.md)
 * [Interaction](Interaction.md)
 * [Interaction Design](Interaction-Design.md)
+* [Interior Design](Interior-Design.md)
 
 * [Metalepsis](Metalepsis.md)
 
