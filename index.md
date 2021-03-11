@@ -125,3 +125,5 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Sensory Design](Sensory-Design.md)
 
 * [Theoretical Practice](Theoretical-Practice.md)
+
+* [User Experience](User-Experience.md)
