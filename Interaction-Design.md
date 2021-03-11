@@ -14,7 +14,7 @@ In interaction design in the context of human-computer, human-machine or human-t
 
 *References*
 
-Nathan Shedroff: Information Interaction Design: A Unified Field Theory of Design. In: Information Design, Bob Jacobson. Cambridge, MA: MIT Press 2000
+Nathan Shedroff (2000) Information Interaction Design: A Unified Field Theory of Design. In: B. Jacobson, ed., _Information Design_. Cambridge, MA: MIT Press.
 
 *Other Resources*
 
