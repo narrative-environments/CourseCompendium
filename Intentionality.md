@@ -12,8 +12,6 @@ In graphic design, intentionality is often discussed in philosophical terms, esp
 
 In philosophy, intentionality is related to mental states such as remembering, believing, knowing or experiencing as well as to the concept of free will.
 
-‘Visual Research’ – by Ian Nobel and Russell Bestley
-
 In phenomenology, intentionality is taken to mean that ideas are directed toward an object, with the suggestion that all conscious states are characterised by such 'directedness' or ‘aboutness'. Thus,
 
 "One of the core theses of phenomenology is the claim that all consciousness is consciousness of an other-than-consciousness. Consciousness simply is this aiming at or intending an object. This is Husserl’s famous thesis of intentionality as the defining characteristic of the mental." (Flynn, 2006)
@@ -21,4 +19,6 @@ In phenomenology, intentionality is taken to mean that ideas are directed toward
 **References**
 
 Flynn, T. R. (2006). Jean-Paul Sartre. In Borchert, D. M. (ed.) _Encyclopedia of philosophy. Volume 8: Price - Sextus_. 2nd edn. Detroit, MI: Macmillan Reference USA, pp.603-612
+
+‘Visual Research’ – by Ian Nobel and Russell Bestley
 
