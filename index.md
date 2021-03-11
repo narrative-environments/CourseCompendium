@@ -128,6 +128,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Intertextuality](Intertextuality.md)
 * [Intradiegetic](Intradiegetic.md)
 * [Land Art](Land-Art.md)
+* [Latour](Latour.md)
 
 * [Metalepsis](Metalepsis.md)
 
