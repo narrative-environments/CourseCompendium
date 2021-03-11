@@ -121,6 +121,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Interaction Design](Interaction-Design.md)
 * [Interior Design](Interior-Design.md)
 * [Interpretive Design](Interpretive-Design.md)
+* [Intertextuality](Intertextuality.md)
 
 * [Metalepsis](Metalepsis.md)
 
