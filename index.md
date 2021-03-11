@@ -13,7 +13,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Affordances](Affordances.md)
 * [Agency](Agency.md)
 * [Agon](Agon.md)
-* [Agonism and Avant-Gardism](Agonism-and Avant-Gardism.md)
+* [Agonism and Avant-Gardism](Agonism-and-Avant-Gardism.md)
 * [Agonistic Politics - Mouffe](Agonistic-Politics-Mouffe.md)
 * [Ai Weiwei Exhibition](Ai-Weiwei-Exhibition.md)
 * [Aleatory](Aleatory.md)
