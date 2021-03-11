@@ -79,6 +79,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Emergence](Emergence.md)
 * [Enlightenment](Enlightenment.md)
 * [Environment](Environment.md)
+* [Environmental Art](Environmental-Art.md)
 * [Epic Theatre](Epic-Theatre.md)
 * [Epistemology](Epistemology.md)
 * [Ergodic](Ergodic.md)
