@@ -46,6 +46,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Collecting](Collecting.md)
 * [Communal Tea Drinking](Communal-Tea-Drinking.md)
 * [Computer Science](Computer-Science.md)
+* [Conceptual Art](Conceptual-Art.md)
 * [Connective Innovation](Connective-Innovation.md)
 * [Creative Thinking](Creative-Thinking.md)
 * [Critical Theory](Critical-Theory.md)
