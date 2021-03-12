@@ -134,6 +134,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Leitmotif](Leitmotif.md)
 * [Lifeworld - Lebenswelt - Umwelt](Lifeworld.md)
 * [Liminal Spaces](Liminal-Spaces.md)
+* [Literary Theory](Literary-Theory.md)
 
 * [Metalepsis](Metalepsis.md)
 
