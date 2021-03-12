@@ -1,6 +1,6 @@
 ## Method and Methodology
 
-RELATED TERMS: 
+**RELATED TERMS: Avant-garde movements; Critical Theory; Cultural Studies; Feminism - Material feminism; Multimodal research; Postmodernism; Poststructuralism; Psychogeography; Research methodologies; Theoretical practice; Historical materialism - Marxism; Critical thinking; Ethnomethodology; Affordances; Dissensus - Ranciere; Storyworld**
 
 In conducting research, a methodology guides the orientation of the research and frames the research question. Once these are decided, specific research methods are selected which generate the evidence (or the material outputs of practice in the case of practice-based research) to address the research question.
 
