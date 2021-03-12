@@ -148,6 +148,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Modernism](Modernism.md)
 * [Modernism and Avant-Garde Art Practice](Modernism-and-Avant-Garde-Practices.md)
 * [Modernity](Modernity.md)
+* [Modernity and Coloniality](Modernity-and-Coloniality.md)
 
 * [Sensory Design](Sensory-Design.md)
 
