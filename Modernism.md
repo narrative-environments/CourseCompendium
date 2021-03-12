@@ -1,6 +1,6 @@
 ## Modernism
 
-RELATED TERMS: 
+**RELATED TERMS: Avant-garde movements; Design History; Postmodernism; Utopia and Utopian thinking; Design practice and functionalism; Defamiliarisation, Ostranenie or making strange; Modernity; Dasein; Everyday**
 
 For Protevi (1999), modernism is a 1920s to 1950s phenomenon in literature and the arts, and includes the work of Joyce, Eliot, Pound, Schoenberg, Corbusier, Mies van der Rohe, and others.
 
