@@ -144,6 +144,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Metre](Metre.md)
 * [Military Cemeteries](Military-Cemeteries.md)
 * [Mind Your Head Installation](Mind-Your-Head.md)
+* [Mode and Medium](Mode-and-Medium.md)
 
 * [Sensory Design](Sensory-Design.md)
 
