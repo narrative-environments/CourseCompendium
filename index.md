@@ -135,6 +135,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Lifeworld - Lebenswelt - Umwelt](Lifeworld.md)
 * [Liminal Spaces](Liminal-Spaces.md)
 * [Literary Theory](Literary-Theory.md)
+* [Marketing](Marketing.md)
 
 * [Metalepsis](Metalepsis.md)
 
