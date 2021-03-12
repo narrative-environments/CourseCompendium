@@ -2,7 +2,7 @@
 
 RELATED TERMS: 
 
-!
+![Mmuseumm](Mmuseumm.png)
 
 Mmuseumm 2 is a storefront-window exhibition space in TriBeCa, New York City. In the tiny museum, the artist Maira Kalman has painstakingly re-created the closet of her mother, Sara Berman. The accessories that were once neatly arranged in Berman’s West Village apartment, along with such mementos as her perfume and her box grater, are now displayed behind a pane of glass, like a diorama of urban life. The 5-foot-by-4-foot Mmuseumm 2 is smaller than Sara Berman’s actual closet.
 
