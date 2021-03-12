@@ -2,7 +2,7 @@
 
 **RELATED TERMS: Diegesis; **
 
-The terms 'mimesis' and 'diegesis' have a long and complicated history since their use in Plato's _Republic_, as Halliwell (2015) explains. In simple terms, mimesis might be said to be communication of something by imitation or representation, that is, by 'showing' or 'demonstrating' 'first-hand', while diegesis refers to communication of something by narration or report, that is, by providing a 'second-hand' account.
+The terms 'mimesis' and 'diegesis' have a long and complicated history since their use in Plato's _Republic_, as Halliwell (2015) explains. In simple terms, mimesis might be said to be communication of something by imitation or representation, that is, by 'showing' or 'demonstrating' something 'first-hand', while diegesis refers to communication of something by narration or report, that is, by providing a 'second-hand' account.
 
 In the context of the design of narrative environments, the terms are rendered even more complex by the presence or supplementation of mimetic demonstration or diegetic account by the 'real' to which they are demonstrations or accounts, in which the entity 'stands for' itself as an existent, as well as being in mimetic and diegtic relation to itself. In this case, one could argue that what one has, as much as any simple mimesis or diegesis, is 'mimesis through diegesis' and 'diegesis through mimesis'.
 
