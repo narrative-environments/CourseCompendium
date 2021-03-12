@@ -141,6 +141,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Metalepsis](Metalepsis.md)
 * [Metanarrative](Metanarrative.md)
 * [Methodology and Method](Methodology.md)
+* [Metre](Metre.md)
 
 * [Sensory Design](Sensory-Design.md)
 
