@@ -152,6 +152,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Multimodal Research](Multimodal-Research.md)
 * [Museums](Museums.md)
 * [Music](Music.md)
+* [Nail Houses](Nail-Houses.md)
 
 * [Sensory Design](Sensory-Design.md)
 
