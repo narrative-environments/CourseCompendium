@@ -140,6 +140,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Memorial to the Murdered Jews of Europe](Memorial-to-the-Murdered-Jews.md)
 * [Metalepsis](Metalepsis.md)
 * [Metanarrative](Metanarrative.md)
+* [Methodology](Methodology.md)
 
 * [Sensory Design](Sensory-Design.md)
 
