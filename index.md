@@ -151,6 +151,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Modernity and Coloniality](Modernity-and-Coloniality.md)
 * [Multimodal Research](Multimodal-Research.md)
 * [Museums](Museums.md)
+* [Music](Music.md)
 
 * [Sensory Design](Sensory-Design.md)
 
