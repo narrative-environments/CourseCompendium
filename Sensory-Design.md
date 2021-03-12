@@ -12,9 +12,9 @@ However, the disciplines that communicate through other senses are equally impor
 
 Shedroff, N. (2000) ‘Information interaction design: a unified field theory of design’, in Jacobson, B. (ed.) _Interaction design_. Cambridge, MA: MIT Press, pp. 267–292.
 
-## Multi Sensory Design
+## Multisensory Design
 
-!
+![Sensory Design 1](Multisensory1.jpg)
 
 Lascaux IV Cave Painting Centre (Casson Mann and Snøhetta)
 
@@ -22,23 +22,19 @@ Lascaux IV Cave Painting Centre (Casson Mann and Snøhetta)
 
 Multi sensory design is not clearly identified as a separate practice, more as an approach to design, or a design solution, in various practices, in particular industrial and product design,
 
-!
+![Sensory Design 2](Multisensory2.jpg)
 
 Alphasphere by artist and perception researcher, sha,
 
-
-
 and in spatial design.
 
-!
+![Sensory Design 3](Multisensory3.jpg)
 
 St Oswald’s Children’s Hospice – Multi-sensory room. By Jane Darbyshire and David Kendall Architects.
 
+Multi sensory design solutions are often used in narrative environments, most frequently using sight, hearing and touch, but also sometimes taste and smell as well. A good example is Jelly Deng’s (graduated 2015) ‘Whispery Savoury’ which engaged all five senses but most notably combined eating with sound which involved a performative element.
 
-
-Multi sensory design solutions are frequently used in narrative environments, most frequently using sight, hearing and touch, but also sometimes taste and smell as well. A good example is Jelly Deng’s (graduated 2015) ‘Whispery Savoury’ which engaged all five senses but most notably combined eating with sound which involved a performative element.
-
-Links
+**Links**
 
 <div class="video"><iframe src="https://player.vimeo.com/video/131707411" width="500" height="281" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 
