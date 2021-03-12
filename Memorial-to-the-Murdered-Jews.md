@@ -4,7 +4,7 @@ RELATED TERMS:
 
 **Denkmal für die ermordeten Juden Europas – Memorial to the Murdered Jews of Europe, proposed by Benjamin Mackay, November 2017**
 
-!
+![MMJE](MMJE.jpg)
 
 Image Credit: https://www.youtube.com/watch?v=JTwcpeb7C1E
 
