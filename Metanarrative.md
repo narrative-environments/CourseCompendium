@@ -1,23 +1,14 @@
 ## Metanarrative 
 
-RELATED TERMS:
+**RELATED TERMS: Metalepsis**
 
-A framing narrative that refers to the narratives it encloses and with which it frequently shares diegetic elements: they share (at least partially) the same storyworld, maybe telling about different parts or aspects of it.
+A metanarrative may be understood as a narrative about narration, for example, experimenting with or exploring the idea of storytelling by drawing attention to its own artificiality. In this sense, there are resonances with a Genettian conception of literary or narrative metalepsis, where boundaries between narrative levels are transgresed.
 
-The enclosing can (often will) be physical/spatial as well as narrative.
+Possibly more importantly for the design of narrative environments, a metanarrative, otherwise known as a grand narrative, a master narrative or a narrative of mastery, is a term developed by Jean-François Lyotard, by which he intends a theory that seeks to give a totalising, comprehensive account to various historical events, experiences, and social, cultural phenomena based upon the appeal to universal truth or universal values.
 
-Stuart Jones
+In Lyotard's theorisation, a narrative is a story that functions to legitimise power, authority and social customs. Thus, a metanarrative is one that claims to explain various events in history, giving them meaning by inter-connecting disparate events and phenomena through an appeal to some kind of universal knowledge or universal schema. Examples of such, often teleological, metanarratives include Marxism, religious doctrines, belief in progress and belief in universal reason.
 
-
-## Metanarrative in [Narratology]
-
-_A framing Narrative is one that encloses another or other narratives, which exist on a different narrative level._ A framing narrative contains a second (or several) narrative(s) and provides a context or setting for it/them. Sometimes this framing narrative will begin and end the narrative as a whole, providing book ends, while other times the framing narrative will simply be present in the beginning of the narrative. Sometimes when there are several embedded or sub narratives, the framing narrative acts as linkage between them. The framing narrative “sets the scene” for the embedded narrative(s), giving us a context in which we can read and interpret the text.
-
-
-
-Metanarrative or grand narrative or master narrative or narrative of mastery is a term developed by Jean-François Lyotard to mean a theory that tries to give a totalizing, comprehensive account to various historical events, experiences, and social, cultural phenomena based upon the appeal to universal truth or universal values.
-
-In this context, the narrative is a story that functions to legitimize power, authority, and social customs. A grand narrative or metanarrative is one that claims to explain various events in history, gives meaning by connecting disperse events and phenomena by appealing to some kind of universal knowledge or schema. The term grand narratives can be applied to a wide range of thoughts which includes Marxism, religious doctrines, belief in progress, universal reason, and others.
+The design of narrative environments may wish to draw to attention the metanarrative assumptions at play in particular sites, for example, monuments or squares celebrating a country's imperial or colonial past.
 
 **References**
 
