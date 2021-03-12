@@ -143,6 +143,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Methodology and Method](Methodology.md)
 * [Metre](Metre.md)
 * [Military Cemeteries](Military-Cemeteries.md)
+* [Mind Your Head Installation](Mind-Your-Head.md)
 
 * [Sensory Design](Sensory-Design.md)
 
