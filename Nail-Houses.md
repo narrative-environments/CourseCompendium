@@ -1,6 +1,6 @@
 ## Nail houses
 
-RELATED TERMS: 
+**RELATED TERMS: Dramatic Conflict**
 
 In China, nail houses are older properties that stand alone amid new property development projects. They belong to owners who have stood their ground and resisted demolition. A few homeowners have won their fights against the developers, but most have lost. Such nail houses have become powerful symbols of resistance to the headlong rush of world’s fastest-growing major economy.
 
