@@ -23,3 +23,10 @@ In narrative envionment design, as this example suggests) the framing narrative 
 Or landscaping may tell a framing story about the buildings it contains, e.g. Scarpa’s Brion Vega Tomba, where spatial layout, acoustics, borrowed landscapes and soundscapes weave a story around the narrative of the key architectural moments, [http://www.greatbuildings.com/buildings/Brion-Vega_Cemetery.html](http://www.greatbuildings.com/buildings/Brion-Vega_Cemetery.html)
 
 Or a city brand narrative may contain or frame a multitude of localised sub narratives.
+
+encloses and with which it frequently shares diegetic elements: they share (at least partially) the same storyworld, maybe telling about different parts or aspects of it.
+
+The enclosing can (often will) be physical/spatial as well as narrative.
+
+Stuart Jones
+
