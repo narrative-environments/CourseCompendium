@@ -1,15 +1,14 @@
 ## Mimesis
 
-RELATED TERMS: 
+**RELATED TERMS: Diegesis; **
 
-Communication of something by imitation or representation, as opposed to diegesis: communication of something by narration or report.
+The terms 'mimesis' and 'diegesis' have a long and complicated history since their use in Plato's _Republic_, as Halliwell (2015) explains. In simple terms, mimesis might be said to be communication of something by imitation or representation, that is, by 'showing' or 'demonstrating', while diegesis refers to communication of something by narration or report, that is, by providing a 'second-hand' account.
 
+In the context of the design of narrative environments, the terms are rendered even more complex by the presence or supplementation of mimetic demonstration or diegetic account by the 'real' to which they are demonstrations or accounts, in which the entity 'stands for' itself as an existent, as well as being in mimetic and diegtic relation to itself. In this case, one could argue that what one has, as much as any simple mimesis or diegesis, is 'mimesis through diegesis' and 'diegesis through mimesis'.
 
-## Mimesis in [Narrative environment design]
+What this may indicate is the limited value of mimesis and diegesis in the context of the design of narrative environments, except in very specific limited cases and contexts.
 
-Communication of something by imitation or representation, as opposed to diegesis: communication of something by narration or report.
+**References**
 
-Mimesis and diegesis are very sharply separated in Aristotle’s account and thence in literary theory and narratology.
-
-Things are not so clear cut in Narrative Environment Design. Many Narrative Environments incorporate mimesis in their ‘telling’ or narration’ strategy. In which case one could say that the mimesis becomes part of the diegesis of the Narrative Environment.
+Halliwell, S. (2015) Diegesis - Mimesis. _The Living handbook of narratology_. Available at: http://wikis.sub.uni-hamburg.de/lhn/index.php/Diegesis_-_Mimesis (Accessed: 27 November 2015).
 
