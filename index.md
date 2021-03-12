@@ -146,6 +146,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Mind Your Head Installation](Mind-Your-Head.md)
 * [Mode and Medium](Mode-and-Medium.md)
 * [Modernism](Modernism.md)
+* [Modernity](Modernity.md)
 
 * [Sensory Design](Sensory-Design.md)
 
