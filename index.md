@@ -131,6 +131,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Latour](Latour.md)
 * [Layout](Layout.md)
 * [Lefebvre](Lefebvre.md)
+* [Leitmotif](Leitmotif.md)
 
 * [Metalepsis](Metalepsis.md)
 
