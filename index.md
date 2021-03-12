@@ -130,6 +130,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Land Art](Land-Art.md)
 * [Latour](Latour.md)
 * [Layout](Layout.md)
+* [Lefebvre](Lefebvre.md)
 
 * [Metalepsis](Metalepsis.md)
 
