@@ -132,7 +132,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Layout](Layout.md)
 * [Lefebvre](Lefebvre.md)
 * [Leitmotif](Leitmotif.md)
-* [Lifeworld](Lifeworld.md)
+* [Lifeworld - Lebenswelt - Umwelt](Lifeworld.md)
 
 * [Metalepsis](Metalepsis.md)
 
