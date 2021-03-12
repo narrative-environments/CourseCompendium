@@ -10,11 +10,11 @@ The field is made to look like an ideal geometrical space with thousands white s
 
 All visitors of every military cemetery in any country could ‘read’ these two stories through the spatial practice.
 
-![Military Cemeteries1](Military-Cemeteries1)
+![Military Cemeteries1](Military-Cemeteries1.jpg)
 
 Arlington National Cemetery
 
-!Military Cemeteries2](Military-Cemeteries2)
+![Military Cemeteries2](Military-Cemeteries2.jpg)
 
 Normandy American Cemetery and Memorial
 
