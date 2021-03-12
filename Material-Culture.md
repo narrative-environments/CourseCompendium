@@ -12,6 +12,6 @@ Miller: "We are brought up with the expectations characteristic of our particula
 
 **References**
 
-Miller, D. (2005). Materiality. Durham, NC: Duke University Press.
+Miller, D. (2005). _Materiality_. Durham, NC: Duke University Press.
 
 
