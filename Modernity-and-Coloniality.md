@@ -2,7 +2,7 @@
 
 RELATED TERMS: 
 
-!
+![Coloniality](Coloniality.png)
   
 It has been argued, for example by Peruvian sociologist Anibal Quijani and Argentinian semiotician Walter Mignolo, that modernity and coloniality are inseparable, two sides of the same coin.‘Coloniality’, Mignolo states, is short hand for colonial matrix or colonial order of power. In this view, modernity is an epistemological frame that is inseparably bound to the European colonial project. Thus, decolonialists seek to move beyond the overly geographical determinism of various critiques of Eurocentrism, while developing an epistemic conception of coloniality. In this way, it is seen that epistemic hegemony is not limited to particular places. Decolonial thinkers suggest that there is a history of epistemic violence in every geographical location, including the West. 
 
