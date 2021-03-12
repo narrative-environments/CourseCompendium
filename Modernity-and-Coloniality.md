@@ -1,6 +1,6 @@
 ## Modernity and Coloniality
 
-RELATED TERMS: 
+**RELATED TERMS: Cultural Sudies**
 
 ![Coloniality](Coloniality.png)
   
