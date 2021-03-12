@@ -147,7 +147,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Mode and Medium](Mode-and-Medium.md)
 * [Modernism](Modernism.md)
 * [Modernity](Modernity.md)
-* [Modernism and Avant-Garde Art Practice](Modernism-and-Avant-Garde-Art-Practice.md)
+* [Modernism and Avant-Garde Art Practice](Modernism-and-Avant-Garde-Practices.md)
 
 
 
