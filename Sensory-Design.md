@@ -36,13 +36,7 @@ Multi sensory design solutions are often used in narrative environments, most fr
 
 **Links**
 
-<div class="video"><iframe src="https://player.vimeo.com/video/131707411" width="500" height="281" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
-
-Whispery Savoury by Jialin (Jelly) Deng
-
-</div>
-
-<http://www.whispery-savoury.com/>
+Whispery Savoury by Jialin (Jelly) Deng: <https://player.vimeo.com/video/131707411>
 
 Although it is not clearly delineated as an independent practice, multi sensory design is much practised and written about:
 
