@@ -1,6 +1,6 @@
 ## Lifeworld - Lebenswelt -  Umwelt
 
-**RELATED TERMS: Metalepsis; Ontological Metalepsis; Diegesis; Diegese; World-forming, world-making, world-building; World, world of the story and world of the narrative environment**
+**RELATED TERMS: Metalepsis; Ontological Metalepsis; Diegesis; Diegese; World-forming, world-making, world-building; World, world of the story and world of the narrative environment; Affordances; Dasein; Everyday; Storyworld; Design History; Ontological designing; Phenomenology; Arendt**
 
 Narrative environments, as designs, can be understood to bring together:
 
