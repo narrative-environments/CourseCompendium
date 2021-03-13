@@ -153,6 +153,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Museums](Museums.md)
 * [Music](Music.md)
 * [Nail Houses](Nail-Houses.md)
+* [Narration](Narration.md)
 
 * [Sensory Design](Sensory-Design.md)
 
