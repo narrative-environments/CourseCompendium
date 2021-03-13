@@ -156,6 +156,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Narration](Narration.md)
 * [Narrative Architecture](Narrative-Architecture.md)
 * [Narrative Ecology](Narrative-Ecology.md)
+* [Narratology](Narratology.md)
 
 * [Sensory Design](Sensory-Design.md)
 
