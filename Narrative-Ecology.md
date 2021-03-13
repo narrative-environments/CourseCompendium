@@ -9,7 +9,7 @@ The methodology begins the process of searching, evaluating and understanding th
 The Narrative Ecology framework attempts to act as a reasoning, problem-solving and decision-making framework for the design process, determining the comprehensive components and processes, as well as the inter-relationships found within them, in order to inform design development.
 
 
-## [Participants in Narrative Ecology
+## Participants in Narrative Ecology
 
 A participant is defined here as an actor receiving, contributing and/or determining the solution. _‘Participant’_ is used here in place of the more traditional term _‘user’_, to emphasize the active nature of interaction.
 
