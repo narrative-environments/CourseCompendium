@@ -8,7 +8,7 @@ The methodology begins the process of searching, evaluating and understanding th
 
 The Narrative Ecology framework attempts to act as a reasoning, problem-solving and decision-making framework for the design process, determining the comprehensive components and processes, as well as the inter-relationships found within them, in order to inform design development.
 
-Narrative ecology explores how knowledge comes from the natural world and how human knowledge emanates from other forms of peoplehood. Many indigenous paradigms of knowledge recognize that traditional ecological knowledges (TEK) evolve out of relationships that acknowledge that life forms have agency. Thus, human life and meaning are co-created by a living universe that is active in various dimensions of existence. (Gonzalez, 2012)
+Narrative ecology explores how knowledge comes from the natural world and how human knowledge emanates from other forms of peoplehood. Many indigenous paradigms of knowledge incorporate the recognition that traditional ecological knowledges evolve through relationships which acknowledge and accept the agency, or actantiality, of all life forms. Thus, human life and meaning are co-created by a living universe that is active in various dimensions of existence. (Gonzalez, 2012)
 
 ## Participants in Narrative Ecology
 
