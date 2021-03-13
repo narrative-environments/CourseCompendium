@@ -154,6 +154,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Music](Music.md)
 * [Nail Houses](Nail-Houses.md)
 * [Narration](Narration.md)
+* [Narrative Architecture](Narrative-Architecture.md)
 
 * [Sensory Design](Sensory-Design.md)
 
