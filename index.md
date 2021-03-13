@@ -159,6 +159,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Narratology](Narratology.md)
 * [National Memorial for Peace and Justice](National-Memorial-Peace-and-Justice.md)
 * [New Materialism](New-Materialism.md)
+* [New Media](New-Media.md)
 
 * [Sensory Design](Sensory-Design.md)
 
