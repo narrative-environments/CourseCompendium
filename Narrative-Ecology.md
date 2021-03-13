@@ -8,6 +8,7 @@ The methodology begins the process of searching, evaluating and understanding th
 
 The Narrative Ecology framework attempts to act as a reasoning, problem-solving and decision-making framework for the design process, determining the comprehensive components and processes, as well as the inter-relationships found within them, in order to inform design development.
 
+Narrative ecology explores how knowledge comes from the natural world and how human knowledge emanates from other forms of peoplehood. Many indigenous paradigms of knowledge recognize that traditional ecological knowledges (TEK) evolve out of relationships that acknowledge that life forms have agency. Thus, human life and meaning are co-created by a living universe that is active in various dimensions of existence. (Gonzalez, 2012)
 
 ## Participants in Narrative Ecology
 
@@ -24,4 +25,7 @@ A space can be defined as an actor embodied in the virtual or physical built env
 
 Things are designed objects, products or services, with specific roles. As actors, these exert a design-centered view of the world of activities and meaningful relationships which participants have with it.
 
+**References**
+
+Gonzales, P. (2012) Ant medicine: a narrative ecology. _Chicana/Latina Studies_, 11 (2), 82-93. Retrieved March 13, 2021, from http://www.jstor.org/stable/23345343
 
