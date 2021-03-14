@@ -1,6 +1,6 @@
 ## Ontological designing
 
-RELATED TERMS: 
+**RELATED TERMS: Design History; Design practice and functionalism; Genealogy - Nietzsche; Ontology; Lifeworld - Lebenswelt - Umwelt**
 
 In _The Basic Problems of Phenomenology_, Martin Heidegger writes that, “The point is not to gain some knowledge about philosophy but to be able to philosophise.” If, to paraphrase Heidegger, the point is not (simply) to gain some knowledge about design, particularly narrative environment design, but to be able to design, then one must have a satisfactory understanding of what it means ‘to design’, as a complex field of action existing in a ramified field of prior designings. To develop such an understanding, as well as some knowledge about design, it may be useful to consider the notion of ontological designing.
 
