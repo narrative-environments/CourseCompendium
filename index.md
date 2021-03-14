@@ -167,6 +167,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Object-Oriented Ontology](Object-Oriented-Ontology.md)
 * [Ontological Designing](Ontological-Designing.md)
 * [Ontological Metalepsis](Ontological-Metalepsis.md)
+* [Ontology](Ontology.md)
 
 * [Sensory Design](Sensory-Design.md)
 
