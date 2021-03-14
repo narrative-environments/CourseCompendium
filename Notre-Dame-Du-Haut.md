@@ -12,7 +12,7 @@ Christian churches, for example, make their inhabitants feel humble, with their 
 
 Le Corbusier provides an additional layer of narrativity by subverting religious architectural norms. By purposefully using elements such as vast, curving lines, tiny, strategically placed, jewel-like windows, a huge concrete wall and a ‘floating’ roof admitting light, Le Corbusier re-writes the church as narrative environment. He uses the building to rethink sacredness and show how it can be established in a variety of ways.
 
-!
+![Ronchamp1](Ronchamp1.jpg)
 
-!
+![Ronchamp2](Ronchamp2.jpg)
 
