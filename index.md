@@ -163,7 +163,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Niche](Niche.md)
 * [Nihilism](Nihilism.md)
 * [Non-Hylomorphism](Non-Hylomorphism.md)
-* [Notre Dame du Haut - Ronchamp Cathedral](Notre-Dame-du-Haut.md)
+* [Notre Dame du Haut - Ronchamp Cathedral](Notre-Dame-Du-Haut.md)
 
 * [Sensory Design](Sensory-Design.md)
 
