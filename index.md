@@ -171,6 +171,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Open Systems Theory](Open-Systems-Theory.md)
 * [Ortakoy Installation, Istanbul](Ortakoy-Installation.md)
 * [Painting](Painting.md)
+* [Paradigm](Paradigm.md)
 
 
 * [Sensory Design](Sensory-Design.md)
