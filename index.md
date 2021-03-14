@@ -173,6 +173,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Painting](Painting.md)
 * [Paradigm](Paradigm.md)
 * [Participants](Participant.md)
+* [Passant](Passant.md)
 
 
 * [Sensory Design](Sensory-Design.md)
