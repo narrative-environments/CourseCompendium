@@ -166,6 +166,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Notre Dame du Haut - Ronchamp Cathedral](Notre-Dame-Du-Haut.md)
 * [Object-Oriented Ontology](Object-Oriented-Ontology.md)
 * [Ontological Designing](Ontological-Designing.md)
+* [Ontological Metalepsis](Ontological-Metalepsis.md)
 
 * [Sensory Design](Sensory-Design.md)
 
