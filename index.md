@@ -169,6 +169,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Ontological Metalepsis](Ontological-Metalepsis.md)
 * [Ontology](Ontology.md)
 * [Open Systems Theory](Open-Systems-Theory.md)
+* [Ortakoy Installation, Istanbul](Ortakoy-Installation.md)
 
 
 * [Sensory Design](Sensory-Design.md)
