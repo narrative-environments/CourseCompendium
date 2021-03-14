@@ -2,7 +2,11 @@
 
 RELATED TERMS: Actant
 
-The term passant is used to refer to a character in a narrative viewed from the perspective of the impressions registered on him or her, rather than from the perspective of the actions he or she performs. Rabinowitz (2005) invented this term as a contrast to actant. Extended to the context of narrative environment, it refers to any entity upon which impressions are registered, leaving a trace that may itself subsequently have actantial potential. Actantiality would be rendered meaningless without passantiality, but they are not binary opposites. They weave round one another in an inter-actantial or inter-passantial cycle or as a kind of double helix of actantiality-passantiality, merging into one another responsivley. Passantiality is a kind of potentiality.
+The term passant is used to refer to a character in a narrative viewed from the perspective of the impressions registered on him or her, rather than from the perspective of the actions he or she performs. Rabinowitz (2005, 184) invented this term as a contrast to actant. Thus Rabinowitz states that his approach, 
+
+"makes us take the experiences of other characters more seriously on the level of the narrative audience. or, more accurately, it encourages us to take them seriously in a different way than the way promoted by classical narratology: specifically, if we take the notion of path (and experience) seriously, we might want to consider a narratology that included not only ‘actants’ but also ‘passants’ – those (especially including those beyond the narrator and his or her chosen focalizers) on whom impressions are registered."
+
+Extended to the context of narrative environment, it refers to any entity upon which impressions are registered, leaving a trace that may itself subsequently have actantial potential. Actantiality would be rendered meaningless without passantiality, but they are not binary opposites. They weave round one another in an inter-actantial or inter-passantial cycle or as a kind of double helix of actantiality-passantiality, merging into one another responsivley. Passantiality is a kind of potentiality.
 
 Janet Rachel brings to attention a line of argument which suggests that, among the various ways of understanding actants and passants, there is a rather interesting connection with the body which tends to privilege acting over passing on phallocentric grounds. Thus she notes,
 
