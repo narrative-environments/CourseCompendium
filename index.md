@@ -175,6 +175,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Participants](Participant.md)
 * [Passant](Passant.md)
 * [People-Centred Design](People-Centred-Design.md)
+* [Performance](Performance.md)
 
 
 * [Sensory Design](Sensory-Design.md)
