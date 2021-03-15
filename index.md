@@ -180,6 +180,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Peter Zumthor - Serpentine Pavilion](Peter-Zumthor-Pavilion.md)
 * [Phenomenology](Phenomenology.md)
 * [Philosophy](Philosophy.md)
+* [Photography](Photography.md)
 
 
 * [Sensory Design](Sensory-Design.md)
