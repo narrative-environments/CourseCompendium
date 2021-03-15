@@ -1,6 +1,6 @@
 ## Poeisis
 
-RELATED TERMS: 
+**RELATED TERMS: Philosophy; Praxis; Philosophy**
 
 _Poiesis_ is a Greek term that means making, producing, creation, creative power or ability. _Poiesis_ is contrasted with _praxis_, which means ‘doing’ or ‘acting’, by Plato and Aristotle. Excellent making requires _techne_, skill, while excellent doing requires _arete_, virtue.
 
