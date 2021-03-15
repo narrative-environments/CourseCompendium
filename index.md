@@ -182,6 +182,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Philosophy](Philosophy.md)
 * [Photography](Photography.md)
 * [Physical Anthropology](Physical-Anthropology.md)
+* [Place](Place.md)
 
 
 * [Sensory Design](Sensory-Design.md)
