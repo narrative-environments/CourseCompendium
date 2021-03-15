@@ -176,6 +176,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Passant](Passant.md)
 * [People-Centred Design](People-Centred-Design.md)
 * [Performance](Performance.md)
+* [Performative and Performativity](Performative.md)
 
 
 * [Sensory Design](Sensory-Design.md)
