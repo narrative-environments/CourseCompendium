@@ -9,8 +9,10 @@ The performativity of the narrative environment may also be discussd in terms of
 Richard Schechner conceives of the topics which relate to the term performance as a fan or as a web, as follows:
 
 ![Performance1](Performance1.png)
+Source: Richard Schechner, _Performance Theory_
 
 ![Performance2](Performance2.png)
+Source: Richard Schechner, _Performance Theory_
 
 **References**
 
