@@ -174,6 +174,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Paradigm](Paradigm.md)
 * [Participants](Participant.md)
 * [Passant](Passant.md)
+* [People-Centred Design](People-Centred-Design.md)
 
 
 * [Sensory Design](Sensory-Design.md)
