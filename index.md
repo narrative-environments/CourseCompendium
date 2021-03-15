@@ -185,6 +185,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Place](Place.md)
 * [Placemaking](Placemaking.md)
 * [Placiality and Spatiality](Placiality-and-Spatiality.md)
+* [Poiesis](Poiesis.md)
 
 
 * [Sensory Design](Sensory-Design.md)
