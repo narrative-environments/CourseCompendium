@@ -184,6 +184,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Physical Anthropology](Physical-Anthropology.md)
 * [Place](Place.md)
 * [Placemaking](Placemaking.md)
+* [Placiality and Spatiality](Placiality-and-Spatiality.md)
 
 
 * [Sensory Design](Sensory-Design.md)
