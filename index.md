@@ -177,6 +177,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [People-Centred Design](People-Centred-Design.md)
 * [Performance](Performance.md)
 * [Performative and Performativity](Performative.md)
+* [Peter Zumthor - Serpentine Pavilion](Peter-Zumthor-Pavilion.md)
 
 
 * [Sensory Design](Sensory-Design.md)
