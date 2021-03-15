@@ -12,3 +12,4 @@ The ‘outside’ is Kensington Gardens, relatively manicured to provide the vis
 
 Extract from Movement and Flow at the Boundary. Claude St Arroman, 2011. Metadesigners Open Network [https://metadesigners.org/Downloadable-Articles](https://metadesigners.org/Downloadable-Articles)
 
+![Zumthor Pavilion](Zumthor-Pavilion.png)
