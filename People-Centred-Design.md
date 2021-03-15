@@ -1,6 +1,6 @@
 ## People-centred design
 
-RELATED TERMS:
+**RELATED TERMS: Co-design; User-centred design; User-driven design; Design practice and functionalism**
 
 People-centred design is focused upon human needs and aspirations at a broader and deeper level than that of designing for people as users. A people-centred approach can open out new, previously unimagined opportunities for product and service development. (Koskinen and Thomson, 2012: 78)
 
