@@ -187,6 +187,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Placiality and Spatiality](Placiality-and-Spatiality.md)
 * [Poiesis](Poiesis.md)
 * [Poetry and Poetics](Poetry-and-Poetics.md)
+* [Politics and the Political](Politics-and-the-Political.md)
 
 
 * [Sensory Design](Sensory-Design.md)
