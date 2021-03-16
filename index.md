@@ -189,6 +189,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Poetry and Poetics](Poetry-and-Poetics.md)
 * [Politics and the Political](Politics-and-the-Political.md)
 * [Polymath](Polymath.md)
+* [Postanthropocentrism](Postanthropocentrism.md)
 
 
 * [Sensory Design](Sensory-Design.md)
