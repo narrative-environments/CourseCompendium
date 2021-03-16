@@ -1,6 +1,6 @@
 ## Protagonist
 
-RELATED TERMS: 
+**RELATED TERMS: Narratology; Theatre; Agon; Hero; Antagonist; Actantial model - Greimas; Epic theatre - Brecht; New Materialism**
 
 The protagonist may sometimes be referred to as the main character, the focal character or the hero. In one sense, it is the agency around which the unfolding of the narrative unfolds:its movements and actions giving rise to counter-movements and counter-actions, creating a centre or point of return for the specific actantial dynamics and also, in many respects, the narrative's deictic centre. In the context of narrative environments, and taking into account Greimas’s actantial theory, the actant by means of which the action centrally unfolds may not be a human ‘character’ but rather a place, an atmosphere, an institution, an organisation or a non-human life form which achieves the status of ‘personhood’ in some respect.
 
