@@ -191,6 +191,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Polymath](Polymath.md)
 * [Postanthropocentrism](Postanthropocentrism.md)
 * [Posthuman](Posthuman.md)
+* [Posthumanism](Posthumanism.md)
 
 
 * [Sensory Design](Sensory-Design.md)
