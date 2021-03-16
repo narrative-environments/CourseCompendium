@@ -190,6 +190,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Politics and the Political](Politics-and-the-Political.md)
 * [Polymath](Polymath.md)
 * [Postanthropocentrism](Postanthropocentrism.md)
+* [Posthuman](Posthuman.md)
 
 
 * [Sensory Design](Sensory-Design.md)
