@@ -1,6 +1,6 @@
 ## Psychogeography
 
-RELATED TERMS: 
+**RELATED TERMS: Defamiliarisation, Ostranenie or making strange; Derive; Detournement; Situationist International; Method and methodology; Alienation effect - Verfremdungseffekt**
 
 In the practice of the Situationist International, psychogeography is defined as the study of the specific effects of the geographical (and topographical) environment, whether consciously organised or not, on people’s emotions and behaviour.
 
