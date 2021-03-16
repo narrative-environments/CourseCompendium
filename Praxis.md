@@ -8,6 +8,8 @@ For Marx and later Marxist writers, praxis is contrasted with wage labour. Praxi
 
 Interesting contributions to the concept of praxis have been made by Jurgen Habermas and, particularly, Hannah Arendt, who revises Aristotle’s and Marx’s categorisations in her discussion of labour, work and action.
 
+The questions that arise here for the design of narrative environments concern whether design is considered a form of praxis, in the Marxian sense, and what actions narrative environments may be said to perform, derived from but extending the Arendtian sense of praxis as 'action'. Further questions arise in the context of whether such conceptions of praxis are humanist, which limits the understanding of action and agency within narrative environments as fields of actantiality, where 'agency' is extended into language, the built or constructed world and the natural world. 
+
 **Further reading**
 
 Dunne, J. (1997). _Back to the rough ground: practical judgment and the lure of technique_. Notre Dame, IN: University of Notre Dame Press.
