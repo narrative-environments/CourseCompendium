@@ -197,6 +197,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Practice](Practice.md)
 * [Praxis](Praxis.md)
 * [Present-at-hand (Vorhanden) and Ready-to-hand (Zuhanden)](Present-at-Hand.md)
+* [Product and Industrial Design](Product-Design.md)
 
 
 * [Sensory Design](Sensory-Design.md)
