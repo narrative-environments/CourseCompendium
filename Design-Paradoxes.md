@@ -18,7 +18,7 @@ Rodgers, Inella and Bremner (2017) discuss seven paradoxes of design practice, w
 
 *The devotion of design to sustainability is unsustainable*
 
-Steven Vial points to the following paradoxical injunctions to which designrs have to respond:
+Steven Vial points to the following paradoxical injunctions to which designers have to respond:
 
 *The meta-market injunction: Be a socialist and a capitalist at one and the same time!*
 
