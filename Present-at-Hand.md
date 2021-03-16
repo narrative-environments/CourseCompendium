@@ -2,7 +2,7 @@
 
 **RELATED TERMS: Dasein; Phenomenology; Heidegger**
 
-!
+![Present-at-Hand](Present-at-Hand.jpg)
 
 Some design discourses have made use of the terms ‘present-at-hand’ and ‘ready-to-hand’, derived from Martin Heidegger, to discuss artefacts, entities, interactions and systems such as, for example, in human computer interaction (HCI), interaction design, game design and systems design (Ferris, 2003; Dourish, 1999; Dourish, 2001; Martin, 2012; Karlstrom, 2007; Tanenbaum, Antle and Bizzocchi, 2011). Such concepts, then, may be of value for the design and analysis of narrative environments, bearing in mind the difficulties of extracting concepts from the context of one particular mode of thought and translating them to other contexts, particularly in the case of Heidegger’s thought.
 
