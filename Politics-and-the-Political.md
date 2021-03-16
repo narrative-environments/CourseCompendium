@@ -1,6 +1,6 @@
 # Politics and the Political
 
-RELATED TERMS:
+**RELATED TERMS: Agonistic politics - Mouffe; Dissensus - Ranciere; Distribution of the sensible; Biopolitics and Biopower; Arendt; Heidegger; Lefebvre**
 
 Specific narrative environment designs may be said to be ‘political’ or to have political effects in some sense. In order to define more clearly what might be meant by this kind of assertion and to understand how a narrative environment might be said to act ‘politically’, it is worth pondering the distinction often made by contemporary political theorists between ‘politics’ and ‘the political’.
 
