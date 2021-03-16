@@ -18,6 +18,19 @@ Rodgers, Inella and Bremner (2017) discuss seven paradoxes of design practice, w
 
 *The devotion of design to sustainability is unsustainable
 
+Steven Vial points to the following paradoxical injunctions to which designrs have to respond:
+
+*The meta-market injunction: Be a socialist and a capitalist at one and the same time!
+
+*The disruptive injunction: Be innovative!
+
+*The global problem-solving injunction: Save the world!
+
+
+
+
 **References**
 
 Rodgers, P. A., Innella, G. and Bremner, C. (2017) ‘Paradoxes in design thinking’, _The Design Journal_, 20(sup1), pp. S4444–S4458. doi: 10.1080/14606925.2017.1352941.
+
+Vial, S. (2013) ‘Designers and paradoxical injunctions’, in _IASDR 2013: 5th International Congress of the International Association of Societies of Design Research (August 2013, Tokyo Japan)_. Available at: http://design-cu.jp/iasdr2013/papers/2124-1b.pdf (Accessed: 15 July 2018).
