@@ -4,7 +4,7 @@ RELATED TERMS:
 
 Rodgers, Inella and Bremner (2017) discuss seven paradoxes of design practice, which they characterise as follows:
 
-*Design is really undisciplined as a discipline 
+*Design is very undisciplined as a discipline* 
 
 *The easier it becomes to design, the harder it is to design*
 
