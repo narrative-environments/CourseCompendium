@@ -48,7 +48,7 @@ Bell, A. and Alber, J. (2012). Ontological metalepsis and unnatural narratology.
 
 Genette, G. (1980). Voice. Chapter 5 in: _Narrative discourse: an essay in method_. Ithaca, NY: Cornell University Press, pp.212-262\. Available from https://ia801600.us.archive.org/12/items/NarrativeDiscourseAnEssayInMethod/NarrativeDiscourse-AnEssayInMethod.pdf [Accessed 27 November 2015].
 
-Koskimaa, R. (2000) _Digital literature: from text to hypertext and beyond_. http://users.jyu.fi/~koskimaa/thesis/chapter4.htm [Accessed 17 March 2021]
+Koskimaa, R. (2000) Ontolepsis - from violation to a central device. _Digital literature: from text to hypertext and beyond_. Available at: http://users.jyu.fi/~koskimaa/thesis/chapter4.htm#mark1 [Accessed: 17 March 2021]
 
 Ryan, M.-L. (2006). Metaleptic machines. In: _Avatars of story_. Minneapolis, MN: University of Minnesota Press, 204–230.
 
