@@ -223,6 +223,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Sir John Soane Museum](Sir-John-Soane-Museum.md)
 * [Site-Specific](Site-Specific.md)
 * [Situationist International](Situationist-International.md)
+* [Sloterdijk](Sloterdijk.png)
 
 * [Theoretical Practice](Theoretical-Practice.md)
 
