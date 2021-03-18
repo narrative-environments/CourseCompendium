@@ -207,6 +207,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Reception Theory and Reader-response Criticism](Reception-Theory.md)
 * [Re-Enactment](Re-Enactment.md)
 * [Red Canvases](Red-Canvases.md)
+* [Reflexivity and Reflection](Reflexivity-and-Reflection.md)
 
 
 * [Sensory Design](Sensory-Design.md)
