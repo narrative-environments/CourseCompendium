@@ -1,6 +1,6 @@
 ## Sabi - Wabi-Sabi
 
-RELATED TERMS:
+**RELATED TERMS: Avant-garde movements; Everyday**
 
 The Zen Buddhist principles of emptiness, space, and tranquility may be relevant for, and could be deployed in, the design of particular kinds of narrative environment. As Ellen Pearlman (2012) shows, Buddhism, particularly Zen Buddhism, was a significant source of inspiration for the arts in New York City from the early 1940s to the early 1960s.
 
