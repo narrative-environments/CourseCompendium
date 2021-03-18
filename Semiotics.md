@@ -20,6 +20,8 @@ Eco points out that Peirce’s approach does not demand as part of the definitio
 
 Eco (1979: 16) argues that those theorists who reduce semiotics to a theory of communicational acts cannot considers symptoms as signs, nor can they accept as signs any other human behavioural feature from which a receiver infers somethings about the situation of the sender even though the sender is unaware of sending something to someone.
 
+In the context of the design of narrative environments, Peircean semiotics is taken as a guide, and his notion of 'interpretant' is linked to that of 'actant' (and, indeed, 'passant'), so that an interpretant need not be understood to be human necessarily but can be any entity that is capable of generating a relation between a 'sign' and an 'object', such as a piece of computer code, (all of which are interpreted in actantial terms in the design of narrative environments). Like Peirce, however, the context of semiosis is taken to be 'pragmatic', that is, to be related to action and agency, or as we might say to actantiality and passantiality, as a field of 'traces' or 'differences': an entangled and entangling web (tangled hierarchy - Hofstadter).
+
 **References**
 
 Eco, U. (1979). A Theory of semiotics. Bloomington, IN: Indiana University Press.
