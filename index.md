@@ -214,6 +214,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Research Methodologies](Research-Methodologies.md)
 * [Rhythm](Rhythm.md)
 * [Sabi - Wabi-Sabi](Sabi.md)
+* [Scape Metaphors](Scape-Metaphors.md)
 
 
 * [Sensory Design](Sensory-Design.md)
