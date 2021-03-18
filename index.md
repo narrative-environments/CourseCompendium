@@ -215,6 +215,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Rhythm](Rhythm.md)
 * [Sabi - Wabi-Sabi](Sabi.md)
 * [Scape Metaphors](Scape-Metaphors.md)
+* [Science](Science.md)
 
 
 * [Sensory Design](Sensory-Design.md)
