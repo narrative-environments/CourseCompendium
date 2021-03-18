@@ -1,6 +1,6 @@
 ## Scape metaphors
 
-RELATED TERMS: 
+**RELATED TERMS: Cultural geography, Human geography, Social geography**
 
 The suffix -scape has been added to a number of nouns apart from land. They include brandscape, servicescape, experiencescape, technoscape, ethnoscape, financescape, mediascape and ideoscape. Some of these terms may be of value when discussing narrative environments. Alternatively, you may wish to create your own kind of -scape, as a particular kind of narrative environment.
 
