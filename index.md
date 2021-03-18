@@ -204,6 +204,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Psychogeography](Psychogeography.md)
 * [Psychology](Psychology.md)
 * [Realism](Realism.md)
+* [Reception Theory and Reader-response Criticism](Reception-Theory.md)
 
 
 * [Sensory Design](Sensory-Design.md)
