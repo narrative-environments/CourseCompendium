@@ -224,6 +224,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Site-Specific](Site-Specific.md)
 * [Situationist International](Situationist-International.md)
 * [Sloterdijk](Sloterdijk.png)
+* [Social Anthropology](Social-Anthropology.md)
 
 * [Theoretical Practice](Theoretical-Practice.md)
 
