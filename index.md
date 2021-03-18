@@ -212,6 +212,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Relational Aesthetics](Relational-Aesthetics.md)
 * [Representation](Representation.md)
 * [Research Methodologies](Research-Methodologies.md)
+* [Rhythm](Rhythm.md)
 
 
 * [Sensory Design](Sensory-Design.md)
