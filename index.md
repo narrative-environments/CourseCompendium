@@ -219,6 +219,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Sculpture](Sculpture.md)
 * [Semiotics](Semiotics.md)
 * [Sensory Design](Sensory-Design.md)
+* [Service Design](Service-Design.md)
 
 * [Theoretical Practice](Theoretical-Practice.md)
 
