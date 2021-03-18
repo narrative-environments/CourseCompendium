@@ -205,6 +205,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Psychology](Psychology.md)
 * [Realism](Realism.md)
 * [Reception Theory and Reader-response Criticism](Reception-Theory.md)
+* [Re-Enactment](Re-Enactment.md)
 
 
 * [Sensory Design](Sensory-Design.md)
