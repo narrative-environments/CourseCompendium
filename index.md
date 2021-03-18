@@ -217,6 +217,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Scape Metaphors](Scape-Metaphors.md)
 * [Science](Science.md)
 * [Sculpture](Sculpture.md)
+* [Semiotics](Semiotics.md)
 
 
 * [Sensory Design](Sensory-Design.md)
