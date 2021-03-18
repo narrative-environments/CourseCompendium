@@ -1,6 +1,6 @@
 ## Reflexivity and Reflection
 
-RELATED TERMS: 
+**RELATED TERMS: Praxis; Practice**
 
 Narrative environment design may be considered a form of reflexive practice, employing both reflexivity and reflection.
 
