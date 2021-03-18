@@ -226,6 +226,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Sloterdijk](Sloterdijk.png)
 * [Social Anthropology](Social-Anthropology.md)
 * [Social Science](Social-Science.md)
+* [Socially Engaged Art](Socially-Engaged-Art.md)
 
 * [Theoretical Practice](Theoretical-Practice.md)
 
