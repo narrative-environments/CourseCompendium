@@ -220,7 +220,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Semiotics](Semiotics.md)
 * [Sensory Design](Sensory-Design.md)
 * [Service Design](Service-Design.md)
-* [Sir John Soane Museum](Sir-John-Soane-Museum.md
+* [Sir John Soane Museum](Sir-John-Soane-Museum.md)
 
 * [Theoretical Practice](Theoretical-Practice.md)
 
