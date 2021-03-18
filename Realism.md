@@ -1,6 +1,6 @@
 ## Realism
 
-RELATED TERMS: 
+**RELATED TERMS: Audience; Posthumanism; Humanism; Actant; Defamiliarisation, Ostranenie or making strange; Dau Project**
 
 ![Realism](Realism.jpg)
 
