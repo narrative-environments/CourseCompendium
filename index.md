@@ -234,6 +234,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Spectacle](Spectacle.md)
 * [Speculative Realism](Speculative-Realism.md)
 * [Story (fabula) and Plot (sjuzet or sjuzhet)](Story-and-Plot.md)
+* [Storyworld](Storyworld.md)
 
 * [Theoretical Practice](Theoretical-Practice.md)
 
