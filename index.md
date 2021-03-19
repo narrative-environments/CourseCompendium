@@ -237,6 +237,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Storyworld](Storyworld.md)
 * [Structuralism](Structuralism.md)
 * [Syntagmatic](Syntagmatic.md)
+* [Taxonomy](Taxonomy.md)
 
 * [Theoretical Practice](Theoretical-Practice.md)
 
