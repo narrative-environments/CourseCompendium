@@ -245,6 +245,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [The Sofa](Sofa.md)
 * [The Deliberate versus the Unexpected](Apartheid-Museum.md)
 * [Theatre](Theatre.md)
+* [Theatre of Cruelty](Theatre-of-Cruelty.md)
 
 * [Theoretical Practice](Theoretical-Practice.md)
 
