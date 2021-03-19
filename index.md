@@ -242,6 +242,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Taxonomy](Taxonomy.md)
 * [Telectroscope](Telectroscope.md)
 * [Telos and Teleology](Telos-and-Teleology.md)
+* [The Sofa](Sofa.md)
 
 * [Theoretical Practice](Theoretical-Practice.md)
 
