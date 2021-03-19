@@ -8,6 +8,8 @@ Alan Licht (2009) discusses the various definitions of sound art that have been 
 
 The relationships of sound art to art movements of the 1960s, such as Earthworks, ambient music, sound by visual artists, architecture, sound sculpture, surveillance, sound design and sound ecology, are important for contextualising its significance both to different disciplines within the arts and also sound’s place in contemporary society. 
 
+Examples of sound artists can be found in _A History of Sound Art_, arranged and composed by J Milo Taylor and mixed by Joel Cahen, the text version of which is available here: https://joelcahen.files.wordpress.com/2011/08/ahosa-print.pdf
+
 **References**
 
 Licht, A. (2009) ‘Sound art: Origins, development and ambiguities’, _Organised Sound_, 14(1), pp. 3–10. doi: 10.1017/S1355771809000028.
