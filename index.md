@@ -236,6 +236,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Story (fabula) and Plot (sjuzet or sjuzhet)](Story-and-Plot.md)
 * [Storyworld](Storyworld.md)
 * [Structuralism](Structuralism.md)
+* [Syntagmatic](Syntagmatic.md)
 
 * [Theoretical Practice](Theoretical-Practice.md)
 
