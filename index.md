@@ -230,6 +230,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Sociology](Sociology.md)
 * [Sound Art](Sound-Art.md)
 * [Sound Design](Sound-Design.md)
+* [Space](Space.md)
 
 * [Theoretical Practice](Theoretical-Practice.md)
 
