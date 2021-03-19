@@ -235,6 +235,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Speculative Realism](Speculative-Realism.md)
 * [Story (fabula) and Plot (sjuzet or sjuzhet)](Story-and-Plot.md)
 * [Storyworld](Storyworld.md)
+* [Structuralism](Structuralism.md)
 
 * [Theoretical Practice](Theoretical-Practice.md)
 
