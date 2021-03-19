@@ -239,6 +239,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Syntagmatic](Syntagmatic.md)
 * [Taxonomy](Taxonomy.md)
 * [Telectroscope](Telectroscope.md)
+* [Telos and Teleology](Telos-and-Teleology.md)
 
 * [Theoretical Practice](Theoretical-Practice.md)
 
