@@ -10,7 +10,7 @@ A location or a site is a space that does not have placeness or placiality.
 
 How useful could the ancient Greek notions of _chora_ and _topos_, alongside the two ancient Greek conceptions of time, _kairos_ and _chronos_, be in developing an understanding of how time and space can be configured in the design of narrative environments, moving from the relatively abstract to the more meaningful? Perhaps Hans Ramo's diagram might be of value on this context:
 
-[Space-Time](Space-Time.png)
+![Space-Time](Space-Time.png)
 
 ## Space in Narrative Ecology
 
