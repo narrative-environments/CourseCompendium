@@ -1,6 +1,6 @@
 ## Speculative realism
 
-RELATED TERMS: 
+**RELATED TERMS: New Materialism; Postanthropocentrism; Posthumanism; Object-Oriented Ontology**
 
 According to Inna Viriasova (2018: 104), the shared premise of new materialism, object-oriented ontology and the field of the post-humanist from the perspective of political theory and political philosophy is an affirmation of the political agency of non-human entities, whether considered as beings or things, which traditionally have been excluded from the considerations of political philosophers.
 
