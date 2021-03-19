@@ -244,6 +244,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Telos and Teleology](Telos-and-Teleology.md)
 * [The Sofa](Sofa.md)
 * [The Deliberate versus the Unexpected](Apartheid-Museum.md)
+* [Theatre](Theatre.md)
 
 * [Theoretical Practice](Theoretical-Practice.md)
 
