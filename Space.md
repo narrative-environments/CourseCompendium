@@ -12,6 +12,8 @@ How useful could the ancient Greek notions of _chora_ and _topos_, alongside the
 
 ![Space-Time](Space-Time.png)
 
+In this case, the design of narrative environmenta would be concerned to create a 'kairotopos' as a place of meaningful time and meaningful space, where one might develop 'phronesis' or 'practical wisdom'
+
 ## Space in Narrative Ecology
 
 A space can be defined as an actor [Actant] embodied in the virtual or physical built environment, and therefore exerting a presence that can be defined in terms of a spatial analysis of light, volume, obstacles and flow routines, amongst others.
