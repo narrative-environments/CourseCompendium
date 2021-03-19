@@ -227,6 +227,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Social Anthropology](Social-Anthropology.md)
 * [Social Science](Social-Science.md)
 * [Socially Engaged Art](Socially-Engaged-Art.md)
+* [Sociology](Sociology.md)
 
 * [Theoretical Practice](Theoretical-Practice.md)
 
