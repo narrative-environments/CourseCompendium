@@ -12,7 +12,7 @@ How useful could the ancient Greek notions of _chora_ and _topos_, alongside the
 
 ![Space-Time](Space-Time.png)
 
-In this case, the design of narrative environments might be considered to be concerned with the creation of a 'kairotopos' as a place of meaningful time and meaningful space, where one might develop 'phronesis' or 'practical wisdom'
+In this case, the design of narrative environments might be considered to be concerned with the creation of a 'kairotopos' as a place of meaningful time and meaningful space, where one might learn to develop 'phronesis' or 'practical wisdom'.
 
 ## Space in Narrative Ecology
 
