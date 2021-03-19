@@ -229,6 +229,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Socially Engaged Art](Socially-Engaged-Art.md)
 * [Sociology](Sociology.md)
 * [Sound Art](Sound-Art.md)
+* [Sound Design](Sound-Design.md)
 
 * [Theoretical Practice](Theoretical-Practice.md)
 
