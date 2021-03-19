@@ -12,6 +12,8 @@ Brecht introduces the term Verfremdungseffekt, translated as ‘alienation effec
 
 Together these techniques produced the ‘alienation effect’.
 
+Martin Esslin (1960) writes that Brecht could never successfully achieve his famous 'Verfremdungseffekt, the inhibition of any identification between spectator and actor, in his own highly rational theatre. 'Verfremdungseffekt' really comes into its own in the Theatre of the Absurd, where it is impossible to identify oneself with characters one does not understand or whose motives remain a closed book, and so the distance between the public and the happenings on the stage can be maintained.
+
 As Selden, Widdowson and Brooker (2005: 89) explain, Brecht rejected what he called Aristotelian theatre, referring to Aristotle’s formalisation of the practices of Greek tragedy, a form of drama performed in theatres across ancient Greece from the late 6th century BCE whose main proponents were Aeschylus, Sophocles, and Euripides (Cartwright, 2013). Aristotle emphasised the universality and unity of the tragic action, and the identification of audience and hero in an empathic relation which produces a catharsis of emotions. In contrast, Brecht urges that the dramatist avoid a smoothly interconnected plot and prevent any sense of inevitability or universality. The facts of social injustice, Brecht contended, needed to be presented as if they were shockingly unnatural and totally surprising.
 
 To avoid lulling the audience into a state of passive acceptance, the illusion of reality, achieved through the audience’s empathic identification with the tragic hero figure, must be shattered by the use of the alienation effect. The actors must not lose themselves in their roles or seek to promote a purely empathic audience identification. They must present a role to the audience as both recognizable and unfamiliar (recalling Freud’s notion of the uncanny), so that a process of critical assessment can be initiated. The situation, emotions and dilemmas of the characters must be understood from the outside and presented as strange and problematic. This is not to say that actors should avoid the use of emotion, simply that they should not resort to empathy. This is achieved by ‘baring the device’, to use the Formalist term (Selden, Widdowson and Brooker, 2005: 90).
@@ -75,6 +77,8 @@ Brecht, B. (1978b). _Brecht on theatre_, edited by John Willett. London, UK: Met
 Brooker, P. (2003). _A Glossary of Cultural Theory_, 2nd ed. London, UK: Arnold.
 
 Derrida, J. (1978). The Theater of cruelty and the closure of represenation. In: _Writing and difference_. London: Routledge, 232-250.
+
+Esslin, M. (1960) ‘The Theatre of the absurd’, _The Tulane Drama Review_, 4(2), pp. 68–70. Available at: http://web.iitd.ac.in/~angelie/courses_files/TOA/esslin essay tdr.pdf.
 
 Hecht, W. (1961). The Development of Brecht’s theory of the epic theatre, 1918-1933\. _Tulane Drama Review_, 6 (1), 40–97\. Available from http://www.jstor.org/stable/1125006 [Accessed 22 March 2016].
 
