@@ -238,6 +238,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Structuralism](Structuralism.md)
 * [Syntagmatic](Syntagmatic.md)
 * [Taxonomy](Taxonomy.md)
+* [Telectroscope](Telectroscope.md)
 
 * [Theoretical Practice](Theoretical-Practice.md)
 
