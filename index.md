@@ -39,6 +39,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Body](Body.md)
 * [Brand Identity and Brand Image](Brand-Identity.md)
 * [Brion Vega Tomb - Tomba Brion](Brion-Vega-Tombs.md)
+* [British Museum](British-Museum.md)
 * [Business Management](Business-Management.md)
 * [Cinema and Film Theory](Cinema-and-Film-Theory.md)
 * [Cloud Computing](Cloud-Computing.md)
