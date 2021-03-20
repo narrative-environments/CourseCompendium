@@ -250,7 +250,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Things](Things.md)
 * [Threshold](Threshold.md)
 * [Time](Time.md)
-* [Tragic Theatre - Aristotle](Tgagic-Theatre.md)
+* [Tragic Theatre - Aristotle](Tragic-Theatre.md)
 
 * [Theoretical Practice](Theoretical-Practice.md)
 
