@@ -247,11 +247,13 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Theatre](Theatre.md)
 * [Theatre of Cruelty](Theatre-of-Cruelty.md)
 * [Thematic Apperception Tests](TAT.md)
+* [Theoretical Practice](Theoretical-Practice.md)
 * [Things](Things.md)
 * [Threshold](Threshold.md)
 * [Time](Time.md)
 * [Tragic Theatre - Aristotle](Tragic-Theatre.md)
+* [Tranenpalast Berlin](Tranenpalast-Berlin.md)
 
-* [Theoretical Practice](Theoretical-Practice.md)
+
 
 * [User Experience](User-Experience.md)
