@@ -249,6 +249,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Thematic Apperception Tests](TAT.md)
 * [Things](Things.md)
 * [Threshold](Threshold.md)
+* [Time](Time.md)
 
 * [Theoretical Practice](Theoretical-Practice.md)
 
