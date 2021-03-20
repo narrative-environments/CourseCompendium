@@ -247,6 +247,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Theatre](Theatre.md)
 * [Theatre of Cruelty](Theatre-of-Cruelty.md)
 * [Thematic Apperception Tests](TAT.md)
+* [Things](Things.md)
 
 * [Theoretical Practice](Theoretical-Practice.md)
 
