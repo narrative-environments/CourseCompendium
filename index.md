@@ -253,6 +253,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Time](Time.md)
 * [Tragic Theatre - Aristotle](Tragic-Theatre.md)
 * [Tranenpalast Berlin](Tranenpalast-Berlin.md)
+* [Treasures - Newington Green](Treasures.md)
 
 
 
