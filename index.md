@@ -260,3 +260,4 @@ This is a work in progress. So far, the entries we have are as follows:
 * [User-Centred Design](User-Centred-Design.md)
 * [User-Driven Design](User-Driven-Design.md)
 * [Utopia and Utopian Thinking](Utopia-and-Utopian-Thinking.md)
+* [Venetian Atmospherics](Venetian-Atmospherics.md)
