@@ -262,3 +262,4 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Utopia and Utopian Thinking](Utopia-and-Utopian-Thinking.md)
 * [Venetian Atmospherics](Venetian-Atmospherics.md)
 * [Video Art](Video-Art.md)
+* [Visual Arts](Visual-Arts.md)
