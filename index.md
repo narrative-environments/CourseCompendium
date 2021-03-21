@@ -263,3 +263,4 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Venetian Atmospherics](Venetian-Atmospherics.md)
 * [Video Art](Video-Art.md)
 * [Visual Arts](Visual-Arts.md)
+* [Vortex House](Vortex-House.md)
