@@ -265,3 +265,4 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Visual Arts](Visual-Arts.md)
 * [Vortex House](Vortex-House.md)
 * [World, World of the Story and World of the Narrative Environment](World.md)
+* [World-forming, World-making, World-building](World-Forming.md)
