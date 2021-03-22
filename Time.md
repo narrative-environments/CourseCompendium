@@ -1,6 +1,6 @@
 ## Time
 
-**RELATED TERMS: Space; Rhythm**
+**RELATED TERMS: Space; Rhythm; Place; Placiality and Spatiality**
 
 From the perspective of the design of narrative environments, the relationship between narrative, time and the human is established by Paul Ricoeur (1984, p.3) who argues that,
 
@@ -12,7 +12,11 @@ The concept of rhythm become relevant here and of (rhythmic) times within (linea
 
 We are all born with a sense of event time, which is at once subjective and culturally objective. 
 
-Hans Ramo (1999) discusses these two ancient Greek concepts of time along with their corresponding concepts of space, _chora_ (or _khora_) and _topos_, in conjunction with the Aristoelian notions of action and the kind of knowledge with which those modes of action are associated: theoria (contemplation of universals) and episteme (knowledge of universals, 'scientific' knowledge); poiesis (making, producing) and techne (skill, know-how, proficiency); and praxis (action, inter-action) and phronesis (practical wisdom, judgement). He develops four possible time-spaces: Chronochora (abstract time-abstract space), chronotopos (abstract time-meaningful space), kairochora (meaningful time-abstract space) and kairotopos (meaningful time-meaningful space).
+Hans Ramo (1999) discusses these two ancient Greek concepts of time along with their corresponding concepts of space, _chora_ (or _khora_) and _topos_, in conjunction with the Aristoelian notions of action and the kind of knowledge with which those modes of action are associated: _theoria_ (contemplation of universals) and _episteme_ (knowledge of universals, 'scientific' knowledge); _poiesis_ (making, producing) and _techne_ (skill, know-how, proficiency); and _praxis_ (action, inter-action) and _phronesis_ (practical wisdom, judgement). He develops four possible time-spaces: _chronochora_ (abstract time-abstract space), _chronotopos_ (abstract time-meaningful space), _kairochora_ (meaningful time-abstract space) and _kairotopos_ (meaningful time-meaningful space). 
+
+The last term, _kairotopos_, might be taken as a definition of a sense of 'place' and 'placiality', where both the spatiality (my space, our space) and the temporality (my memory, our memory, my history, our history) are significant for a situated human being. 
+
+This bears on the discussion of the notion of 'home' (our space, our history) and whether one should presume that the fundamental human experience is that of 'homeliness' (being-at-home) or of displacement (being-at-odds), in relation, for example, to Heidegger's notion of 'being-thrown', the 'thrownness' of being human. Perhaps it is the case that we are at once thrown into the known (tradition, what has unfolded and continues to unfold) and the unknown (futurity, what will unfold henceforth).
 
 **References**
 
