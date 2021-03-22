@@ -41,6 +41,14 @@ Other theorists and notions that resonate with, and the traces of which one may 
 In “The Radio as an Apparatus of Communication” (1932), Brecht argues that it takes time before the potential of a new technical apparatus is culturally understood. Radio, for example, was mainly used as “a substitute for theatre, opera, concerts, lectures, café music, local newspapers and so forth in 1932. Brecht, however, suggests that the time is ripe for a different use of this medium: radio as an apparatus of communication rather than as a means of distribution. Radio could and indeed should, in Brecht's view, be used in two directions, to become a communication apparatus in public life. Radio thus transform from a mere apparatus
 that the listener turns “off” and “on” into a participatory medium.
 
+**The Flusserian Apparatus**
+
+Similarly to Brecht, Flusser argues, but with respect to photography rather than radio, that technical media are not merely apparatuses but means of communicating information. Flusser advocates a dynamic interaction between the apparatus and its user. An image produced by the camera is always already “prepared” or delimited by the apparatus. Thus, the photographer, Flusser contends, should become aware of the technological characteristics of his apparatus in order to be able to use its potential in a cultural or “public” context. Just as Brecht makes the case that radio could become “the finest communication apparatus in public life,” Flusser makes the case that photography should be made to bring to attention relevant information for culture and society (van der Meulen, 2010).
+
+**Implications for the design of narrative environments**
+
+In respect of whatever media and materialities are used, the designer should be aware that they bring with them a certain 'preparedness' or 'delimitedness' as forms of 'apparatus'. Being aware of those technical characteristics as delimitations, the designer should be more able to configure their narrative environment so as to use their potential in a cultural or 'public' context, as forms of civic, public education or information. 
+
 **Notes**
 
 **[1]** These three axes may be fruitfully articulated with those of Greimas in his actantial model, characterised as knowledge, power and desire, in order to relate narrative theory to a Foucauldian political theory.
@@ -64,4 +72,6 @@ Frost, T. (2015). The Dispositif between Foucault and Agamben. _Law, Culture and
 McHoul, A. (2009) Discourse, Foucauldian approach, In _Concise encyclopedia of pragmatics_, 2nd ed., edited by Jacob L. Mey. London: Elsevier.
 
 Radomska, M. (2010). Towards a posthuman collective: ontology, epistemology and ethics. Praktyka Teoretyczna, (1), pp.93–115\. Available at: https://www.academia.edu/513218/Towards_a_Posthuman_Collective_Ontology_Epistemology_and_Ethics
+
+van der Meulen, S. (2010) ‘Between Benjamin and McLuhan: Vilem Flusser’s Media Theory’, _New German Critique_, 37(2), pp. 180–207. doi: 10.1215/0094033X-2010-010.
 
