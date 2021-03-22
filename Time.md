@@ -12,11 +12,11 @@ The concept of rhythm become relevant here and of (rhythmic) times within (linea
 
 We are all born with a sense of event time, which is at once subjective and culturally objective. 
 
-Hans Ramo (1999) discusses these two ancient Greek concepts of time along with heir corresponding concepts of space: _chora_ (or _khora_) and _topos_.
+Hans Ramo (1999) discusses these two ancient Greek concepts of time along with their corresponding concepts of space, _chora_ (or _khora_) and _topos_, in conjunction with the Aristoelian notions of action and the kind of knowledge with which those modes of action are associated: theoria (contemplation of universals) and episteme (knowledge of universals, 'scientific' knowledge); poiesis (making, producing) and techne (skill, know-how, proficiency); and praxis (action, inter-action) and phronesis (practical wisdom, judgement). He develops four possible time-spaces: Chronochora (abstract time-abstract space), chronotopos (abstract time-meaningful space), kairochora (meaningful time-abstract space) and kairotopos (meaningful time-meaningful space).
 
 **References**
 
-Ramo, H. (1999) ‘An Aristotelian human time-space manifold: from chronochora to kairotopos’, _Time & Society_, 8(2–3), pp. 309–328. doi: 10.1177/0961463X99008002006.
+Ramo, H. (1999) ‘An Aristotelian human time-space manifold: from chronochora to kairotopos’, _Time & Society_, 8(2–3), pp. 309–328. doi: 10.1177/0961463X99008002006.time-meaningful place)
 
 Ricoeur, P. (1984) _Time and narrative. Volume 1_. Translated by K. McLaughlin and D. Pellauer. Chicago, IL: University of Chicago Press.
 
