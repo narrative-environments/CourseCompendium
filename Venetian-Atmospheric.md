@@ -1,4 +1,4 @@
-## Venetian, Atmospherics
+## Venetian, Atmospheric
 
 RELATED TERMS: 
 
