@@ -36,6 +36,11 @@ A dispositif/apparatus, then, forms a material-discursive practice, crucial for 
 
 Other theorists and notions that resonate with, and the traces of which one may find in Barad’s project, according to Radomska (2010: 106n), apart from Foucault’s dispositif/apparatus, are Ranciere’s ‘distribution of the sensible’, Haraway’s apparatuses of bodily production, Latour’s inscription and translation and Butler’s performative. Another key example is Deleuze and Guattari’s (1987) notion of assemblage. They assert that “every assemblage … is simultaneously and inseparably a machinic assemblage and an assemblage of enunciation. In each case, it is necessary to ascertain both what is said and what is done.” (Deleuze and Guattari, 1987: 504)
 
+**The Brechtian Apparatus** 
+
+In “The Radio as an Apparatus of Communication” (1932), Brecht argues that it takes time before the potential of a new technical apparatus is culturally understood. Radio, for example, was mainly used as “a substitute for theatre, opera, concerts, lectures, café music, local newspapers and so forth in 1932. Brecht, however, suggests that the time is ripe for a different use of this medium: radio as an apparatus of communication rather than as a means of distribution. Radio could and indeed should, in Brecht's view, be used in two directions, to become a communication apparatus in public life. Radio thus transform from a mere apparatus
+that the listener turns “off” and “on” into a participatory medium.
+
 **Notes**
 
 **[1]** These three axes may be fruitfully articulated with those of Greimas in his actantial model, characterised as knowledge, power and desire, in order to relate narrative theory to a Foucauldian political theory.
@@ -43,6 +48,8 @@ Other theorists and notions that resonate with, and the traces of which one may 
 **Sources**
 
 Agamben, G. (2009). What is an apparatus, In _What is an apparatus? and other essays_, Stanford, CA: Stanford University Press.
+
+Bertolt Brecht, “The Radio as an Apparatus of Communication,” in _Brecht on Theatre: The Development of an Aesthetic_, ed. and trans. John Willett (New York: Hill and Wang, 1964),51-52.
 
 Deleuze, G. (1992). What is a dispositif? In: _Michel Foucault, Philosopher: essays translated from the French and German_ by Timothy J. Armstrong. New York, NY: Routledge, 159–168.
 
