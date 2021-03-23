@@ -6,7 +6,7 @@ A narrative environment could be conceived as a ‘_dispositif_’ or a concrete
 
 Jerome Fletcher notes that the term ‘apparatus’ is often used as a translation of the French term dispositif, a term employed initially by Foucault and elaborated by Agamben and Deleuze. In this usage, apparatus does not simply refer to a mechanism, device or physical object, such as, for example, computer hardware, but is more like an arrangement, for example, of hardware, software, code, writing, performance, usage, texts, ideology, writers, readers, coders, decoders, executions (of programs) and so on, together.
 
-Frost (2015) explains the term disposition in the following way,
+Frost (2015) explains the term dispositif in the following way,
 
 “The _dispositif_ represents the network of power relations which articulates how a power not based upon classical conceptions of sovereignty manifests itself … . It is through the _dispositif_ that the human being is transformed into both a subject, and an object, of power relations. Agamben also focuses upon the _dispositif_, and specifically how it operates as an apparatus to control humanity.” (Frost, 2015: 152)
 
