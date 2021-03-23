@@ -1,6 +1,6 @@
 ## Photography
 
-**RELATED TERMS: Painting; Apparatus - Dispositif**
+**RELATED TERMS: Painting; [Apparatus - Dispositif](https://narrative-environments.github.io/CourseCompendium/Apparatus-Dispositif.html)**
 
 In the context of the design of narrative environments, photography is one of the many media that may be employed, often as part of a multi-media, multi-modal environment or assemblage. As the history of the cultural and artistic disruption caused by photography shows, the use of any particular medium alters the balance of roles among media in engaging with materiality through what might be called a media ecology.
 
