@@ -1,6 +1,6 @@
 ## Painting
 
-**RELATED TERMS: Visual Arts**
+**RELATED TERMS: Visual Arts; Photography**
 
 Painting is the central, canonical medium of art history.
 
