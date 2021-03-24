@@ -24,6 +24,8 @@ Ramo, H. (1999) ‘An Aristotelian human time-space manifold: from chronochora t
 
 Ricoeur, P. (1984) _Time and narrative. Volume 1_. Translated by K. McLaughlin and D. Pellauer. Chicago, IL: University of Chicago Press.
 
+Rovelli, C. (2018) _The Order of time: seven brief lessons on physics_. Translated by E. Segre and S. Carnell. New York, NY: Riverhead Books.
+
 Thackara, J. (2005) _In the bubble: designing in a complex world_. Cambridge, MA: MIT Press.
 
 Wolf, W. (2003) ‘Narrative and narrativity: a narratological reconceptualization and its applicability to the visual arts’, _Word & Image_, 19(3), pp. 180–197. doi: 10.1080/02666286.2003.10406232.
