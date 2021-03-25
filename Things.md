@@ -16,11 +16,13 @@ While the human is engaged, or perhaps co-constituted, with(in) the material wor
 
 "We can think of the world as made up of things. Of substances. Of entities. Of something that is. Or we can think of it as made up of events. Of happenings. Of processes. Of something that occurs. Something that does not last, and that undergoes continual transformation, that is not permanent in time. The destruction of the notion of time in fundamental physics is the crumbling of the first of these two perspectives, not of the second. It is the realization of the ubiquity of impermanence, not of stasis in a motionless time."
 
-In this sense, "The world is not a collection of things, it is a collection of events", the difference between them being, as Rovelli eloquently expressesi it, is that,  
+In this sense, "The world is not a collection of things, it is a collection of events", the difference between them being, as Rovelli eloquently expresses it, is that,  
 
-"things persist in time; events have a limited duration. A stone is a prototypical “thing”: we can ask ourselves where it will be tomorrow. Conversely, a kiss is an “event.” It makes no sense to ask where the kiss will be tomorrow. The world is made up of networks of kisses, not of stones." [Although, we do ask ourselves, do we not, where the kiss will be tomorrow?]
+"things persist in time; events have a limited duration. A stone is a prototypical “thing”: we can ask ourselves where it will be tomorrow. Conversely, a kiss is an “event.” It makes no sense to ask where the kiss will be tomorrow. The world is made up of networks of kisses, not of stones." [Although, we do ask ourselves, do we not, where the kiss will be tomorrow, or where the kiss will come from tomorrow?]
 
 The design of narrative environments, while recognising and employing the duration of certain 'things', is concerned with the world as the passage and timing of events. It is, in this way, similar to composition (semiotic notation), on the one hand, and choreography (the inter-relationships among moving bodies and 'things'), on the other hand; and to composed choreographics or choreographed composition, on the third hand!
+
+The things that are most “thinglike”, that is seemingly durable, are more properly long-lasting events which seem to have consolidated.
 
 **References**
 
