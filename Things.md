@@ -20,7 +20,7 @@ In this sense, "The world is not a collection of things, it is a collection of e
 
 "things persist in time; events have a limited duration. A stone is a prototypical “thing”: we can ask ourselves where it will be tomorrow. Conversely, a kiss is an “event.” It makes no sense to ask where the kiss will be tomorrow. The world is made up of networks of kisses, not of stones." [Although, we do ask ourselves, do we not, where the kiss will be tomorrow?]
 
-The design of narrative environments, while recognising and employing the duration of certain 'things', is concerned with the world as the passage and timing of events. It is, in this way, similar to composition (semiotic notation), on the one hand, and choreography (the inter-relationships among moving bodies and 'things'), on the other hand.
+The design of narrative environments, while recognising and employing the duration of certain 'things', is concerned with the world as the passage and timing of events. It is, in this way, similar to composition (semiotic notation), on the one hand, and choreography (the inter-relationships among moving bodies and 'things'), on the other hand; and to composed choreographics or choreographed composition, on the third hand!
 
 **References**
 
