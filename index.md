@@ -91,6 +91,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Ergodic](Ergodic.md)
 * [Ethnography](Ethnography.md)
 * [Ethnomethodology](Ethnomethodology.md)
+* [Events](Events.md)
 * [Exhibition Design](Exhibition-Design.md)
 * [Experience Design](Experience-Design.md)
 * [Extradiegetic](Extradiegetic.md)
