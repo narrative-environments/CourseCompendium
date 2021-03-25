@@ -24,7 +24,7 @@ Ramo, H. (1999) ‘An Aristotelian human time-space manifold: from chronochora t
 
 Ricoeur, P. (1984) _Time and narrative. Volume 1_. Translated by K. McLaughlin and D. Pellauer. Chicago, IL: University of Chicago Press.
 
-Rovelli, C. (2018) _The Order of time: seven brief lessons on physics_. Translated by E. Segre and S. Carnell. New York, NY: Riverhead Books.
+Rovelli, C. (2018) _The Order of time_. Translated by E. Segre and S. Carnell. New York, NY: Riverhead Books.
 
 Thackara, J. (2005) _In the bubble: designing in a complex world_. Cambridge, MA: MIT Press.
 
