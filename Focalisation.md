@@ -14,6 +14,8 @@ Genette makes a distinction between focalization and the narrator. Genette refer
 
 Genette distinguishes between zero focalisation, on the one hand, and a pair of terms defining restricted points of view, internal and external focalisation, on the other hand. With zero focalisation the authorial narrator is above the world of the action, looking down on it, and is able to see into the characters’ minds as well as shifting between the various locations where the story takes place (‘omniscient narrator’). This perspective is unrestricted or unlimited in contrast to the limitations of internal and external focalization. In the case of internal perspective, the view is restricted to that of a single character; in that of external perspective to a view of the world from outside, allowing no insight into the inner workings of people’s minds.
 
+For Genette, internal focalization refers to a narrative situation where the narrator is external to the storyworld – i.e. heterodiegetic – and talks about the characters in the third person while providing information about the protagonist’s inner, mental life (Lissa, et al, 2016, 44).
+
 The Genettean model is, however, inconsistent, Fludernik (2009) argues, because the reflector character is presented by means of internal focalization but s/he sees other characters under the restrictions of external focalisation. Reflector characters or reflector figures are so called, originally by Henry James, because they ‘reflect’ the story to the reader rather than telling it to them as a narrator persona would.
 
 **References**
@@ -23,6 +25,8 @@ Bal, M. (1997). _Narratology: introduction to the theory of narrative_, 2nd ed. 
 Fludernik, Monika (2005). Histories of narrative theory (II): from structuralism to the present, In: _A Companion to narrative theory_, edited by J. Phelan and P. J. Rabinowitz. Oxford: Blackwell Publishing, 36-59.
 
 Fludernik, M. (2009). Focalization, perspective, point of view. In: _An Introduction to Narratology_. London, UK: Routledge, 36–39.
+
+Lissa, C. J. van et al. (2016) ‘Difficult empathy: the effect of narrative perspective on readers’ engagement with a first-person narrator’, _Diegesis_, 5(1), pp. 43–63. Available at: https://www.diegesis.uni-wuppertal.de/index.php/diegesis/article/view/211.
 
 Niederhoff, B. (2011). Focalization. The Living Handbook of Narratology. Available from http://wikis.sub.uni-hamburg.de/lhn/index.php/Focalization [Accessed 1 June 2017].
 
