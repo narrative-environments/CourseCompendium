@@ -2,7 +2,7 @@
 
 **RELATED TERMS: Space; Rhythm; Place; Placiality and Spatiality**
 
-From the perspective of the design of narrative environments, the relationship between narrative, time and the human is established by Paul Ricoeur (1984, p.3) who argues that,
+From the perspective of the design of narrative environments, the relationships among narrative, time and the human is established by Paul Ricoeur (1984, p.3) who argues that,
 
 'time becomes human time to the extent that it is organized after the manner of a narrative; narrative, in turn, is meaningful to the extent that it portrays the features of temporal experience.' 
 
@@ -17,6 +17,8 @@ Hans Ramo (1999) discusses these two ancient Greek concepts of time along with t
 The last term, _kairotopos_, might be taken as a definition of a sense of 'place' and 'placiality', where both the spatiality (my space, our space) and the temporality (my memory, our memory, my history, our history) are significant for a situated human being. 
 
 This bears on the discussion of the notion of 'home' (our space, our history) and whether one should presume that the fundamental human experience is that of 'homeliness' (being-at-home) or of displacement (being-at-odds), in relation, for example, to Heidegger's notion of 'being-thrown', the 'thrownness' of being human. Perhaps it is the case that we are at once thrown into the known (tradition, what has unfolded and continues to unfold) and the unknown (futurity, what will unfold henceforth).
+
+Carlo Rovelli: "If by 'time' we mean nothing more than happening, then everything is time. There is only that which exists in time."
 
 **References**
 
