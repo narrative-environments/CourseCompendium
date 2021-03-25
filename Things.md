@@ -28,4 +28,4 @@ The things that are most “thinglike”, that is seemingly durable, are more pr
 
 Hodder, I. (2014) ‘The Entanglements of humans and things: a long-term view’, _New Literary History_, 45(1), pp. 19–36. doi: 10.1353/nlh.2014.0005.
 
-Rovelli, C. (2018) _The Order of time: seven brief lessons on physics_. Translated by E. Segre and S. Carnell. New York, NY: Riverhead Books.
+Rovelli, C. (2018) _The Order of time_. Translated by E. Segre and S. Carnell. New York, NY: Riverhead Books.
