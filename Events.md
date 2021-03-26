@@ -8,4 +8,4 @@ It is this recognition that underlies the design of narrative environments as ev
 
 **References**
 
-Rovelli, C. (2018) _The Order of time: seven brief lessons on physics_. Translated by E. Segre and S. Carnell. New York, NY: Riverhead Books.
+Rovelli, C. (2018) _The Order of time_. Translated by E. Segre and S. Carnell. New York, NY: Riverhead Books.
