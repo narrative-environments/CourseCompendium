@@ -10,6 +10,12 @@ An interesting example in this context is Jeremy Deller's re-enactment of the Ba
 
  https://www.jeremydeller.org/TheBattleOfOrgreave/TheBattleOfOrgreave_Video.php and https://www.artangel.org.uk/project/the-battle-of-orgreave/ 
  
+Sam Jacob (2012) argues that, "If we trace architecture’s history, we can see that ... radical re-enactment is a fundamental mode of its development."
+ 
 **Other sources**
 
 History will repeat itself – https://hmkv.de/exhibition/exhibition-detail/history-will-repeat-itself-strategies-of-re-enactment-in-contemporary-media-art-and-performance.html
+
+**References**
+
+Jacob, S. (2012) _Make it real: architecture as enactment_. Moscow, RU: Strelka Press.
