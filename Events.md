@@ -1,6 +1,6 @@
 ## Events
 
-**RELATED TERMS: Things; Actant**
+**RELATED TERMS: [Things](https://github.com/narrative-environments/CourseCompendium/blob/main/Things.md); Actant**
 
 Carlo Rovelli notes that, "The basic units in terms of which we comprehend the world are not located in some specific point in space. They are — if they are at all — in a where but also in a when. They are spatially but also temporally delimited: they are events."
 
