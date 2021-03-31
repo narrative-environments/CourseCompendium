@@ -6,9 +6,11 @@
 
 “The point is not to gain some knowledge about philosophy but to be able to philosophise.” Martin Heidegger, _The Basic Problems of Phenomenology_.
 
-The word philosophy derives from from the Greek term <span class="dbox-italic"><span class="oneClick-link oneClick-available">philosophia</span> which means</span> <span class="oneClick-link">love</span> <span class="oneClick-link">of</span> <span class="oneClick-link">knowledge,</span> <span class="oneClick-link">pursuit</span> <span class="oneClick-link">of</span> <span class="oneClick-link">wisdom or</span> <span class="oneClick-link">systematic</span> <span class="oneClick-link oneClick-available">investigation. It is a combination of two roots:</span> <span class="dbox-italic"><span class="oneClick-link">philo-, meaning</span> </span><span class="oneClick-link">loving and</span> <span class="dbox-italic"><span class="oneClick-link">sophia</span> meaning</span> <span class="oneClick-link">knowledge or</span> <span class="oneClick-link oneClick-available">wisdom.</span>
+The word philosophy derives from from the Greek term _philosophia_ which means love of knowledge,pursuit of wisdom or systematic investigation. It is a combination of two roots: philo-, meaning loving and sophia meaning knowledge orwisdom.
 
-<span class="oneClick-link oneClick-available">The value of philosophy for narrative environment design and analysis</span> is perhaps best demonstrated with reference to Gregory Fried’s (2011: 240) characterisation of philosophical practice. While acknowledging that there is no consensus on what constitutes philosophy, Fried suggests that philosophy can be thought of as having three moments, moments which are perhaps also present in design practice, as will be discussed below.
+Susan Stephenson (1999: 5) argues that, "Philosophical enquiry begins with problems that arise concretely within the life of a particular individual. It procedes through a process of dialectical confrontations with different answers to how these problems can be addressed."
+
+The value of philosophy for narrative environment design and analysis is perhaps best demonstrated with reference to Gregory Fried’s (2011: 240) characterisation of philosophical practice. While acknowledging that there is no consensus on what constitutes philosophy, Fried suggests that philosophy can be thought of as having three moments, moments which are perhaps also present in design practice, as will be discussed below.
 
 The first moment, as articulated by Aristotle in the _Metaphysics_, is that philosophy begins with a sense of wonder (thaumazein in Greek). That wonder is the experiencing of something as deserving or demanding our attention because it is delightful, puzzling and enticing. [Equally, it could be argued that philosophy might begin with a sense of horror or trauma, which may be similarly demanding of our attention, but not for reasons of delight. The crucial point is that philosophy begins with experience and perhaps heightened experience of some kind].
 
@@ -53,4 +55,6 @@ All of these domains (ethics, epistemology, metaphysics or ontology, semantics, 
 Fried, G. (2011). A Letter to Emmanuel Faye. _Philosophy Today_, 55 (3), 219–252\. Available from https://www.academia.edu/2613554/A_Letter_to_Emmanuel_Faye [Accessed 29 August 2016].
 
 Smith, D.W. (2013). Phenomenology. _The Stanford Encyclopedia of Philosophy_. Available from http://plato.stanford.edu/entries/phenomenology/#5 [Accessed 5 September 2016].
+
+Stephenson, S. (1999) ‘Narrative, identity and modernity’, in _ECPR workshop ‘The Political Uses of Narrative’ Mannheim, 29-31 March, 1999_, pp. 1–18. Available at: https://ecpr.eu/Filestore/PaperProposal/37fe9dc5-6ad9-4a73-b35a-704d8265ecb0.pdf (Accessed: 31 March 2021).
 
