@@ -1,6 +1,6 @@
 Hello! Welcome to the Narrative Environments Course Compendium!
 
-" ... in deciding what to do, I must consult my narrative environment." (Bernard Williams, 2009, 1987)
+" ... in deciding what to do, I must consult my narrative environment." (Bernard Williams, 2009, 1987: 305)
 
 Williams, B. (2009, 1987) ‘Life as narrative’, _European Journal of Philosophy_, 17(2), pp. 305–314. doi: 10.1111/j.1468-0378.2007.00275.x.
 
