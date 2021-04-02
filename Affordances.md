@@ -20,6 +20,8 @@ Gibson, J.J., 1979: _The ecological approach to visual perception_. Hillsdale, N
 
 Interaction Design Foundation (no date). Affordances. _Interaction Design Foundation_. Available from https://www.interaction-design.org/literature/topics/affordances [Accessed 2 April 2021]
 
+Norman, D. (2013) _The Design of everyday things_. Rev & Exp ed. New York, NY: Basic Books.
+
 RELATED TERMS
 
 * New Materialism
