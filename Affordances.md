@@ -8,11 +8,17 @@ Such affordances could be understood as ‘objective’, i.e. ‘reflective’ o
 
 Furthermore, such environmental or ecological perception is part of an engagement with the ongoing situation(s) in which the perceiver/actor is actively partaking. It is through such situations that the environments or ecologies are partly constituted as environments and ecologies. That is, perception itself is an active scanning of situations and environments, not simply a passive reception of stimuli from environments. Perception, in other words, is multiply motivated and involves, as Merleau-Ponty affirms, the whole body in movement in domains constituted through intercorporeal interaction.
 
+**Affordances and Design**
+
+The Interaction Design Foundation develops the discussion of the use of the notion of affordances in the context of design. The key figure in the introduction of affordances into design is Don Norman.
+
 **References**
 
 Edgeworth, M. (2016). Grounded objects. Archaeology and speculative realism. _Archaeological Dialogues_, 23 (01), 93–113\. Available from http://www.journals.cambridge.org/abstract_S138020381600012X [Accessed 21 June 2016].
 
 Gibson, J.J., 1979: _The ecological approach to visual perception_. Hillsdale, N.J.: Lawrence Erlbaum 1986.
+
+Interaction Design Foundation (no date). Affordances. _Interaction Design Foundation_. Available from https://www.interaction-design.org/literature/topics/affordances [Accessed 2 April 2021]
 
 RELATED TERMS
 
