@@ -127,6 +127,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Human Actantiality](Human-Actantiality.md)
 * [Human Ecosystem](Human-Ecosystem.md)
 * [Humanism](Humanism.md)
+* [Imaginary](Imaginary.md)
 * [Implict Narrative](Implicit-Narrative.md)
 * [In Medias Res](In-Medias-Res.md)
 * [Information Science](Information-Science.md)
