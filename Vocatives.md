@@ -11,3 +11,5 @@ In the design of narrative environments, vocative expressions are often distribu
 **References**
 
 Harnby, L. (2019) Addressing others in dialogue: using vocatives, _The Editing Blog_. Available at: https://www.louiseharnbyproofreader.com/blog/addressing-others-in-dialogue-using-vocatives (Accessed: 6 April 2021).
+
+Tunis, C. (2007) Scopic / vocative, _The Chicago School of Media Theory_. Available at: https://lucian.uchicago.edu/blogs/mediatheory/keywords/scopic-vocative/ (Accessed: 6 April 2021).
