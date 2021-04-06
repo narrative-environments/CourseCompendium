@@ -273,6 +273,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Venetian, Atmospheric](Venetian-Atmospheric.md)
 * [Video Art](Video-Art.md)
 * [Visual Arts](Visual-Arts.md)
+* [Vocatives: Calling, Recalling and Modes of Address](Vocatives.md)
 * [Vortex House](Vortex-House.md)
 * [World, World of the Story and World of the Narrative Environment](World.md)
 * [World-forming, World-making, World-building](World-Forming.md)
