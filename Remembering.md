@@ -1,9 +1,17 @@
-##Remembering: Mnemonics, Mnemotechne and Memory##
+## Remembering: Mnemonics, Mnemotechne and Memory
 
-**RELATED TERMS: Vocatives; **
+**RELATED TERMS: [Vocatives](https://github.com/narrative-environments/CourseCompendium/blob/main/Vocatives.md); **
 
-Today’s cognitive science validates what memory practitioners already knew long before Shakespeare’s era: Physical configurations reinforce recollection, whether on the page of a book or the stage of a theater. They even called their spatial art of memory the method of loci, or “places.”
+Scott Newstok (2021) comments that contemporary cognitive science validates what ancient memory practitioners already knew: that physical configurations reinforce recollection, whether on the page of a book, on the stage of a theatre or, we would add, in a narrative environment. The Romans called their spatial art of memory _the method of loci_, or 'places'. This method was widely used by by orators and others from classical, through medieval, up until early modern times.
 
-We need constantly to be re-minded, we need constantly to re-call, to be called into recollection.
+As Thomas (2014), in discussing the use of imagery in mnemonics, notes, "The method of loci was originally mainly used by orators to remember the points to be made in a speech, in their proper order, although related imagery based techniques would later come to be used for other purposes, such as spiritual exercises." In the Middle Ages and the Renaissance, very elaborate versions of _the method of loci_ were developed. They used specially learned imaginary spaces, called memory theatres or memory palaces, accompanied by complex systems of predetermined symbolic images, often imbued with occult or spiritual significances (Thomas, 2014).
 
-The mind, without signs in the form of physical markers, tends to wandering and errancy, to a different kind of semiosis. The experience of embodiment, of which the imaginary and dreaming are counterbalances, requires the mnemotechnics of placing.
+In the context of the design of narrative environments, it is recognised that we need constantly to be re-minded, we need constantly to be re-called, to be called back into recollection, in order to follow a (life-)path and to construct and re-construct a coherent identity.
+
+The mind, without signs in the form of physical markers, imagery or language markers, tends to wandering and errancy, to a different kind of semiosis, one characterised as 'dreaming'. The experience of embodiment, of which the imaginary and dreaming are displacements and counterbalances, is threaded through the mnemotechnics of emplacement. The design of narrative environments plays upon embodiment in its relation to the imaginary and to dreaming.
+
+**References**
+
+Newstok, S. (2021) ‘By going virtual during the pandemic, we’ve lost our sense of place’, _Dallas Morning News_, 28 March. Available at: https://www.dallasnews.com/opinion/commentary/2021/03/28/by-going-virtual-during-the-pandemic-weve-lost-our-sense-of-place/?outputType=amp&__twitter_impression=true (Accessed: 6 April 2021).
+
+Thomas, N. J. T. (2014) ‘Ancient imagery mnemonics’, _Stanford Encyclopedia of Philosophy_. Available at: https://plato.stanford.edu/entries/mental-imagery/ancient-imagery-mnemonics.html (Accessed: 6 April 2021).
