@@ -1,4 +1,4 @@
-##Vocatives: Calling, Recalling and Modes of Address##
+##Vocatives: Calling, Recalling and Modes of Address
 
 **RELATED TERMS: Remembering: Mnemonics, Mnemotechnics and Memory; **
 
