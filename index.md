@@ -68,6 +68,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Dau Project](Dau-Project.md)
 * [Deep Wounds](Deep-Wounds.md)
 * [Defamiliarisation](Defamiliarisation.md)
+* [Deixis and Indexicality](Deixis.md)
 * [Der Block](Der-Block.md)
 * [Derive](Derive.md)
 * [Design History](Design-History.md)
