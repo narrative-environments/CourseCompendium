@@ -16,4 +16,6 @@ The design of narrative environments, therefore, incorporates and integrates sev
 
 Newstok, S. (2021) ‘By going virtual during the pandemic, we’ve lost our sense of place’, _Dallas Morning News_, 28 March. Available at: https://www.dallasnews.com/opinion/commentary/2021/03/28/by-going-virtual-during-the-pandemic-weve-lost-our-sense-of-place/?outputType=amp&__twitter_impression=true (Accessed: 6 April 2021).
 
+Rubinelli, S. (2009) _Ars Topica: The classical technique of constructing arguments from Aristotle to Cicero_. Dordrecht, NL: Springer.
+
 Thomas, N. J. T. (2014) ‘Ancient imagery mnemonics’, _Stanford Encyclopedia of Philosophy_. Available at: https://plato.stanford.edu/entries/mental-imagery/ancient-imagery-mnemonics.html (Accessed: 6 April 2021).
