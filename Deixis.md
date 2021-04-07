@@ -1,4 +1,4 @@
-## Deixis and Indexicals
+## Deixis and Indexicality
 
 RELATED TERMS:
 
