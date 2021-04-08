@@ -20,6 +20,7 @@ This is a work in progress. So far, the entries we have are as follows:
 
 * [Actant](actant.md)
 * [Actantial Model - Greimas](Actantial-Model-Greimas.md)
+* [Actantiality](Actantiality.md)
 * [Actor-Network Theory](Actor-Network-Theory.md)
 * [Actors](Actors.md)
 * [Affordances](Affordances.md)
