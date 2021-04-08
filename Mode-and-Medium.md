@@ -4,8 +4,8 @@
 
 The notion of a medium cannot be understood simply as a technology of production and distribution. It must also be understood as social practice and as a cultural phenomenon. Thus, Jenkins (2006), for example, suggests a model of media that works on two levels: 
 
-*a medium is a technology that enables communication; and 
-*a medium is a set of associated protocols or social and cultural practices that have grown up around that technology.
+*a medium is a technology that enables communication; and* 
+*a medium is a set of associated protocols or social and cultural practices that have grown up around that technology.*
 
 Medium of production and dissemination and mode of representation are often conflated. This conflation reflects a recent history in which there was a congruence of a kind between medium, such as radio, and mode, for example, speech or music, or of the medium of book and the mode of writing.
 
