@@ -14,7 +14,7 @@ Edited by Allan Parsons on 27 March 2021
 
 **Note**
 
-[1] [The Civic Imagination Project](https://www.civicimaginationproject.org/about) defines civic imagination as "our collective vision for what a better tomorrow might look like".
+**[1]** [The Civic Imagination Project](https://www.civicimaginationproject.org/about) defines civic imagination as "our collective vision for what a better tomorrow might look like".
 
 This is a work in progress. So far, the entries we have are as follows:
 
