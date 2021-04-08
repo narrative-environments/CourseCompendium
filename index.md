@@ -6,11 +6,15 @@ Williams, B. (2009, 1987) ‘Life as narrative’, _European Journal of Philosop
 
 The design of narrative environments lies at the intersection of design as social practice taking place within, while re-shaping, public space; design as commercial practice taking place within, while re-shaping, global and local marketplaces; design as spatial practice taking place within, while re-shaping, natural, urban and digital environments; and design as academic discipline, taking place within, while re-shaping, the interdisciplinarity of the university. 
 
-While this conjunction brings it into relation to, but at a critical distance from, forms of socially engaged art practice, more importantly it establishes the potential of the design of narrative environments as an educational intervention into what has been called the civic imagination, notably concerning the spatial and temporal boundaries of the public, citizenship, identity and belonging and the displacements which such phenomena are undergoing. 
+While this conjunction brings it into relation to, but at a critical distance from, forms of socially engaged art practice, more importantly it establishes the potential of the design of narrative environments as an educational intervention into what has been called the civic imagination<sup>1<sup>, notably concerning the spatial and temporal boundaries of the public, citizenship, identity and belonging and the displacements which such phenomena are undergoing. 
 
 The design of narrative environments, being transformative in character, also lies at the intersection of the actual and the virtual, so is well positioned to incorporate explorations of the changing terrains emerging from the increasing ubiquity of digital technologies that continue to shift perceptions of the boundaries among the real, the artificial and the natural, a condition that requires not just (critical) reflection but also heightened awareness of the consequential outcomes of reflexive action and interaction.
 
 Edited by Allan Parsons on 27 March 2021
+
+**Note**
+
+[1] [The Civic Imagination Project](https://www.civicimaginationproject.org/about) defines civic imagination as "our collective vision for what a better tomorrow might look like".
 
 This is a work in progress. So far, the entries we have are as follows:
 
