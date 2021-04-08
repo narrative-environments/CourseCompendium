@@ -11,8 +11,9 @@ Transmedia, as an adjective, refers to some kind of structured relationship betw
 **Transmedia** approaches are:
 
   * multimodal - they deploy the affordances of more than one medium; 
-  * intertextual - each platform offers unique content that contributes to our experience of the whole; and 
-  * dispersed  - the viewer constructs an understanding of the core ideas through encounters across multiple platforms.
+  * intertextual - each platform offers unique content that contributes to our experience of the whole; 
+  * dispersed  - the viewer constructs an understanding of the core ideas through encounters across multiple platforms; and 
+  * layered - each extension adds something we did not know before, deepening our our intellectual and emotional connection to the material.
 
 **Cross-Platform** refers to the channel of delivery or means of distribution, such as cinema release, online streaming or sale of DVDs. The different channels are not related additively but are simply alternatives for each another. The reader-spectator need not visit all of these hubs; one will suffice. They will not learn anything new, content-wise, by viewing them all.
 
