@@ -2,7 +2,7 @@
 
 **RELATED TERMS: Theoretical practice; Design of Narrative environments; Sloterdijk; Arendt; Heidegger; Ontology; Lifeworld - Lebenswelt - Umwelt**
 
-As noted elsewhere, for example in the Design of Narrative Environments entry and the Theoretical Practice entry, a narrative environment may be said to constitute a world, and its approach to design could be considered ontological. The philosophical sources for this kind of thinking can be found in phenomenology, notably in the work of Heidegger, Arendt, Merleau-Ponty and Sloterdijk, as well as in anthropology. From the perspective of the design of narrative environments, world-making, world-forming or world-building practices are design practices, albeit of differing degrees of complexity.
+As noted elsewhere, for example in the Design of Narrative Environments entry and the Theoretical Practice entry, a narrative environment may be said to constitute a world, and its approach to design could be considered ontological. The philosophical sources for this kind of thinking can be found in phenomenology, notably in the work of Heidegger, Arendt, Merleau-Ponty and Sloterdijk, as well as in anthropology. From the perspective of the design of narrative environments, as a transmedia practice, world-making, world-forming or world-building practices are design practices, albeit of differing degrees of complexity.
 
 Thus, as Lemmens (2013) explains, like Heidegger, Sloterdijk conceives of humans as world-forming beings. For Sloterdijk, however, humans are never in the world nakedly or without protection, so to speak. They always reside in spheres. Another difference between them is that while Heidegger was principally engaged in the analysis of human being-in-the-world, Sloterdijk is more interested in the process of coming-into-the-world. Picking up on the theme of natality from Hannah Arendt, Sloterdijk emphasises that we all have to come to the world in order to be in it. We are born, but too soon (Elden and Mendieta, 2009: 5).
 
@@ -24,7 +24,7 @@ Such thinking can also be used to consider and gain a critical appreciation of t
 
 **World-building in transmedia practices**
 
-In the context of transmedia practices, Jenkins (2016) notes, the concept of world-building emerged from fantasy and science fiction. Nevertheless, it has also been applied to fictions of a documentary or historical character. Thus, fictional texts imagine and design new worlds; documentaries investigate and map existing worlds. From the point of view of the design of narrative environments, both forms exist in a critical relation to existing worlds, drawing attention to specific features of the constitution of thise worlds.
+In the context of transmedia practices, Jenkins (2016) notes, the concept of world-building emerged from fantasy and science fiction. Nevertheless, it has also been applied to fictions of a documentary or historical character. Thus, fictional texts imagine and design new worlds; documentaries investigate and map existing worlds. From the point of view of the design of narrative environments, both forms exist in a critical relation to existing worlds, drawing attention to specific features of the constitution of thise worlds, and by exploring multiple points of view or competing realities.
 
 As Jenkins explains, 
 
