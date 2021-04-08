@@ -8,7 +8,7 @@ Thus, as Lemmens (2013) explains, like Heidegger, Sloterdijk conceives of humans
 
 In Arendt’s (1958: 96) view, ‘world’ emerges from the work of _homo faber_, which she distinguishes from the labour of the _animal laborans._ Thus, Arendt argues,
 
-“Human life, in so far as it is world-building, is engaged in a constant process of reification, and the degree of worldliness of produced things, which all together form the human artifice, depends upon their greater or lesser permanence in the world itself.”
+  “Human life, in so far as it is world-building, is engaged in a constant process of reification, and the degree of worldliness of produced things, which all    together form the human artifice, depends upon their greater or lesser permanence in the world itself.”
 
 For Sloterdijk, coming-into-the-world essentially consists in the process of sphero-poiesis, the creation of protective, immunising inner worlds or inner spaces. Sloterdijk’s Spheres trilogy presents a grand cultural-historical panorama of the process of the sphero-poietic “coming-into-the-world” and, thereby, the “coming-into-being”, of the human being as the ek-sisting and world-disclosing being Heidegger described in _Being and Time_.
 
