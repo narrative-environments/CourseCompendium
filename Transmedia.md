@@ -22,5 +22,7 @@ A transmedia project, on the other hand, would distribute these experiences acro
 
 **References**
 
+Jenkins, H (2006) _Convergence Culture_. New York: New York University Press.
+
 Jenkins, H. (2016) Transmedia what?, _Immerse_. Available at: https://immerse.news/transmedia-what-15edf6b61daa (Accessed: 8 April 2021).
 
