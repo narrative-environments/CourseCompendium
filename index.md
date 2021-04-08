@@ -2,7 +2,7 @@ Hello! Welcome to the Narrative Environments Course Compendium!
 
 " ... in deciding what to do, I must consult my narrative environment." (Bernard Williams, 2009, 1987: 305)
 
-Williams, B. (2009, 1987) ‘Life as narrative’, _European Journal of Philosophy_, 17(2), pp. 305–314. doi: 10.1111/j.1468-0378.2007.00275.x.
+Williams, B. (2009, 1987) ‘Life as narrative’, _European Journal of Philosophy_, 17(2), 305–314. doi: 10.1111/j.1468-0378.2007.00275.x.
 
 The design of narrative environments lies at the intersection of design as social practice taking place within, while re-shaping, public space; design as commercial practice taking place within, while re-shaping, global and local marketplaces; design as spatial practice taking place within, while re-shaping, natural, urban and digital environments; and design as academic discipline, taking place within, while re-shaping, the interdisciplinarity of the university. 
 
