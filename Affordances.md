@@ -1,5 +1,7 @@
 ## Affordances
 
+**RELATED TERMS: [Actantiality](https://github.com/narrative-environments/CourseCompendium/blob/main/Actantiality.md); **
+
 The notion of affordance is important for narrative environment design as it emphasises the active nature of perception; the importance of the moving body in perception; the co-constitution of the human and the environmental/ecological; and the interactive nature of perceptual, meaning-making and world-making actions and processes (i.e. the making of lifeworlds as domains of meaningfulness and sustainable life-forms).
 
 To ecological psychologist James Gibson (1979), affordances are opportunities for action that an object provides or affords a perceiver/agent. For example, a chair may ‘afford’, i.e. enable, sitting; or it may permit standing upon it, to reach something else (a double ‘affordance’, so to speak: standing and reaching); or, alternatively, it may (because of its age or delapidation) provide a resource for chopping up to use as firewood.
