@@ -186,6 +186,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Non-Hylomorphism](Non-Hylomorphism.md)
 * [Notre Dame du Haut - Ronchamp Cathedral](Notre-Dame-Du-Haut.md)
 * [Object-Oriented Ontology](Object-Oriented-Ontology.md)
+* [Objects and Events](Objects-and-Events.md)
 * [Ontological Designing](Ontological-Designing.md)
 * [Ontological Metalepsis](Ontological-Metalepsis.md)
 * [Ontology](Ontology.md)
