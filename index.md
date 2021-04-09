@@ -48,6 +48,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Barbie and Ken - The Break-Up](Barbie-and-Ken.md)
 * [Beat](Beat.md)
 * [Before I Die](Before-I-Die)
+* [Being and Doing (and Having)](Being-and-Doing.md)
 * [Biopolitics and Biopower](Biopolitics-and-Biopower.md)
 * [Body](Body.md)
 * [Brand Identity and Brand Image](Brand-Identity.md)
