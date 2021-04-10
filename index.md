@@ -12,7 +12,7 @@ While you may enter the Compendium by starting from any node, as your investigat
 
 The Compendium seeks to enable you to understand how meanings, values, ethical stances, and political dynamics emerge through particular design configurations. It also enables you to question, to propose, to facilitate and to act in the pursuit of your design goals.
 
-Edited by Allan Parsons on 27 March 2021
+Edited by Allan Parsons on 10 April 2021
 
 This is a work in progress. So far, the entries we have are as follows:
 
