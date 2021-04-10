@@ -1,14 +1,16 @@
 Hello! Welcome to the Narrative Environments Course Compendium!
 
-" ... in deciding what to do, I must consult my narrative environment." (Bernard Williams, 2009, 1987: 305)
-
-Williams, B. (2009, 1987) ‘Life as narrative’, _European Journal of Philosophy_, 17(2), 305–314. doi: 10.1111/j.1468-0378.2007.00275.x.
-
 The design of narrative environments lies at the intersection of design as social practice taking place within, while re-shaping, public space; design as commercial practice taking place within, while re-shaping, global and local marketplaces; design as spatial practice taking place within, while re-shaping, natural, urban and digital environments; and design as academic discipline, taking place within, while re-shaping, the interdisciplinarity of the university. 
 
-While this conjunction brings it into relation to, but at a critical distance from, forms of socially engaged art practice, more importantly it establishes the potential of the design of narrative environments as an educational intervention into what has been called the civic, public or collective imagination<sup>**1**</sup>, notably concerning the spatial and temporal boundaries of public, civic identity and belonging and the material, ethical and political displacements which such phenomena are undergoing. 
-
 The design of narrative environments, being transformative in character, also lies at the intersection of the actual and the virtual, so is well positioned to incorporate explorations of the changing terrains emerging from the increasing ubiquity of digital technologies that continue to shift perceptions of the boundaries among the real, the artificial and the natural, a condition that requires not just (critical) reflection but also heightened awareness of the consequential outcomes of reflexive action and interaction.
+
+**How do you use this Compendium?**
+
+The design of narrative environments employs a tripartite model: people, narrative and environment, which form a network as an open, responsive adaptive system. 
+
+While you may enter the Compendium by starting from any node, as your investigation develops, you will become aware of how interaction is dispersed across the tripartite network. As you navigate the Compendium,  you will discover concepts, methods and theories that you can employ in the construction of your narrative environment.
+
+The Compendium seeks to enable you to understand how meanings, values, ethical stances, and political dynamics emerge through particular design configurations. It also enables you to question, to propose, to facilitate and to act in the pursuit of your design goals.
 
 Edited by Allan Parsons on 27 March 2021
 
