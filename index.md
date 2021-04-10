@@ -1,4 +1,4 @@
-Hello! Welcome to the Narrative Environments Course Compendium!
+**Hello! Welcome to the Narrative Environments Course Compendium!**
 
 The design of narrative environments lies at the intersection of design as social practice taking place within, while re-shaping, public space; design as commercial practice taking place within, while re-shaping, global and local marketplaces; design as spatial practice taking place within, while re-shaping, natural, urban and digital environments; and design as academic discipline, taking place within, while re-shaping, the interdisciplinarity of the university. 
 
@@ -13,10 +13,6 @@ While you may enter the Compendium by starting from any node, as your investigat
 The Compendium seeks to enable you to understand how meanings, values, ethical stances, and political dynamics emerge through particular design configurations. It also enables you to question, to propose, to facilitate and to act in the pursuit of your design goals.
 
 Edited by Allan Parsons on 27 March 2021
-
-**Note**
-
-**[1]** [The Civic Imagination Project](https://www.civicimaginationproject.org/about), for example, defines civic imagination as "the capacity to imagine alternatives to current cultural, social, political, or economic conditions" or, in other words, "our collective vision for what a better tomorrow might look like".
 
 This is a work in progress. So far, the entries we have are as follows:
 
