@@ -10,7 +10,7 @@ The design of narrative environments employs a tripartite model: people, narrati
 
 While you may enter the Compendium by starting from any term, as your investigation develops, you will become aware of the networked interconnection of the terms. As you navigate the Compendium,  you will discover concepts, methods and theories that you can employ in the construction of your narrative environment.
 
-The Compendium seeks to enable you to understand how meanings, values, ethical stances, and political dynamics emerge through particular design configurations. It also enables you to question, to propose, to facilitate and to act in the pursuit of your design goals.
+The Compendium seeks to enable you to understand how meanings, values, ethical stances and political dynamics emerge through particular design configurations. It also enables you to question, to propose, to facilitate and to act in the pursuit of your design goals.
 
 Edited by Allan Parsons on 10 April 2021
 
