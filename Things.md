@@ -8,7 +8,7 @@ The design of narrative environments is in accord with this perspective.
 
 While accepting this perspective, Hodder nevertheless points out that the focus on dependence rather than on relationality draws attention to the ways in which humans may be entrapped in and by their relations with things: humans are caught in a double bind, depending on things that depend on humans. Hodder defines this as 'entanglement'. For the design of narrative environments, this constitutes a 'tangled hierarchy'.
 
-In a narrative ecology perspective, things are designed objects, products or services, with specific roles. As actors, things exert a design-centered view of the world of activities and the meaningful relationships which participants have with it.
+In a narrative ecology perspective, things are designed objects, products or services, with specific roles. As actants, which afford certain possibilities for action, things exert a design-centered view of the world of activities and the meaningful relationships which participants have with it.
 
 **Things and Events**
 
