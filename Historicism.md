@@ -1,6 +1,6 @@
 ## Historicism
 
-**RELATED TERMS: History; Design of Narrative Environments; Metalepsis; Genealogy - Nietzsche; Aleatory**
+**RELATED TERMS: [History](https://github.com/narrative-environments/CourseCompendium/blob/main/History.md); Design of Narrative Environments; Metalepsis; Genealogy - Nietzsche; Aleatory**
 
 Historicism, Hal Foster (1996: 10) notes, can be negatively defined in the most simple terms as the conflation of _before_ and _after_ with _cause_ and _effect_, by making the presumption that the prior event produces the later one.
 
