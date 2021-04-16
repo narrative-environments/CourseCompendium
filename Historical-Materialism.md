@@ -2,7 +2,7 @@
 
 **RELATED TERMS: Cultural Studies; Epic theatre - Brecht; Feminism - Material feminism); Method and methodology; Design of Narrative environments design; Critical thinking; Lefebvre**
 
-While the crude teleological determinism, historicism and reductive economism of official communist ideology, or orthodox Marxism-Leninism, has come to occupy the space of Marxist thinking, narrative environment design may still benefit from considering a particular understanding of historical materialism, as inflected by the western Marxist tradition, with its recovery of subjectivity, agency and culture. How might this be possible?
+Even though the crude teleological determinism, historicism and reductive economism of official communist ideology, or orthodox Marxism-Leninism, came to occupy the space of Marxist thinking, narrative environment design may yet still benefit from considering a particular understanding of historical materialism, as inflected by the western Marxist tradition, with its recovery of subjectivity, agency and culture. How might this be possible?
 
 Jason Edwards (2010: 282-284) proposes that there are two ways of approaching an understanding of historical materialism.
 
