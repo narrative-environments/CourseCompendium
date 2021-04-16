@@ -131,6 +131,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Hero](Hero.md)
 * [Historical Materialism - Marxism](Historical-Materialism.md)
 * [Historicism](Historicism.md)
+* [History](History.md)
 * [Human Actantiality](Human-Actantiality.md)
 * [Human Ecosystem](Human-Ecosystem.md)
 * [Humanism](Humanism.md)
