@@ -1,6 +1,6 @@
 ## History
 
-**RELATED TERMS: [Historicism](https://github.com/narrative-environments/CourseCompendium/blob/main/Historicism.md); Historical materialism (Marxism);**
+**RELATED TERMS: [Historicism](https://github.com/narrative-environments/CourseCompendium/blob/main/Historicism.md); [Historical materialism  - Marxism](https://github.com/narrative-environments/CourseCompendium/blob/main/Historical-Materialism.md);**
 
 For Georg Lukacs (c.1971), "history lies precisely in the changes undergone by those structural forms which are the focal points of man's [sic] interaction with environment at any given moment and which determine the objective nature of both his [sic] inner and his outer life." 'Inner and outer life' is conceived in the design of narrative environments as public imagination, while the imagination defined as both private (the Imaginary) and communal (the designed, material world and the Symbolic or public order it actively maintains). The conjunction of the inner and the outer, or rather the interpenetration of the one and the other, constitutes a storyworld or narrative environment world as transmedia, environmental phenomenon. 
 
