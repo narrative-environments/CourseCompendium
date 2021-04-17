@@ -94,6 +94,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Ecology](Ecology.md)
 * [Economy](Economy.md)
 * [Emergence](Emergence.md)
+* [Enaction Paradigm - Cognitive Science](Enaction-Paradigm.md)
 * [Enlightenment](Enlightenment.md)
 * [Environment](Environment.md)
 * [Environmental Art](Environmental-Art.md)
