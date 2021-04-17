@@ -2,7 +2,16 @@
 
 **RELATED TERMS: Body**
 
-Enaction as a program for understanding cognition was initially articulated by Varela, Thompson and Rosch (1991).
+Enaction, as a programme for understanding cognition, was initially articulated by Varela, Thompson and Rosch (1991). This programme breaks with the formalisms of the information-processing and symbolic representation approaches previously prevalent in cognitive science. Instead, cognition is taken to be grounded in the sensorimotor dynamics of the interactions between living organisms and their environments. In the perspective of enaction, living organisms enact the world
+they live in. The effective, embodied action of the living organism in the world constitutes its perception and thereby grounds its cognition.
+
+In this paradigm, embodied action is relevant for all 'levels' of cognition, from basic processes of metabolism and movement to high-level human cognition, such as reasoning, planning and problem-solving. 
+
+We put the world together in a spatial sense through movement from the very beginning of our lives. Spatial concepts are born in kinesthesia and in our correlative capacity to think in movement. The constitution of space, therefore, does not begin with adult thoughts about space but rather in infant experience. The kinesthetic function, itself is rooted in proprioception, is foundational for the emergence of the prereflective experience of spatiality and distal objects.
+
+In this way, enaction moves away from the representation-centred framework toward an action-orienred paradigm based on notions of situatedness and embodiment. For this reason, cognitive systems are understood to always be engaged in contexts of action which require fast selection of relevant information and continual sensorimotor exchange. Perceptual processing is seen to be active and highly selective. The basic capability of mind in the enactive paradigm is being and acting in the world, not information processing and symbol manipulation. The locus of cognitive activity takes place in the interface where organism and world meet. 
+
+Enaction takes seriously both first-person lived experience and third-person natural science and seeks to understand their interconnections. It is therefore distinguished, on the one hand, from Gibsonian ecological psychology, which eschews the first-person point of view, and, on the other hand, from phenomenology, which, while being grounded in first-person experience, finds it difficult to take fully into account the perspective of third-person natural science.  
 
 **Reference**
 
