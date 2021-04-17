@@ -1,6 +1,6 @@
 ## Enaction Paradigm - Cognitive Science
 
-**RELATED TERMS: Body**
+**RELATED TERMS: Body; Ontological Metalepsis**
 
 Enaction, as a programme for understanding cognition, was initially articulated by Varela, Thompson and Rosch (1991). This programme breaks with the formalisms of the information-processing and symbolic representation approaches previously prevalent in cognitive science. Instead, cognition is taken to be grounded in the sensorimotor dynamics of the interactions between living organisms and their environments. In the perspective of enaction, living organisms enact the world
 they live in. The effective, embodied action of the living organism in the world constitutes its perception and thereby grounds its cognition.
