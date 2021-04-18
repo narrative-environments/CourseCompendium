@@ -24,6 +24,8 @@ Being reflexive then is not simply a process of looking back and contemplating. 
 
 In turn, Tanaka, Nicholson and Farish (2013) see reflexive practice as a step towards understanding the role of mindfulness and inter being, the capacity to be aware of what is going on and of what is there, which they see as as a more useful approach to engaging an ongoing consideration of self and other, as well as, it might be added, self and other in situation and in environment, to which narrative environment design could be attuned.
 
+In the context of biology, Willis (2019) states that, "The concept of reflexivity, akin to the self-referential “strange loop” of Hofstadter (1979; 2007), refers to an aspect of systems comprised of objects with properties in distinguishable but interacting domains, variously construed to be related hierarchically."
+
 **References**
 
 Argyris, C. and Schon, D.A. (1974). _Theory in practice: increasing professional effectiveness_. San Francisco, CA; London: Jossey-Bass.
@@ -51,4 +53,6 @@ Siraj-Blatchford, I. and Siraj-Blatchford, J. (1997). Reflexivity, social justic
 Tanaka, M.T.D., Nicholson, D. and Farish, M. (2013). Beyond reflection. In: _Transformative Inquiry_. Available from http://www.transformativeinquiry.ca/TIbook/c6/c6/c6s2.html [Accessed 5 September 2016].
 
 Willig, C. (2001). _Introducing qualitative research in psychology. Adventures in theory and method_. Buckingham, UK: Open University Press.
+
+Wills, P. R. (2019) ‘Reflexivity, coding and quantum biology’, _BioSystems_, 185, pp. 1–9. doi: 10.1016/j.biosystems.2019.104027
 
