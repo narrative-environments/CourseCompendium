@@ -1,6 +1,6 @@
 ## Decolonisation and Decoloniality
 
-**RELATED TERMS: Modernity and Coloniality**
+**RELATED TERMS: [Modernity and Coloniality](https://github.com/narrative-environments/CourseCompendium/blob/main/Modernity-and-Coloniality.md)**
 
 Decolonisation is the historical struggle for national sovereignty against colonialism. In recent history the term is most often applied to the decolonisations that took place in the period after World War II, when European countries generally lacked the wealth and political support necessary to suppress faraway revolts in their colonies. Furthermore, they faced opposition from the newly emergent international powers, the USA and the USSR, both of whim were opposed to European colonialism. 
 
