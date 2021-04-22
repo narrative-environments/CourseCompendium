@@ -1,6 +1,6 @@
 ## Enaction Paradigm - Cognitive Science
 
-**RELATED TERMS: Body; Ontological Metalepsis**
+**RELATED TERMS: Body; Ontological Metalepsis; World-forming, world-making, world-building**
 
 Enaction, as a programme for understanding cognition, was initially articulated by Varela, Thompson and Rosch (1991). This programme breaks with the formalisms of the information-processing and symbolic representation approaches previously prevalent in cognitive science. Instead, cognition is taken to be grounded in the sensorimotor dynamics of the interactions between living organisms and their environments. In the perspective of enaction, living organisms enact the world
 they live in. The effective, embodied action of the living organism in the world constitutes its perception and thereby grounds its cognition.
@@ -13,6 +13,10 @@ In this way, enaction moves away from the representation-centred framework towar
 
 Enaction takes seriously both first-person lived experience and third-person natural science and adopts as a methodological principle the need for circulation between first-person experience and third-person scientific methods. It is therefore distinguished, on the one hand, from Gibsonian ecological psychology, which eschews the first-person point of view, and, on the other hand, from phenomenology, which, while being grounded in first-person experience, finds it difficult to take fully into account the perspective of third-person natural science. 
 
+Stewart (2010) explains the enaction perspective in the following terms: 
+
+"Without action, there is no “world” and no perception. This is the heart of the concept of enaction: every living organism enacts , or as Maturana (1987) liked to say brings forth the world in which it exists. This has important ontological consequences, as it means that “ reality ” is not pregiven but co-constructed by the organism." 
+
 Of particular interest to the design of narrative environments, enaction admits the issue of reflexivity as an interesting and valid question. Thus, the enactive topology, similarly to the topology of the narrative environment, is like a Mobius strip or a tangled hierarchy. In performing a full hermeneutic circle or hermeneutic ciculation, passing from the most simple to the most complex, we end up at the starting point but one marked by what might be termed a Derridean differance: the same simple starting point is seen through the lens of complexity to whih it has given rise, generating a sameness that is nevetheless different from itself and deferred from itself. As Stewart, Gapenne and Di Paolo (2010: xvi) explain, "we may start out with elementary forms of life; going through all the increasingly complex forms of life that have arisen on Earth, we end up with . . . the biologist studying elementary forms of life. ... by going full circle, we end up at the starting point — but with the object of scientific study having changed sides on the subject-object relation, becoming itself the subject of scientific enquiry."
 
 There are some similarities here to the transgressive process described in ontological metalepsis, where the author (for example, the human genome which is said to determine (or should we say 'afford') human evolution and behaviour) becomes part of the narrated story as the narratee (humanity) becomes the author (human scientists, through 'editing', begin to determine the direction of evolution of the human genome).
@@ -20,3 +24,7 @@ There are some similarities here to the transgressive process described in ontol
 **Reference**
 
 Stewart, J., Gapenne, O. and Di Paolo, E. A. (eds) (2010) _Enaction: toward a new paradigm for cognitive science_. Cambridge, MA: MIT Press.
+
+Stewart, J. (2010) Foundational Issues in Enaction as a Paradigm for Cognitive Science: From the Origin of Life to Consciousness and Writing. In Stewart, J., Gapenne, O. and Di Paolo, E. A. (eds), _Enaction: toward a new paradigm for cognitive science_. Cambridge, MA: MIT Press.
+
+
