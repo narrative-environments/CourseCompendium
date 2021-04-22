@@ -27,6 +27,8 @@ Might it be said that the value of the design of narrative environments, as a me
 
 One does not, then, simply have two terms, organism (O) and environment (E) but three when narrative (N) is included. This double hermeneutic dynamic (O - E and O - N) is accommodated by the design practice's tripartite model. While this tripartite model focuses primarily on human organisms as people (P) in the organism role (O = P), it is nonetheless open to including other organisms, such as animals, viruses and digital avatars (as hybrid organic-inorganic or socio-technical forms of 'cognition', on the basis that life = cognition, as Stewart (2010: 4) contends). By implication, a third hermeneutic circulation emerges, N - E, one that affects O - E and O - N and which, when all are taken into account, constitutes a triple hermeneutic circulation.
 
+Such a triple hermeneutic circulation 'affords' or makes possible complex cognition and learning, at play in any designed narrative environment.
+
 **Reference**
 
 Stewart, J., Gapenne, O. and Di Paolo, E. A. (eds) (2010) _Enaction: toward a new paradigm for cognitive science_. Cambridge, MA: MIT Press.
