@@ -72,6 +72,7 @@ This is a work in progress. So far, the entries we have are as follows:
 * [Daoism - Taoism](Daoism-Taoism.md)
 * [Dasein](Dasein.md)
 * [Dau Project](Dau-Project.md)
+* [Decolonisation and Decoloniality](Decolonisation-and-Decoloniality.md)
 * [Deep Wounds](Deep-Wounds.md)
 * [Defamiliarisation](Defamiliarisation.md)
 * [Deixis and Indexicality](Deixis.md)
