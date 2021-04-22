@@ -21,6 +21,12 @@ Of particular interest to the design of narrative environments, enaction admits 
 
 There are some similarities here to the transgressive process described in ontological metalepsis, where the author (for example, the human genome which is said to determine (or should we say 'afford') human evolution and behaviour) becomes part of the narrated story as the narratee (humanity) becomes the author (human scientists, through 'editing', begin to determine the direction of evolution of the human genome).
 
+**Discussion: Enaction and Narration**
+
+Might it be said that the value of the design of narrative environments, as a methodological approach, is that it recognises not only that human organisms enact their world but also that they narrate their world. This dynamic follows a double hermeneutic circulation in which both positive and negative feedback loops may emerge, such as when, for example, a process environmental degradation is accompanied by a narrative of progress. Both terms used here, 'degradation' and 'progress', imply situated deictic value systems which point to parts of the environment for 'evidence' and which requires further justification. 
+
+One does not, then, simply have two terms, organism (O) and environment (E) but three when narrative (N) is included. This double hermeneutic dynamic is accommodated by the design practice's tripartite model. While the model focuses primarily on people (P) in the organism role (O = P), it is nonetheless open to including other organisms, such as animals, viruses and digital avatars (as hybrid organic-inorganic or socio-technical forms of 'cognition'). 
+
 **Reference**
 
 Stewart, J., Gapenne, O. and Di Paolo, E. A. (eds) (2010) _Enaction: toward a new paradigm for cognitive science_. Cambridge, MA: MIT Press.
