@@ -1,6 +1,6 @@
 ## Modernity and Coloniality
 
-**RELATED TERMS: Cultural Sudies**
+**RELATED TERMS: Cultural Sudies; [Decolonisation and Decoloniality](https://github.com/narrative-environments/CourseCompendium/blob/main/Decolonisation-and-Decoloniality.md)**
 
 ![Coloniality](Coloniality.png)
   
