@@ -9,3 +9,5 @@ Decoloniality, on the other hand, is an epistemological category that takes colo
 **References**
 
 ISLAA (2021). Decoloniality and the Politics of History, Columbia University, April 29–May 28, 2021 [Online event]. Institute for Studies on Latin American Art (ISLAA). Available at https://www.islaa.org/decoloniality-2021 [Accessed 22 April 2021]
+
+Reiter, B. (ed.) (2018) _Constructing the pluriverse: the geopolitics of knowledge_. Durham, NC: Duke University Press.
