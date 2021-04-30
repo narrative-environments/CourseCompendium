@@ -4,27 +4,27 @@ RELATED TERMS:
 
 Rodgers, Inella and Bremner (2017) discuss seven paradoxes of design practice, which they characterise as follows:
 
-*Design is very undisciplined as a discipline* 
+* Design is very undisciplined as a discipline* 
 
-*The easier it becomes to design, the harder it is to design*
+* The easier it becomes to design, the harder it is to design*
 
-*Design has become impoverished by the claim that good design equals good business*
+* Design has become impoverished by the claim that good design equals good business*
 
-*The originality claimed by design is in reality derivative*
+* The originality claimed by design is in reality derivative*
 
-*The usefulness of design research lies in its uselessness*
+* The usefulness of design research lies in its uselessness*
 
-*The claim by design to be responsible is irresponsible*
+* The claim by design to be responsible is irresponsible*
 
-*The devotion of design to sustainability is unsustainable*
+* The devotion of design to sustainability is unsustainable*
 
 Steven Vial points to the following paradoxical injunctions to which designers have to respond:
 
-*The meta-market injunction: Be a socialist and a capitalist at one and the same time!*
+* The meta-market injunction: Be a socialist and a capitalist at one and the same time!*
 
-*The disruptive injunction: Be innovative!*
+* The disruptive injunction: Be innovative!*
 
-*The global problem-solving injunction: Save the world!*
+* The global problem-solving injunction: Save the world!*
 
 **References**
 
