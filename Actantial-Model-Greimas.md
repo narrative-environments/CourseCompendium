@@ -1,5 +1,7 @@
 ## Actantial model - Greimas
 
+**RELATED TERMS: Actant; Human actantiality; Actor-Network Theory;**
+
 Joanna Kwiat (2008: 43) suggests that the actantial model of narrative structure proposed by Greimas (1983) drew on at least four theories: Levi-Strauss’ theory of opposition, which states that a given concept A is impossible to comprehend without the equal and opposite concept Not A, and how A necessarily entails Not A, and thereby every possibility between; the syntactical functioning of discourse; the inventory of actants proposed by Vladimir Propp, which he called “dramatis personae”; and the inventory of actants proposed by Etienne Souriau, which he referred to as “dramaturgic functions”.
 
 As Kwiat explains, in Greimas’ actantial model, there are six actants that form three pairs or oppositions: subject vs. object, sender vs. receiver and helper vs. opponent. These oppositions generate three types of relations: desire, which is felt by the subject for the object; knowledge, constituted by communication between sender and receiver; and power, realised through the agonistic struggle between helper and opponent (in relation to subject vs. object and sender vs. receiver).
