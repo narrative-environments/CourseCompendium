@@ -2,7 +2,7 @@
 
 **RELATED TERMS: [Metalepsis](https://github.com/narrative-environments/CourseCompendium/blob/main/Metalepsis.md); [Ontological metalepsis](https://github.com/narrative-environments/CourseCompendium/blob/main/Ontological-Metalepsis.md);**
 
-Narrative environments, as a cultural practice, involve cascades of deixis, similar to that found in theatre. In theatre, as Brandt (2016) explains, the first instance is the framing deixis of theatricality: “I am now acting, and not behaving naturally”. The second instance is the narrative deixis: “I am now playing the role of a character in the story X”. The third instance is the aesthetic deixis: “I am shaping this role in a certain way and signing this version as “this way” of
+Narrative environments, as a cultural practice, involve cascades of deixis, similar to those found in theatre. In theatre, as Brandt (2016) explains, the first instance is the framing deixis of theatricality: “I am now acting, and not behaving naturally”. The second instance is the narrative deixis: “I am now playing the role of a character in the story X”. The third instance is the aesthetic deixis: “I am shaping this role in a certain way and signing this version as “this way” of
 playing it here now”.
 
 The discussion of deixis is valuable for the design of narrative environments if it is tied into the discussion of levels of narration (diegetic levels) in relation to the implied modes of existence (or levels of existence), especially if the focus is upon the potential transgressions or (metalepses, in the narratological sense) that may be effected through the design: the appearance of a character or an entity from one level of narration, and implied existence, in another level of narration and implied existence. 
