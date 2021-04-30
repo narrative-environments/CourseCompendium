@@ -2,7 +2,7 @@
 
 **RELATED TERMS: [Actantiality](https://github.com/narrative-environments/CourseCompendium/blob/main/Actantiality.md); Agon; Audience; Hero; Actantial model - Greimas; Agency; Actant; Philosophy; Narrative environment design**
 
-People are a crucial part of narrative environment and learning environment design. They are not exterior (whether anterior or posterior) to the design process nor the designed environmental outcome. An important question, then, in designing such environments, is how this human dimension is to be theorised and practised. Are the people involved in the narrative or learning environment participants, actors, agents, bodies, identities, selves, subjects, persons, or an admixture of some or all of these categories and more besides?
+People are a crucial part of narrative environment and learning environment design. They are not exterior (whether anterior or posterior) to the design process nor the designed environmental outcome. An important question, then, in designing such environments, is how this human dimension is to be theorised and practised. Are the people involved in the narrative or learning environment participants, actors, agents, bodies, identities, selves, subjects, persons, or an admixture of some or all of these categories, and more besides?
 
 Such questions concern who navigates (the guiding environment or the itinerant?) and who is learning (the pedagogue or the subject of pedagogy?) in the narrative or learning environment; how these actants are materialised; and the nature of what it is that they (whoever they are) are doing or learning, for example, a group of selves acts and learns differently from a group of subjects and both, in turn, act and learn differently from a group of individuals.
 
