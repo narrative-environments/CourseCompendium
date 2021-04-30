@@ -1,6 +1,6 @@
 ## Metalepsis
 
-**RELATED TERMS: Diegesis; Diegese; Diegetic Levels; Intradiegetic; Extradiegetc; Ontologocal Metalepsis; Ontological Design; Theatre; Cinema and Film Studies; [Deixis and Indexicality](https://github.com/narrative-environments/CourseCompendium/blob/main/Deixis.md)** 
+**RELATED TERMS: Diegesis; Diegese; Diegetic Levels; Intradiegetic; Extradiegetc; Ontological Metalepsis; Ontological Design; Theatre; Cinema and Film Studies; [Deixis and Indexicality](https://github.com/narrative-environments/CourseCompendium/blob/main/Deixis.md)** 
 
 Metalepsis in rhetoric has a different meaning from the use of metalepsis in narratology, theatre studies and cinema studies. In a yet further extended sense, metalepsis has an important role to play the design of narrative environments.
 
