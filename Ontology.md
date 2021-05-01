@@ -1,6 +1,6 @@
 ## Ontology
 
-**RELATED TERMS: Ontological Metalepsis; Ontological Designing; Computer Science; Information science; World-forming, World-making, World-building; Philosophy; Phenomenology**
+**RELATED TERMS: [Ontology](https://github.com/narrative-environments/CourseCompendium/blob/248547121800a42e81149a2d1546ac5344815e3d/Epistemology.md); Ontological Metalepsis; Ontological Designing; Computer Science; Information science; World-forming, World-making, World-building; Philosophy; Phenomenology**
 
 In philosophy, ontology is the inquiry into, or theory of, being. It was coined in the early 17th century in order to avoid some of the ambiguities of the term ‘metaphysics’. It has come to mean the general theory of what there is, of what exists.
 
