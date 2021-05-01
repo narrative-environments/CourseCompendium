@@ -14,7 +14,7 @@ It addresses such questions as:
 
 Narrative environments may question the epistemological foundations of certain common beliefs and may also question the separateness of epistemology and ontology as distinct regions within philosophy, focusing instead on how particular design configurations form complex onto-epistemologies: material existents that articulate situated cultural knowledges and vice versa.
 
-The inter-relatedness of epistemology and ontology is acknowledged by Stewart (2010), as well as making an argument as to why this relationship is often occluded,
+The inter-relatedness of epistemology and ontology is acknowledged by Stewart (2010), who also makes an argument as to why this relationship is often occluded,
 
 "An epistemology always presupposes an ontology, but this is often masked by the fact that an “objectivist” ontology — according to which that which exists (and can therefore be an object of knowledge) preexists quite independently of the process of knowing — is implicitly presupposed as being so obvious that it would be nonsensical to question it. Thus in spite of their energetic disagreements, the majority of epistemological positions — empiricism, idealism, nominalism, hypothetico-deduction, relativism, and so on — actually share a commitment to objectivism"
 
