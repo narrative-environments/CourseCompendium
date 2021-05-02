@@ -235,6 +235,7 @@ This is (and will always be) a work in progress. So far, the entries we have are
 * [Remembering: Mnemonics, Mnemotechnics and Memory](Remembering.md)
 * [Representation](Representation.md)
 * [Research Methodologies](Research-Methodologies.md)
+* [Rhizome](Rizome.md)
 * [Rhythm](Rhythm.md)
 * [Sabi - Wabi-Sabi](Sabi.md)
 * [Scape Metaphors](Scape-Metaphors.md)
