@@ -25,7 +25,6 @@ Deleuze, G. and Guattari, F. (1987) ‘Introduction: Rhizome’, in _A Thousand 
 Eco, U. (1984) _Semiotics and the philosophy of language_. Houndmills, Basingstoke, UK: Macmillan Press.
 
 Hofstadter, D. R. (2000, c.1979) _Godel, Escher, Bach: an eternal golden braid_. London, UK: Penguin.
-![image](https://user-images.githubusercontent.com/79328806/116821006-d5b41300-ab6f-11eb-929b-54c8767c79b8.png)
 
 Hofstadter, D. R. (2007) _I am a strange loop_. New York, NY: Basic Books.
 
