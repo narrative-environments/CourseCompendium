@@ -1,6 +1,6 @@
 ## Space
 
-RELATED TERMS:
+**RELATED TERMS: Place;**
 
 Space is abstract, in contrast to place, which is concrete. Nevertheless, both space and place are capable of acting in a narrative environment, of being actants.
 
