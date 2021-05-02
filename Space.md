@@ -14,7 +14,7 @@ Futhermore, they state that, "the constitution of a “kinesthetic function”, 
 
 **Discussion:**
 
-How useful might the ancient Greek notions of _chora_ and _topos_, alongside the two ancient Greek conceptions of time, _kairos_ and _chronos_, be in developing an understanding of how time and space can be configured in the design of narrative environments, moving from the relatively abstract to the more meaningful? Perhaps Hans Ramo's (1999) diagram might be of value on this context:
+How useful might the ancient Greek notions of _chora_ and _topos_, alongside the two ancient Greek conceptions of time, _kairos_ and _chronos_, be in developing an understanding of how time and space can be configured in the design of narrative environments, moving from the relatively abstract to the more experientially meaningful? Perhaps Hans Ramo's (1999) diagram might be of value on this context:
 
 ![Space-Time](Space-Time.png)
 Source: Hans Ramo, _An Aristotelian human time-space manifold_
