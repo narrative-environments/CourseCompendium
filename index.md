@@ -30,6 +30,7 @@ This is (and will always be) a work in progress. So far, the entries we have are
 * [Aleatory](Aleatory.md)
 * [Alienation](Alienation.md)
 * [Alienation Effect - Verfremdungseffekt](Alienation-Effect-Verfremdungseffekt.md)
+* [Analepsis and Prolepsis](Analepsis-and-Prolepsis.md
 * [Antagonist](Antagonist.md)
 * [Anthropo-Scenes](Anthropo-Scenes.md)
 * [Anthropocene - Capitalocene - Chthulucene](Anthropocene-Capitalocene-Chthulucene.md)
