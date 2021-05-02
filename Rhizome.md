@@ -4,7 +4,7 @@
 
 The term rhizome, 'a tangle of roots', is a metaphor for an assemblage, a multiplicity, a network, a complex adaptive system (CAS), an open system or a living ecology. In the majority of its contemporary usages, as a critique of rootedness and fundamentalism, it derives from Deleuze and Guattari (1987) who enumerate certain principles of the rhizome, such as those of connection, heterogeneity, multiplicity, asignifying rupture, cartography and decalcomania, and summarise its principal characteristics. The qualities of the rhizome are also discussed from a semiotic point of view by Umberto Eco (1984: 80-84). 
 
-The notion of rhizome allows a mapping of social production in relation to the circulation of power and desire and therefore a consideration of how a designed entity might be said to act in the ongoing situation into which intervenes. In terms of the design of narrative environments, it provides a sense of the complex socio-cultural and socio-economic cloth from which narratives and places, with accompanying subjectivities, may be shaped and defined
+The notion of rhizome allows a mapping of social production in relation to the circulation of power and desire and therefore a consideration of how a designed entity might be said to act in the ongoing situation into which intervenes. In terms of the design of narrative environments, it provides a sense of the complex socio-cultural and socio-economic cloth from which narratives and places, with accompanying subjectivities, may be cut, shaped and defined.
 
 **Discussion**
 
@@ -16,7 +16,7 @@ While the metaphor of rhizome may be useful for discussions of non-hierarchical 
 
 With design practices, it is most often the case that one starts with an existing hierarchy and centre which a design may be seeking to de-hierarchise or de-centre. In doing so, they may create another hierarchy and another centre, whether by intention or as an unintended consequence. These are the risks to be undertaken in considering the action which the design intervention seeks to undertake. 
 
-There are risks also in advocating permanent groundlessness and permanent decentredness (anomie, alienation, instability, nihilism). Are there limits to the value, then, of the rhizomic metaphor in the DeleuzoGuattarian sense?
+There are risks also in advocating permanent groundlessness and permanent decentredness (anomie, alienation, instability, nihilism). Are there limits to the value, then, of the rhizomic metaphor in the DeleuzoGuattarian sense? Or perhaps this is a misinterpretation of Deleuze and Guattari.
 
 **References** 
 
