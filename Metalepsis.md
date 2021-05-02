@@ -2,7 +2,7 @@
 
 **RELATED TERMS: Diegesis; Diegese; Diegetic Levels; Intradiegetic; Extradiegetc; Ontological Metalepsis; Ontological Design; Theatre; Cinema and Film Studies; [Deixis and Indexicality](https://github.com/narrative-environments/CourseCompendium/blob/main/Deixis.md)** 
 
-Metalepsis in rhetoric has a different meaning from the use of metalepsis in narratology, theatre studies and cinema studies. In a yet further extended sense, metalepsis has an important role to play the design of narrative environments.
+Metalepsis in rhetoric has a different meaning from the use of metalepsis in narratology, theatre studies and cinema studies. In a yet further extended sense, metalepsis has an important role to play in transmedia phenomena and, most importnatly, in the design of narrative environments.
 
 In rhetoric metalepsis is a trope which is similar to metaphor and metonymy, or perhaps combines them, as when metonymy (use of one word for another with which it is associated) is used to replace a word already used figuratively (metaphorically). For example, if the word ‘sable’ replaces the word ’black’ in the phrase ‘black caverns’, black is already figurative, standing for ‘dark’ or ‘gloomy’ or perhaps ‘dark and gloomy’. Thus, ‘sable’, already in a metonymic relation to ‘black’, in this new context takes on additional meanings of ‘dark’ and ‘gloomy’, with which it was not necessarily associated previously.
 
@@ -28,16 +28,16 @@ One feature that may distinguish the design of narrative environments from other
 
 **References**
 
-Bell, Alice, and Jan Alber (2012) “Ontological Metalepsis and Unnatural Narratology.” Journal of Narrative Theory 42(2), 166– 92.
+Bell, Alice, and Jan Alber (2012) “Ontological Metalepsis and Unnatural Narratology.” _Journal of Narrative Theory_, 42(2), 166– 92.
 
-Fludernik, Monika (2003) “Scene Shift , Metalepsis, and the Metaleptic Mode.” Style, 37(4), 382– 400.
+Fludernik, Monika (2003) “Scene Shift , Metalepsis, and the Metaleptic Mode.” _Style_, 37(4), 382– 400.
 
-Freestone, J. M. (2017) ‘The Selfish Genre’, Storyworlds: A Journal of Narrative Studies, 9(1), pp. 225–246. Available at: https://www.jstor.org/stable/10.5250/storyworlds.9.1-2.0225 (Accessed: 10 March 2021).
+Freestone, J. M. (2017) ‘The Selfish Genre’, _Storyworlds: A Journal of Narrative Studies_, 9(1), pp. 225–246. Available at: https://www.jstor.org/stable/10.5250/storyworlds.9.1-2.0225 (Accessed: 10 March 2021).
 
-Macrae, A. (2019) Discourse deixis in metafiction: the language of metanarration, metalepsis and disnarration. New York, NY: Routledge.
+Macrae, A. (2019) _Discourse deixis in metafiction: the language of metanarration, metalepsis and disnarration_. New York, NY: Routledge.
 
-Petho, A. (2010) ‘Intermediality as Metalepsis in the “Cinécriture” of Agnès Varda’, Acta Universitatis Sapientiae, Film and Media Studies, 3(3), pp. 69–94. Available at: http://www.acta.sapientia.ro/acta-film/C3/film3-5.pdf (Accessed: 27 October 2019).
+Petho, A. (2010) ‘Intermediality as Metalepsis in the “Cinécriture” of Agnès Varda’, _Acta Universitatis Sapientiae, Film and Media Studies_, 3(3), pp. 69–94. Available at: http://www.acta.sapientia.ro/acta-film/C3/film3-5.pdf (Accessed: 27 October 2019).
 
-Ryan, Marie- Laure (1995) “Allegories of Immersion: Virtual Narration in Postmodern Fiction.” Style 29.2: 262– 86.
+Ryan, Marie- Laure (1995) “Allegories of Immersion: Virtual Narration in Postmodern Fiction.” _Style_ 29.2: 262– 86.
 
-Ryan, Marie- Laure  (2006). Avatars of Story. Minneapolis: University of Minnesota Press.
+Ryan, Marie- Laure  (2006). _Avatars of Story_. Minneapolis: University of Minnesota Press.
