@@ -1,6 +1,6 @@
 # Technology
 
-**RELATED TERMS: Remembering: Mnemonics, Mnemotechne and Memory**
+**RELATED TERMS: [Remembering: Mnemonics, Mnemotechne and Memory](https://github.com/narrative-environments/CourseCompendium/blob/main/Remembering.md)**
 
 In the context of the design of narrative environments, technologies are understood to be interconnected systems, media or frames, as well as an accumulation or ecology of systems over time. Within these systemic media frames, individual technical artefacts act as a form of memory that constitutes the fabric of human historicity and sociality. They do so by providing the ground of that which is always already there for human beings or, in other words, that into which one has been thrown.  In that sense, following Stiegler (1998), they are a kind of tertiary memory, a particular kind of mnemotechne that differs from secondary memory, such as writing and oral topical techniques (method of loci or method of topoi), as well as the primary memory of human recall as mnemne.
 
