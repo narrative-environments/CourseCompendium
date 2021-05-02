@@ -10,7 +10,7 @@ In the context of the design of narrative environments, it is recognised that we
 
 The mind, without signs in the form of physical markers, imagery or language markers, tends to wandering and errancy, to a different kind of semiosis, one characterised as 'dreaming'. The experience of embodiment, of which the imaginary and dreaming are displacements and counterbalances, is threaded through the mnemotechnics of emplacement. The design of narrative environments plays upon embodiment in its relation to the imaginary and to dreaming.
 
-The design of narrative environments, therefore, incorporates and integrates several levels of menmotechnics: objects, architectures and imagery with particular symbolic meanings combined with graphic, linguistic and alphanumeric signs, to guide the visitor-participant through its pathway or pathways.  
+The design of narrative environments, therefore, incorporates and integrates several levels of mnemotechnics or technologies of rememoration: objects, architectures and imagery with particular symbolic meanings combined with graphic, linguistic and alphanumeric signs, to guide the visitor-participant through its pathway or pathways.  
 
 **References**
 
