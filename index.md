@@ -260,6 +260,7 @@ This is (and will always be) a work in progress. So far, the entries we have are
 * [Structuralism](Structuralism.md)
 * [Syntagmatic](Syntagmatic.md)
 * [Taxonomy](Taxonomy.md)
+* [Technology](Technology.md)
 * [Telectroscope](Telectroscope.md)
 * [Telos and Teleology](Telos-and-Teleology.md)
 * [The Sofa](Sofa.md)
