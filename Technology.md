@@ -6,7 +6,7 @@ In the context of the design of narrative environments, technologies are underst
 
 Within these systemic media frames, individual technical artefacts act as a form of memory that constitutes the fabric of human historicity and sociality. They do so by providing the ground of that which is always already there for human beings or, in other words, that into which one has been thrown.  In that sense, following Stiegler (1998), they are a kind of tertiary memory, a particular kind of mnemotechne that differs from secondary memory, such as writing and oral topical techniques (method of loci or method of topoi), as well as the primary memory of human recall as mnemne. 
 
-In another, related vocabulary, such systemic media frames might be said to constitute the (always already there) deictic centre or ground which orients relationships, as reference points, to other people (subjects, subjectivity, intersubjectivity, subjecthood), things (objects, objectivity, objectification and intercorporeality), spatiality and temporality and sets the contextual horizons establishing relevant place.
+In another, related vocabulary, such systemic media frames might be said to constitute the (always already there) deictic centre or ground which orients relationships, as points of reference, to other people (subjects, subjectivity, intersubjectivity, subjecthood), things (objects, objectivity, objectification and intercorporeality), spatiality and temporality and sets the contextual horizons establishing relevant place.
 
 Technicisation is, therefore, not what produces loss or a weakening of memory, a _hypomnêsis_, as is argued in Plato's _Phaedrus_, but rather a different kind of remembering.
 
