@@ -1,6 +1,6 @@
 ## Place
 
-RELATED TERMS: 
+**RELATED TERMS: [Space](https://github.com/narrative-environments/CourseCompendium/blob/main/Space.md);**
 
 Narrative environments may be described as places. Places are events; they ‘take place’. Places are both sensible, perceivable by the senses, and intelligible, existing in thought and in the imagination.
 
