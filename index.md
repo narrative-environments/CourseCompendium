@@ -263,6 +263,7 @@ This is (and will always be) a work in progress. So far, the entries we have are
 * [Storyworld](Storyworld.md)
 * [Structuralism](Structuralism.md)
 * [Syntagmatic](Syntagmatic.md)
+* [Tangled Hierarchy and Strange Loop](Tangled-Hierarchy.md)
 * [Taxonomy](Taxonomy.md)
 * [Technology](Technology.md)
 * [Telectroscope](Telectroscope.md)
