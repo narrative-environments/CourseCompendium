@@ -4,7 +4,7 @@
 
 **Narrative storytelling**
 
-The reasons for adopting a narrative approach to the understading design practices, especially spatial practices, can be quickly grasped from Terry Eaglton's review of Brian Boyd’s _On the origin of stories: evolution, cognition, fiction_. Terry Eagleton outlines the perceived advantages of narrative storytelling, as suggested by Boyd. They include, for example:
+The reasons for adopting narrative, one of the three key nodes of the tripartite model guiding the design of narrative environments, the other two being people and environment, can be quickly grasped from Terry Eagleton's review of Brian Boyd’s _On the origin of stories: evolution, cognition, fiction_. Eagleton outlines the perceived advantages of narrative storytelling, as suggested by Boyd. They include, for example:
 
 * Making people more skilled in social situations;
 * Speeding people’s capacity to process information;
@@ -13,7 +13,7 @@ The reasons for adopting a narrative approach to the understading design practic
 * Consolidating and communicating social norms; and
 * Providing models of co-operation.
 
-As richly-patterned cognitive play, narrative storytelling, as a form of art, serves to:
+Narrative storytelling, as a form of art, can enact a richly-patterned cognitive play that serves to:
 
 * stimulate a flexible mind;
 * modify key perceptual, cognitive and expressive systems;
