@@ -1,6 +1,6 @@
 ## Ontological Metalepsis
 
-**RELATED TERMS: Metalepsis; [Deixis and Indexicality](https://github.com/narrative-environments/CourseCompendium/blob/main/Deixis.md); Storyworld; Lifeworld - Lebenswelt - Umwelt; Avant-garde movements**
+**RELATED TERMS: Metalepsis; [Deixis and Indexicality](https://github.com/narrative-environments/CourseCompendium/blob/main/Deixis.md); Storyworld; Lifeworld - Lebenswelt - Umwelt; Avant-garde movements; [Tangled Hierarchy and Strange Loop](https://github.com/narrative-environments/CourseCompendium/blob/main/Tangled-Hierarchy.md)**
 
 The notion of ontological metalepsis is particularly important for narrative environment design as it emphasises that meaning is generated through the engagement of the sensorimotor, experiential, existential, moving body within the designed environment. Metalepsis, rather than being simply part of media theory concerning the transgression of levels of narration, i.e. intra-diegetic transfers across story levels and extra-diegetic incursions into the diegetic (where, for example, the narrator, as teller of the story, becomes a character in the world of the story), instead concerns the transgressions that occure across the diegetic and the real, i.e. the level of the author and the reader. The transgressions here generate confusions among what were held to be distinct levels: narratee (intra-diegetic); narrator (extra-diegetic); and author (real). 
 
