@@ -23,6 +23,10 @@ Brian McHale (1987) takes these paradoxes into account in his discussion of post
 
 McHale also draws attention to the metaleptic function of the second-person pronoun, following Genette, although he does not distinguish between rhetorical and ontological metalepsis, a distinction proposed by Marie-Laure Ryan, who argues that metalepsis breaks down into a rhetorical (Genette) and an ontological variety (McHale).
 
+Metalepsis, as Pier (2013) comments, is not a media-specific phenomenon. Transgressions of levels and boundaries are not limited to narrative. This means, Pier suggests, that metalepsis has a significant role to play in transmedial narratology and in intermediality. While rhetorical metalepsis is of interest, it is ontological metalepsis which is of central concern for the design of narrative environments, given that its material and media elements stretch from the digital, through the printed, graphic textual, to the theatrical and the built and natural environments. The design of narrative environments takes advantage of the symbol-object dualism by means of which the fictional and the real and the actual and the possible are interwoven. Narrative discourse is taken into the world and the world is taken into narrative discourse, creating, through strange loops, possible worlds and imaginary worlds beyond narrative storyworlds.
+
+The different ontological levels, traversing the fictional, the real, the actual and the possible, are linked by the deictic acts that specify, first, the ontological level from which the narrative environment as event begins and which serve as its deictic centre and grounding, second, the transgressions that are occurring through the strange loops that are being enacted and, third, the tangled hierarchy of worlds that ensues: the imaginary world of the narrative environment.
+
 **References**
 
 Hofstadter, D. R. (1979) _Godel, Escher, Bach: an eternal golden braid_. New York: Basic Books.
