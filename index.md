@@ -132,6 +132,7 @@ This is (and will always be) a work in progress. So far, the entries we have are
 * [Heidegger](Heidegger.md)
 * [Henriques Oliviera](Henriques-Oliviera.md)
 * [Hero](Hero.md)
+* [Heterarchy](Heterarchy.md)
 * [Historical Materialism - Marxism](Historical-Materialism.md)
 * [Historicism](Historicism.md)
 * [History](History.md)
