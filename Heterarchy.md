@@ -10,6 +10,8 @@ The concept of heterarchy was created by neurophysiologist Warren S. McCulloch (
 
 For narrative environments that are designed in order to highlight such value anomalies, for example, among economic benefit, bodily wellbeing and environmental sustainability, the concept of heterarchy may be very useful for working through how contradictory behaviours emerge from the series of choices that people make in accordance with different evaluation criteria.
 
+Allan Parsons, May 2021
+
 **References**
 
 Dekker, E. and Kuchar, P. (2017). Heterarchy. In A. Marciano, & G. B. Ramello (Eds.), _Encyclopedia of Law and Economics_. New York, NY: Springer. 
