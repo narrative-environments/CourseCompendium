@@ -27,6 +27,8 @@ Metalepsis, as Pier (2013) comments, is not a media-specific phenomenon. Transgr
 
 The different ontological levels, traversing the fictional, the real, the actual and the possible, are linked by the deictic acts that specify, first, the ontological level from which the narrative environment as event begins and which serve as its deictic centre and grounding, second, the transgressions that are occurring through the strange loops that are being enacted and, third, the tangled hierarchy of worlds that ensues: the imaginary world of the narrative environment.
 
+Allan Parsons, May 2021
+
 **References**
 
 Hofstadter, D. R. (1979) _Godel, Escher, Bach: an eternal golden braid_. New York: Basic Books.
