@@ -8,7 +8,7 @@ The concept of heterarchy was created by neurophysiologist Warren S. McCulloch (
 
 **Heterarchy and the design of narrative environments**
 
-For narrative environments that are designed in order to highlight such value anomalies, for example, among rational economic benefit, social justice and environmental sustainability, the concept of heterarchy may be very useful for working through how contradictory behaviours, which emerge from the series of choices that the system makes in accordance with different evaluation criteria, are managed by the system so that it does not fall into paralysis through conflict, radical doubt or anomie.
+For narrative environments that are designed in order to highlight such value anomalies, for example, among rational financial gain, social justice and environmental sustainability, the concept of heterarchy may be very useful for working through how contradictory behaviours, which emerge from the series of choices that a system makes in accordance with different evaluation criteria, are managed by the system so that it does not fall into paralysis through conflict, radical doubt or anomie.
 
 Allan Parsons, May 2021
 
