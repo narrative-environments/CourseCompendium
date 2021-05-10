@@ -8,6 +8,10 @@ A heterarchy, Dekker and Kuchar (2017) state, is a complex adaptive system of go
 
 The concept of heterarchy was created by neurophysiologist Warren S. McCulloch (1945) in response to a problem defined by a logical contradiction that is characteristic for any system, whether it be a group of neurons, an individual or an organization, that chooses A instead of B, B instead of C and C instead of A. To make this clearer, Ogilvy (2016) suggests that, "The term 'heterarchy' is best defined by its opposition to hierarchy. In a hierarchy, if A is over B, and B is over C, then A is over C ... In a heterarchy, though, you can have A over B, B over C, and C over A." To think of how this works in practice, Ogilvy gives the example of the game of 'Rock, Paper, Scissors', where paper covers rock; rock crushes scissors; and scissors cut paper. This may be said to characterise the world we live in: not the anarchy of no hierarchy, nor the simplistic, rationalist utopia of a single hierarchy, but a heterarchy of many hierarchies (Ogilvy, 2016).
 
+Indeed, Baumann and Dingwerth (2015), discussing the context of the global political system, contend that, 
+
+"there is much ground to believe that world politics is in fact characterised by both a concentration and a dispersion of power and authority. While military power is increasingly concentrated in the hands of a single actor, authority in a broader sense is increasingly dispersed among a plethora of actors that populate the world of world politics. In short, it is neither global governance nor empire alone that we are witnessing, but rather heterarchy and hierarchy at the same time. If such a description is roughly correct, understanding the structures of world politics and the evolving global order in the 21st century is only possible if we take this dual move from anarchy to heterarchy and hierarchy into account."
+
 This value anomaly is present in any system that has to make a choice between two or more potential acts that are incompatible (McCulloch 1945, 90; cf. Shackle 1979). Without the logical contradiction, that is, without two or more potential acts that are incompatible, there is no space for a genuine choice based on disparate evaluation criteria (Dekker and Kuchar, 2017).
 
 **Heterarchy and the design of narrative environments**
@@ -17,6 +21,8 @@ Narrative environments are heterarchical in as far as they circulate preferences
 Allan Parsons, May 2021
 
 **References**
+
+Baumann, R. and Dingwerth, K. (2015) Global governance vs empire: Why world order moves towards heterarchy and hierarchy, _Journal of International Relations and Development_, 18(1), pp. 104–128. doi: 10.1057/jird.2014.6
 
 Bruni, L. E. and Giorgi, F. (2015) ‘Towards a heterarchical approach to biology and cognition’, _Progress in Biophysics and Molecular Biology_, 119(3), pp. 481–492. doi: 10.1016/j.pbiomolbio.2015.07.005
 
