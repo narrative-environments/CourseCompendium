@@ -1,6 +1,6 @@
 # Heterarchy
 
-**RELATED TERMS: [Tangled Hierarchy and Strange Loop](https://github.com/narrative-environments/CourseCompendium/blob/main/Tangled-Hierarchy.md);**
+**RELATED TERMS: [Tangled Hierarchy and Strange Loop](https://github.com/narrative-environments/CourseCompendium/blob/main/Tangled-Hierarchy.md); Actantiality; Affordance**
 
 A heterarchy, Dekker and Kuchar (2017) state, is a complex adaptive system of governance which is ordered by more than one governing principle. In other words, it is a multi-level structure in which there is no single 'highest level'. While heterarchies include elements of hierarchies and networks, they are different from both of these systems of governance in a number of important ways. An analogy might be made between heterarchical governance and plate tectonics: they are mutually self-contained orders with unclear hierarchies among them. Unlike a hierarchy, in a heterarchy, there is no fixed top or bottom level: there is not single, simple 'pecking order'. Nevertheless, this is not anarchic. As the elements of a heterarchy are activated, their inferiority or superiority changes, depending on the circumstances.
 
