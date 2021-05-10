@@ -14,6 +14,8 @@ Allan Parsons, May 2021
 
 **References**
 
+Bruni, L. E. and Giorgi, F. (2015) ‘Towards a heterarchical approach to biology and cognition’, _Progress in Biophysics and Molecular Biology_, 119(3), pp. 481–492. doi: 10.1016/j.pbiomolbio.2015.07.005
+
 Dekker, E. and Kuchar, P. (2017). Heterarchy. In A. Marciano, & G. B. Ramello (Eds.), _Encyclopedia of Law and Economics_. New York, NY: Springer. 
 
 McCulloch W. S. (1945) A Heterarchy of values determined by the topology of nervous nets. _Bulletin of Mathematical Biophysics_, 7(2):89–93.
