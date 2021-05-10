@@ -16,4 +16,6 @@ Allan Parsons, May 2021
 
 Dekker, E. and Kuchar, P. (2017). Heterarchy. In A. Marciano, & G. B. Ramello (Eds.), _Encyclopedia of Law and Economics_. New York, NY: Springer. 
 
-McCulloch W. S. (1945) A Heterarchy of values determined by the topology of nervous nets. Bulletin of Mathematical Biophysics, 7(2):89–93
+McCulloch W. S. (1945) A Heterarchy of values determined by the topology of nervous nets. _Bulletin of Mathematical Biophysics_, 7(2):89–93
+
+Shackle, G. L. S. (1979) _Imagination and the nature of choice_. Edinburgh, UK: Edinburgh University Press.
