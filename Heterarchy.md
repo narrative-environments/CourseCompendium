@@ -28,6 +28,8 @@ Bruni, L. E. and Giorgi, F. (2015) ‘Towards a heterarchical approach to biolog
 
 Dekker, E. and Kuchar, P. (2017). Heterarchy. In A. Marciano, & G. B. Ramello (Eds.), _Encyclopedia of Law and Economics_. New York, NY: Springer. 
 
+Goldammer, E. von, Paul, J. and Newbury, J. (2003) ‘Heterarchy - Hierarchy’, _Vordenker_. Available at: https://vordenker.de/heterarchy/a_heterarchy-e.pdf [Accessed: 10 May 2021]. 
+
 McCulloch W. S. (1945) A Heterarchy of values determined by the topology of nervous nets. _Bulletin of Mathematical Biophysics_, 7(2):89–93.
 
 Ogilvy, J. (2016) ‘Heterarchy: an idea finally ripe for its time’, _Forbes_. Available at: https://www.forbes.com/sites/stratfor/2016/02/04/heterarchy-an-idea-finally-ripe-for-its-time/?sh=7d69884047a7 (Accessed: 10 May 2021).
