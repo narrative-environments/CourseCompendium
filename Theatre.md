@@ -6,7 +6,7 @@ Keir Elam (1980) makes a distinction between 'theatre' and 'drama'. He takes ‘
 
 Both 'theatre', in the context of environment-people interactions, and 'drama', in the context of narrative-people interactions, are relevant for the design of narrative environments.
 
-For a discussion of the relationship betwen contemporary philosophy and theatre, see Bayly (2002).
+For a discussion of the relationship between contemporary European philosophy and theatre, see Bayly (2002).
 
 **References**
 
