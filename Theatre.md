@@ -1,6 +1,6 @@
 ## Theatre
 
-**RELATED TERMS: Epic theatre - Brecht; Theatre of Cruelty; Tragic theatre - Aristotle; Performative; Deixis and Indexicality**
+**RELATED TERMS: Epic theatre - Brecht; Theatre of Cruelty; Tragic theatre - Aristotle; Performative; [Deixis and Indexicality](https://github.com/narrative-environments/CourseCompendium/blob/main/Deixis.md)**
 
 Keir Elam (1980) makes a distinction between 'theatre' and 'drama'. He takes ‘theatre’ to refer here to the complex of phenomena associated with the performer-audience transaction, with the production and communication of meaning in the performance itself and with the systems underlying it. By ‘drama’, on the other hand, he means that mode of fiction designed for stage representation and constructed according to particular ‘dramatic’ conventions. The epithet ‘theatrical’, then, is limited to what takes place between and among performers and spectators, while the epithet ‘dramatic’ indicates the network of factors relating to the represented fiction.
 
