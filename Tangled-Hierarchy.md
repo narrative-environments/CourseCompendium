@@ -1,6 +1,6 @@
 # Tangled Hierarchy and Strange Loop
 
-**RELATED TERMS: [Metalepsis](https://github.com/narrative-environments/CourseCompendium/blob/main/Metalepsis.md); [Ontological Metalepsis](https://github.com/narrative-environments/CourseCompendium/blob/main/Ontological-Metalepsis.md); [Heterarchy](https://github.com/narrative-environments/CourseCompendium/blob/main/Heterarchy.md)**
+**RELATED TERMS: [Metalepsis](https://github.com/narrative-environments/CourseCompendium/blob/main/Metalepsis.md); [Ontological Metalepsis](https://github.com/narrative-environments/CourseCompendium/blob/main/Ontological-Metalepsis.md); [Heterarchy](https://github.com/narrative-environments/CourseCompendium/blob/main/Heterarchy.md); [Deixis and Indexicality](https://github.com/narrative-environments/CourseCompendium/blob/main/Deixis.md)**
 
 Douglas Hofstadter (1979: 18) argues that a strange loop occurs whenever, by moving upwards or downwards through the levels of a hierarchical system, you unexpectedly find yourself right back where you started. He sometimes uses the expression tangled hierarchy to describe a system in which a strange loop occurs. They are thus paradoxical structures that nonetheless undeniably belong to the world in which we live (Hofstadter, 2007: 103).
 
