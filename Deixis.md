@@ -1,6 +1,6 @@
 ## Deixis and Indexicality
 
-**RELATED TERMS: [Metalepsis](https://github.com/narrative-environments/CourseCompendium/blob/main/Metalepsis.md); [Ontological metalepsis](https://github.com/narrative-environments/CourseCompendium/blob/main/Ontological-Metalepsis.md); Tangled Hierarchy and Strange Loop**
+**RELATED TERMS: [Metalepsis](https://github.com/narrative-environments/CourseCompendium/blob/main/Metalepsis.md); [Ontological metalepsis](https://github.com/narrative-environments/CourseCompendium/blob/main/Ontological-Metalepsis.md); Tangled Hierarchy and Strange Loop; [Theatre](https://github.com/narrative-environments/CourseCompendium/blob/main/Theatre.md)**
 
 Narrative environments, as a cultural practice, involve cascades of deixis, similar to those found in theatre. In theatre, as Brandt (2016) explains, the first instance is the framing deixis of theatricality: “I am now acting, and not behaving naturally”. The second instance is the narrative deixis: “I am now playing the role of a character in the story X”. The third instance is the aesthetic deixis: “I am shaping this role in a certain way and signing this version as “this way” of
 playing it here now”.
