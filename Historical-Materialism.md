@@ -1,6 +1,6 @@
 ## Historical materialism - Marxism
 
-**RELATED TERMS: [History](https://github.com/narrative-environments/CourseCompendium/blob/main/History.md); Cultural Studies; Epic theatre - Brecht; Feminism - Material feminism; Method and methodology; Design of Narrative environments design; Critical thinking; Lefebvre**
+**RELATED TERMS: [History](https://github.com/narrative-environments/CourseCompendium/blob/main/History.md); Cultural Studies; Epic theatre - Brecht; Feminism - Material feminism; Method and methodology; Design of Narrative environments; Critical thinking; Lefebvre**
 
 Even though the crude teleological determinism, historicism and reductive economism of official communist ideology, or orthodox Marxism-Leninism, came to occupy the space of Marxist thinking, narrative environment design may yet still benefit from considering a particular understanding of historical materialism, as inflected by the western Marxist tradition, with its recovery of subjectivity, agency and culture. How might this be possible?
 
