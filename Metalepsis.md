@@ -34,6 +34,10 @@ This is the kind of tangled hierarchy or strange loop which the design of narrat
 
 One feature that may distinguish the design of narrative environments from other modes of design, then, is that it consciously takes into account the condition of all design: that it seeks to un-throw or over-throw the world into which it has been ‘thrown’, a world full of existing ‘designs’. In this condition, design is always re-design. Equally, design presents a paradox or an aporia: design is the ‘solution’ to the ‘problem’ that is ‘design’. Perhaps this is the terrain in which the notions of ontological metalepsis and ontological design have value, enabling us to recognise the ‘fiction’, the construction, the mediation, the performativity and the immersivity of our ‘being’, or our being in-between, which is a process of constantly being thrown-over-thrown, made-re-made or designed-re-designed.
 
+**A warning note**
+
+Hal Foster (2002: 193) sounds a warning note in respect of the metalepses and transgressions that may occur in a narrative environment when he proposes that it could be argued that, "contemporary design is part of a greater revenge taken by advanced capitalism on postmodernist culture - a recouping of its crossings of arts and disciplines, a routinization of its transgressions" 
+
 Allan Parsons, May 2021
 
 **References**
@@ -41,6 +45,8 @@ Allan Parsons, May 2021
 Bell, Alice, and Jan Alber (2012) “Ontological Metalepsis and Unnatural Narratology.” _Journal of Narrative Theory_, 42(2), 166– 92.
 
 Fludernik, Monika (2003) “Scene Shift , Metalepsis, and the Metaleptic Mode.” _Style_, 37(4), 382– 400.
+
+Foster, H. (2002) ‘The ABCs of contemporary design’, _October_, 100, pp. 191–199. Available at: http://www.jstor.org/stable/779099 (Accessed: 7 September 2016).
 
 Freestone, J. M. (2017) ‘The Selfish Genre’, _Storyworlds: A Journal of Narrative Studies_, 9(1), pp. 225–246. Available at: https://www.jstor.org/stable/10.5250/storyworlds.9.1-2.0225 (Accessed: 10 March 2021).
 
