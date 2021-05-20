@@ -36,7 +36,7 @@ One feature that may distinguish the design of narrative environments from other
 
 **A warning note**
 
-Hal Foster (2002: 193) sounds a warning note in respect of the metalepses and transgressions that may occur in a narrative environment when he proposes that it could be argued that, "contemporary design is part of a greater revenge taken by advanced capitalism on postmodernist culture - a recouping of its crossings of arts and disciplines, a routinization of its transgressions" 
+Hal Foster (2002: 193) sounds a warning note in respect of the metalepses and transgressions that may occur in a narrative environment, borrowed from modernist and avant-garde art practices and their reiteration in post-modernism, when he proposes the thesis that, "contemporary design is part of a greater revenge taken by advanced capitalism on postmodernist culture - a recouping of its crossings of arts and disciplines, a routinization of its transgressions" 
 
 Allan Parsons, May 2021
 
