@@ -1,6 +1,6 @@
 ## Creative thinking
 
-**RELATED TERMS: Critical thinking; Narrative environment design; Theoretical practice; Design practice and functionalism**
+**RELATED TERMS: Critical thinking; Design of Narrative environments; Theoretical practice; Design practice and functionalism**
 
 While a narrative environment design may serve a critical purpose, it does so creatively, so to speak. Designing a narrative environment, therefore, involves both creative and critical thinking.
 
