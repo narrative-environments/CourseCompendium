@@ -1,6 +1,6 @@
 ## Habitat
 
-**RELATED TERMS: Architecture; Ecology; Habitus; **
+**RELATED TERMS: Architecture; Ecology; Habitus; [Environment](https://github.com/narrative-environments/CourseCompendium/blob/main/Environment.md)**
 
 According to Prabakaran Mahdu (2013), 
 
