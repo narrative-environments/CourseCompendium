@@ -1,6 +1,6 @@
 ## Environment
 
-**RELATED TERMS: [Habitat](https://github.com/narrative-environments/CourseCompendium/blob/main/Habitat.md); Niche**
+**RELATED TERMS: [Habitat](https://github.com/narrative-environments/CourseCompendium/blob/main/Habitat.md); [Niche](https://github.com/narrative-environments/CourseCompendium/blob/main/Niche.md)**
 
 Environment is the name given to the outcome of the active processes of environing, which create an immunological sphere in Sloterdijk's terms and which thereby create a meaningful context for the actants who are engaged in creating, sustaining and changing it. Environment, in this sense, is close to the notions of habitat and niche.
 
