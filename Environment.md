@@ -4,7 +4,7 @@
 
 Environment is the name given to the outcome of the active processes of environing, which create an immunological sphere in Sloterdijk's terms and which thereby create a meaningful context for the actants who are engaged in creating, sustaining and changing it. Environment, in this sense, is close to the notions of habitat and niche.
 
-Environment, along with people and narrative, is one of the nodes in the tripartite model by means from which the methodological approach of design of narrative environments unfolds and is elaborated. 
+Environment, along with people and narrative, is one of the nodes in the tripartite model by means of which the methodological approach of design of narrative environments unfolds and is elaborated. 
 
 All three nodes are complex terms whose deictic or concrete content changes over time as the interactive dynamic among people, narrative and environments continues. Some light can be shed on what is meant by 'environment' by referring to the work of J. J. Gibson (1986, 1979), who writes, 
 
