@@ -1,6 +1,6 @@
 ## Niche
 
-**RELATED TERMS: Ecology; [Habitat](https://github.com/narrative-environments/CourseCompendium/blob/main/Niche.md); [Environment](https://github.com/narrative-environments/CourseCompendium/blob/main/Environment.md)**
+**RELATED TERMS: Ecology; [Habitat]; [Environment](https://github.com/narrative-environments/CourseCompendium/blob/main/Environment.md)**
 
 In terms of the design of narrative environments, two ecological terms which may be of particular signficance are habitat and niche. Odum distinguishes the two terms in the following way: 
 
