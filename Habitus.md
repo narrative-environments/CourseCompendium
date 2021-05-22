@@ -1,6 +1,6 @@
 # Habitus
 
-**RELATED TERMS: Habitat**
+**RELATED TERMS: [Habitat](https://github.com/narrative-environments/CourseCompendium/blob/main/Habitat.md)**
 
 The Greek term _hexis_ was translated into the Latin word _habitus_. Hexis, habitus or disposition is a general term for a person’s readiness to act in a certain way. It finds expression in acts of particular virtues or vices like honesty, generosity, cheerfulness, jealousy or cruelty. 
 
