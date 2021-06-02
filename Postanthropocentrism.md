@@ -4,7 +4,7 @@
 
 The idea of ‘postanthropocentrism’, which questions the human exceptionalism and methodological individualism of certain strands of humanist traditions, is a key focus of posthumanist thinking, that is, as a rethinking the human in its necessary relations to the nonhuman others, such as animals, machines, objects, systems, environments, for example, that form a necessary, but generally unrecognised, part of ‘being human’. (Herbrechter, 2013: 3)
 
-The value of the concept of postanthropocentrism for the design of narrative environments is that it invites a reconsideration of the relationships among the narrative, the environmental and the human dimensions of the overall design, perhaps conceived as a field of actantiality, but all conceived as necessary aspects of being human, i.e. the narrative and the environmental are not supplements or additions to human being but are integral parts, as life support systems in Sloterdijk’s terms.
+The value of the concept of postanthropocentrism for the design of narrative environments is that it invites a reconsideration of the relationships among the narrative, the environmental and the human dimensions of the overall design, perhaps conceived as a field of actantiality, but all conceived as necessary aspects of being human, i.e. the narrative and the environmental are not supplements or additions to human being but are integral parts of an extended life/support system, in Sloterdijk’s terms.
 
 **References**
 
