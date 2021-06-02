@@ -25,7 +25,7 @@ An account of medical and cultural approaches to the posthuman can be found in A
 
 Morris (2006: 35) further notes that the term “intelligent machine” first gained currency in Alan Turing’s landmark essay “Computing Machinery and Intelligence,” in which he proposed the imitation game as a test for machine intelligence. Katherine Hayles uses ‘intelligent machine’ to denote machines performing tasks that require cognition. The example she gives are neural nets performing sophisticated decisions, expert systems making judgments, information-filtering ecologies selecting data, genetic programs designing electrical circuits. Morris argues that any entity that can perform these tasks should prima facie be considered as thinking or intelligent and uses the term to mean any digital device capable of processing data and acting on the basis of that data.
 
-What is of more interest for narrative environment design is not machine intelligence per se, but how human, machine, intelligent machine and variously constituted environments, from built environments to soundscapes and atmospheres to ambiences, are enfolded and interact to form what might be called living systems with emergent (not simply embodied or programmed intelligence).
+What is of more interest for the design of narrative environments is not machine intelligence per se, but how human, machine, intelligent machine and variously constituted environments, from built environments to soundscapes and atmospheres to ambiences, are enfolded and interact to form what might be called adaptive living systems with emergent (not simply embodied or programmed) intelligence.
 
 **Sources**
 
