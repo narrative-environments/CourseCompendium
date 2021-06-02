@@ -1,6 +1,6 @@
 ## Posthuman
 
-**RELATED TERMS: Postanthropocentrisml Posthumanism;l Anthropocene - Capitalocene - Chthulucene); Humanism; Object-Oriented Ontology; Anthropo-Scenes**
+**RELATED TERMS: Postanthropocentrism; Posthumanism; Anthropocene - Capitalocene - Chthulucene; Humanism; Object-Oriented Ontology; Anthropo-Scenes**
 **Terms to add: Machine Intelligence and Artificial Intelligence**
 
 Ferrando (2013) states that the term ‘posthuman’ has become a key term in contemporary academic debate. It addresses an urgent need for an integral redefinition of the notion of the human, following the onto-epistemological as well as scientific and bio-technological developments of the twentieth and twenty-first centuries. Like posthumanism and postanthropocentrism, posthuman is a valuable term with which to engage when considering the design and interpretation of how the narrative, the environmental and the human aspects of a narrative environment interact. **[1]**
