@@ -1,6 +1,6 @@
 ## Postanthropocentrism
 
-**RELATED TERMS: [Posthumanism](https://github.com/narrative-environments/CourseCompendium/blob/main/Posthumanism.md); Posthuman; Speculative realism; Anthropocene - Capitalocene - Chthulucene; Humanism; Object-Oriented Ontology; Anthropo-Scenes**
+**RELATED TERMS: [Posthumanism](https://github.com/narrative-environments/CourseCompendium/blob/main/Posthumanism.md); [Posthuman](https://github.com/narrative-environments/CourseCompendium/blob/main/Posthuman.md); Speculative realism; Anthropocene - Capitalocene - Chthulucene; Humanism; Object-Oriented Ontology; Anthropo-Scenes**
 
 The idea of ‘postanthropocentrism’, which questions the human exceptionalism and methodological individualism of certain strands of humanist traditions, is a key focus of posthumanist thinking, that is, as a rethinking the human in its necessary relations to the nonhuman others, such as animals, machines, objects, systems, environments, for example, that form a necessary, but generally unrecognised, part of ‘being human’. (Herbrechter, 2013: 3)
 
