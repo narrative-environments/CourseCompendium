@@ -51,3 +51,5 @@ Miah, A. (2007). Posthumanism: A critical history. In: _Medical Enhancements and
 
 Morris, A. (2006). New media poetics: as we may think/how to write. In: _New media poetics: contexts, technotexts, and theories_. edited by A. Morris, and T. Swiss. Cambridge, MA: MIT Press, 1-46.
 
+Wolfe, C. (2010) _What is posthumanism?_ Minneapolis, MN: University of Minnesota Press.
+
