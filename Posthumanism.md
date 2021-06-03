@@ -1,6 +1,6 @@
 ## Posthumanism
 
-**RELATED TERMS: Postanthropocentrism; Posthuman; Realism; Speculative realism; Anthropocene - Capitalocene - Chthulucene; Humanism; Object-Oriented Ontology; Anthropo-Scenes; Actant**
+**RELATED TERMS: [Postanthropocentrism](https://github.com/narrative-environments/CourseCompendium/blob/main/Postanthropocentrism.md); Posthuman; Realism; Speculative realism; Anthropocene - Capitalocene - Chthulucene; Humanism; Object-Oriented Ontology; Anthropo-Scenes; Actant**
 
 Similarly to the term postanthropocentrism, the value of the concept of posthumanism for the design of narrative environments is that it invites a reconsideration of the relationships among the narrative, the environmental and the human aspects of the overall design, conceived as necessary aspects of being human. That is, the notion of posthumanism enables the narrative and the environmental dimensions of a narrative environment to be seen as integral parts of being human, as a living system and as mutual life support systems, in Sloterdijk’s terms, not as supplements or additions to an essentialist humanity.
 
