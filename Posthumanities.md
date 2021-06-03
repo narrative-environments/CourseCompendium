@@ -2,7 +2,7 @@
 
 **RELATED TERMS: Posthumanism; Postanthropocentrism; Posthuman;**
 
-According to Rosi Braidotti, critical posthumanities is an emergent field of enquiry based on the convergence of posthumanism and postanthropocentrism. 
+According to Rosi Braidotti, critical posthumanities is an emergent field of enquiry based on the convergence of posthumanism and postanthropocentrism. Posthumanism develops a critique of the humanist ideal of ‘Man’: Vitruvian 'Man' as the allegedly universal measure of all things. Postanthropocentrism criticizes species hierarchy and human exceptionalism.
 
 **References**
 
