@@ -20,3 +20,5 @@ Barad, K. (2007). _Meeting the universe halfway: quantum physics and the entangl
 
 Rossini, M. (2006). To the dogs: companion speciesism and the new feminist materialism. _Kritikos_, 3 (September). Available at: [http://intertheory.org/rossini](http://intertheory.org/rossini)
 
+Wolfe, C. (2010) What is posthumanism? Minneapolis, MN: University of Minnesota Press.
+
