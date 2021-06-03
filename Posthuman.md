@@ -35,6 +35,8 @@ Barad, K. (2007). _Meeting the universe halfway: quantum physics and the entangl
 
 Braidotti, R. (2013). _The Posthuman_. Cambridge, UK: Polity.
 
+Braidotti, R. and Hlavajova, M. (eds) (2018) _Posthuman glossary_. London, UK: Bloomsbury Academic.
+
 Ferrando, F. (2013). Posthumanism, transhumanism, antihumanism, metahumanism, and new materialisms: differences and relations. _Existenz_, 8 (2), 26–32.
 
 Haraway, D.J. (1991). A Cyborg manifesto: science, technology, and socialist-feminism in the late twentieth century. Chapter 8 in _Simians, cyborgs, and women: the reinvention of nature_. New York, NY: Routledge, 149-181.
