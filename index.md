@@ -220,6 +220,7 @@ This is (and will always be) a work in progress. So far, the entries we have are
 * [Postanthropocentrism](Postanthropocentrism.md)
 * [Posthuman](Posthuman.md)
 * [Posthumanism](Posthumanism.md)
+* [Posthumanities](Posthumanities.md)
 * [Postmodernism](Postmodernism.md)
 * [Poststructuralism](Poststructuralism.md)
 * [Practice](Practice.md)
