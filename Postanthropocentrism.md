@@ -8,5 +8,7 @@ The value of the concept of postanthropocentrism for the design of narrative env
 
 **References**
 
+Braidotti, R. (2013) _The Posthuman_. Cambridge, UK: Polity. 
+
 Herbrechter, S. (2013). Rosi Braidotti (2013) The Posthuman. Cambridge: Polity Press. ISBN : 978-0-7456-4158-4 [Book review]. _Culture Machine_, (April). Available at: [http://www.culturemachine.net/index.php/cm/article/viewFile/495/516](http://www.culturemachine.net/index.php/cm/article/viewFile/495/516)
 
