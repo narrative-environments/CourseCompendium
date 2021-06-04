@@ -6,7 +6,7 @@ According to Rosi Braidotti (2019), critical posthumanities is an emergent field
 
 ![Vitruvian Man](Vitruvian-Man.png)
 
-Post-Humanism names a critical awareness of the limitations of humanist 'Man'. As Rosi Braidotti notes,
+Post-Humanism names a critical awareness of the limitations of humanist 'Man'. As Rosi Braidotti (2013) notes,
 
 "Some of us are not even considered fully human now, let alone at previous moments of Western social, political and scientific history. Not if by ‘human’ we mean that creature familiar to us from the Enlightenment and its legacy: ‘The Cartesian subject of the cogito, the Kantian “community of reasonable beings”, or, in more sociological terms, the subject as citizen, rights-holder, property-owner, and so on’ (Wolfe, 2010a)."
 
