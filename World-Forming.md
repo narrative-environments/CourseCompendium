@@ -30,6 +30,8 @@ As Jenkins explains,
 
 >"Worlds are systems with many moving parts (in terms of characters, institutions, locations) that can generate multiple stories with multiple protagonists that are connected to each other through their underlying structures. Part of what drives transmedia consumption is the desire to dig deeper into these worlds, to trace their backstories and understand their underlying systems." 
 
+An example of the use of the term 'world-building' in the context of cinema can be found in Simran Hans (2021) review of the film _Cruella_ (2021). Hans writes, "Set in 1970s London against the backdrop of the emerging punk scene, thus playful prequel [to _101 Dalmations_] by Craig Gillespie ... is a fine feat of world-building".
+
 **References**
 
 Arendt, H. (1958). _The Human condition_. Chicago, IL: University of Chicago Press.
@@ -37,6 +39,8 @@ Arendt, H. (1958). _The Human condition_. Chicago, IL: University of Chicago Pre
 Elden, S. and Mendieta, E. (2009). Being-with as making worlds: the ‘second coming’ of Peter Sloterdijk. _Environment and Planning D: Society and Space_, 27 (1), 1–11\. Available from http://dx.doi.org/0.1068/d2701em [Accessed 7 September 2016].
 
 Escobar, A. (2016). Thinking-feeling with the Earth: territorial struggles and the ontological dimension of the Epistemologies of the South. _AIBR, Revista de Antropología Iberoamericana_, 11 (1), 11–32\. Available from http://www.aibr.org/antropologia/netesp/numeros/1101/110102e.pdf [Accessed 5 September 2016].
+
+Hans, S. (2021). Cruella. _Observer_, New Review p.27.
 
 Jenkins, H. (2016) Transmedia what?, _Immerse_. Available at: https://immerse.news/transmedia-what-15edf6b61daa (Accessed: 8 April 2021).
 
