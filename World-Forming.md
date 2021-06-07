@@ -30,7 +30,7 @@ As Jenkins explains,
 
 >"Worlds are systems with many moving parts (in terms of characters, institutions, locations) that can generate multiple stories with multiple protagonists that are connected to each other through their underlying structures. Part of what drives transmedia consumption is the desire to dig deeper into these worlds, to trace their backstories and understand their underlying systems." 
 
-An example of the use of the term 'world-building' in the context of cinema can be found in Simran Hans (2021) review of the film _Cruella_ (2021). Hans writes, "Set in 1970s London against the backdrop of the emerging punk scene, thus playful prequel [to _101 Dalmations_] by Craig Gillespie ... is a fine feat of world-building".
+An example of the use of the term 'world-building' in the context of cinema can be found in Simran Hans (2021) review of the film _Cruella_ (2021). Hans writes, "Set in 1970s London against the backdrop of the emerging punk scene, this playful prequel [to _101 Dalmations_] by Craig Gillespie ... is a fine feat of world-building".
 
 **References**
 
