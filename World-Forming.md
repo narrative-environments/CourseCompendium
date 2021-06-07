@@ -22,7 +22,7 @@ Sloterdijk conceptualizes the human sphere as a nine‐dimensional greenhouse (c
 
 Such thinking can also be used to consider and gain a critical appreciation of the contemporary global conjuncture which, Escobar (2016) contends, can be best characterised by the fact that we are facing modern problems for which there are no longer modern solutions. Ontologically speaking, Escobar continues, one may say that the crisis is the crisis of a particular world or set of world-making practices, the world that we usually refer to as the dominant form of Euro-modernity, i.e. capitalist, rationalist, liberal, individualist, secular, patriarchal, white, and so on.
 
-**World-building in transmedia practices**
+**World-building in media and transmedia practices**
 
 In the context of transmedia practices, Jenkins (2016) notes, the concept of world-building emerged from fantasy and science fiction. Nevertheless, it has also been applied to fictions of a documentary or historical character. Thus, fictional texts imagine and design new worlds; documentaries investigate and map existing worlds. From the point of view of the design of narrative environments, both forms exist in a critical relation to existing worlds, drawing attention to specific features of the constitution of thise worlds, and by exploring multiple points of view or competing realities.
 
