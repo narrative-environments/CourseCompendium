@@ -1,6 +1,6 @@
 ## Tragic theatre - Aristotle
 
-**RELATED TERMS: Epic theatre - Brecht; Theatre of Cruelty; Theatre; Arendt; Mimesis; Story (fabula) and Plot (sjuzet or sjuzhet)**
+**RELATED TERMS: Epic theatre - Brecht; Theatre of Cruelty; Theatre; Arendt; Mimesis; Story (fabula) and Plot (sjuzet or sjuzhet); [Analepsis and Prolepsis](https://github.com/narrative-environments/CourseCompendium/blob/main/Analepsis-and-Prolepsis.md)**
 
 The importance of tragic theatre for narrative environment design is threefold. First, it places great importance on plot construction and the effects upon the audience that such plotting can achieve. Second, it emphasises the importance of engaging an audience empathically, in relation to plot construction, in the context of moral and intellectual education. Third, like drama, the narrative in a narrative environment is embodied and enacted, woven into an experiential, intercorporeal, spatio-temporal framing. Much, therefore, can be learned about the design of a narrative environment from the construction of a drama. Engagement with and participation in narrative environments, like drama, involves the weaving together of emotional and intellectual responses, together with reflection upon those responses.
 
