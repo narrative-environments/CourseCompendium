@@ -1,5 +1,7 @@
 ## Actor-Network Theory
 
+**RELATED TERMS: Theoretical practice; Ethnomethodology; Latour; Storyworld; Actantial model - Greimas; Apparatus – Dispositif; Object-oriented ontology; Actant**
+
 According to Jary and Jary (2000), actor network theory combines post-structuralist insights with detailed empirical studies of scientific practices and technologies, organisations and social processes. It builds on the work of Bruno Latour, John Law and Michel Callon. The focus of actor network theory is on the reality and transformability of networks, as against such notions as institutions and society. Its conception of the social is as a circulatory field of forces beyond the agency-structure debate.
 
 In a footnote in ‘Reassembling the Social’, Bruno Latour (2005, fn. 54, p. 54)) writes that,
