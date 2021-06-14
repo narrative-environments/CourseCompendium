@@ -2,7 +2,9 @@
 
 _Use for_ Distancing effect; estrangement effect
 
-Mode of address and mode of engagement of audience and/or participant is an important aspect of the threshold and immersive experience of the narrative environment, both in terms of narrative beginning and sequential progression and environmental entrance and situational flow: what is the character of the performative invitation to engage with, and persist with, the narrative environment? The question that arises, then, is whether this constitutes an empathic engagement or some mixture of empathic and intellectual engagement, which may prompt consideration of the value of the alienation effect discussed by Brecht and the defamiliarisation process discussed by Shklovsky as devices for guiding responses and interactions.
+**RELATED TERMS: Avant-garde movements; Defamiliarisation, Ostranenie or making strange; Literary theory; Psychogeography; Situationist International; Epic theatre - Brecht; Theatre of Cruelty**
+
+Mode of address and mode of engagement of audience and/or participant are important aspects of the threshold and immersive experience of the narrative environment, both in terms of narrative beginning and sequential progression and environmental entrance and situational flow. They concern the character of the performative invitation to engage with, and persist with, the narrative environment. The question that arises, then, is whether this constitutes an empathic engagement or some mixture of empathic and intellectual engagement, which may prompt consideration of the value of the alienation effect discussed by Brecht and the defamiliarisation process discussed by Shklovsky, as devices for guiding responses and interactions.
 
 Alienation effect is a term derived from the theoretical and theatrical practice of the German Marxist playwright and poet, Bertolt Brecht, 1898-1956\. Brecht sought to discover ways of dramatising Marx’s insights into the ways capitalism works. To this end, he sought to create a ‘dialectical theatre’ by means of a set of devices in staging, music, acting, and the telling of parable. The goals was to confound an audience’s comfortable empathic identification with characters and story, as is encouraged by conventional realism **[1]** or naturalism (Brooker, 2003: 5), through the illusion of the real, the natural and/or the inevitable, i,e, as ‘matters-of-fact’ in contrast to ‘matters of concern’, in Latour’s terms.
 
@@ -88,12 +90,6 @@ Selden, R., Widdowson, P. and Brooker, P. (2005). _A Reader’s guide to contemp
 
 Tian, M. (1997). ‘Alienation-effect’ for whom? Brecht’s (mis)interpretation of the classical Chinese theatre. _Asian Theatre Journal_, 14 (2), 200–222\. Available from [http://www.jstor.org/stable/1124277](http://www.jstor.org/stable/1124277) [Accessed 11 March 2016].
 
-Avant-garde movements
-Defamiliarisation, Ostranenie or making strange
-Literary theory
-Psychogeography
-Situationist International
-Epic theatre (Brecht)
-Theatre of Cruelty
+
 
 
