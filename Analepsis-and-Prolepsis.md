@@ -1,7 +1,6 @@
 # Analepsis and Prolepsis
 
-RELATED TERMS: 
-
+**RELATED TERMS: Tragic theatre - Aristotle**
 
 A Greek tragedy usually starts with a ‘flashback’ or analepsis, a recapitulation of the incidents of the story which occurred prior to those which were selected for the plot. The reader is plunged in medias res (‘into the middle of things’), and earlier incidents in the story are introduced artfully at various stages in the plot, often in the form of retrospective narration. (Selden, Widdowson and Brooker, 2005: 34)
 
