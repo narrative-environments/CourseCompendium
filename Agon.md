@@ -1,5 +1,7 @@
 ## Agon
 
+**RELATED TERMS: [Agonism and Avant-Gardism](https://github.com/narrative-environments/CourseCompendium/blob/main/Agonism-and-Avant-Gardism.md)**
+
 The word agon and its cognate terms, agonism, agonist, antagonist and protagonist are of great value in developing and understanding the dynamics of narrative environments, particularly when considered from the point of view of dramatic conflict. Agon is a way of developing the intricacies of dramatic conflict through such notions as contest and struggle, opening the potential to discuss these in playful or in political terms.
 
 It is generally held that the root meaning of the Greek word Agon is a gathering or an assembly, i.e. group of people brought together for some purpose. It is a term, however, which over time acquired a number of distinct connotations. For example, in the _Oresteia_, Aeschylus employs the word to refer to struggles of various types, while in _The Eumenides_ the image of a wrestling match is used to describe a deadly contest. Aeschylus’ use of agon in _The Eumenides_ explicitly links the image of athletic contest with that of legal proceedings.
@@ -8,7 +10,7 @@ Debra Hawhee (2002: 186) comments that,
 
 ” … the word agôn suggests movement through struggle, a productive training practice wherein subjective production takes place through the encounter itself. As Nietzsche suggests, the Greeks produced themselves through active struggle; their pedagogy depended on agonism.”
 
-Thus, in the time of Aeschylus, agon came to connote competition and contention. A generation or so later, the historian Thucydides employs agon to mean extreme anxiety, where agona signifies the most agonising and conflicting emotions. In this way, agon comes to refer to conflicts which are external, such as competition between opposing forces, and conflicts which are internal, such a mental and emotional agony.
+Thus, in the time of Aeschylus, agon came to connote competition and contention. A generation or so later, the historian Thucydides employs agon to mean extreme anxiety, where agonia signifies the most agonising and conflicting emotions. In this way, agon comes to refer to conflicts which are external, such as competition between opposing forces, and conflicts which are internal, such a mental and emotional agony.
 
 In the English language, agonist was used to mean champion or contender for prizes in the 17th century and now, in the 21st century, it is taken to refer to a person engaged in a contest or a struggle. The more generally used form of the term agonist in English is protagonist against whom is set an antagonist.
 
