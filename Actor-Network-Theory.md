@@ -39,9 +39,9 @@ Latour, B. (1996). On actor-network theory. A few clarificaitons plus more than 
 
 The following items are held in University of the Arts libraries: Latour, B. (2005). [Reassembling the Social: An Introduction to Actor-network-theory](http://voyager.arts.ac.uk/cgi-bin/Pwebrecon.cgi?DB=local&BBID=286778). Oxford: Oxford University Press.
 
-The following items are available through Google Preview:
+**Further reading**
 
-Latour, B. (2005). [Reassembling the Social: An Introduction to Actor-network-theory](http://www.google.com/books?id=Pdr6jbCGORsC&printsec=frontcover&rview=1). Oxford: Oxford University Press.
+Latour, B. (2005). _Reassembling the Social: An Introduction to Actor-network-theory_. Oxford: Oxford University Press.
 
 Andrew Barry has an interesting outline of the value of actor-network theory and the intellectual sources from which it draws in:
 
