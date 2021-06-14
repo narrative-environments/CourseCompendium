@@ -1,5 +1,8 @@
 ## Agonistic politics - Mouffe
 
+**RELATED TERMS: Politics and the political; Focalisation; Arendt**
+
+
 While a Greimasian approach to narrative environments emphasises actantiality, as a complex field of inter-related, systemic or networked inter-actions involving actants of many different kinds, from conventional characters to various kinds of artefactual entities such as climate and religious symbolism, there still remains the problem of what might ‘animate’, ‘drive’ or ‘give impulsion’ to this field of interaction.
 
 One approach to understanding some of the human motivations implicated in such fields of inter-action that is potentially compatible with Greimas’s actantial model, with its structured oppositions and dynamic relational axes, is the agonistic politics of Chantal Mouffe, which gives priority to the notions of antagonism, agonism and hegemony (i.e. hierarchical power relations achieved through apparent consensual agreement).
@@ -70,9 +73,4 @@ Mouffe, C. (2012). Space, hegemony and radical critique. In: _Spatial Politics: 
 
 Mouffe, C. (2013). _Agonistics: thinking the world politically_. London: Verso.
 
-RELATED TERMS
-
-* Politics and the political
-* Focalisation
-* Arendt
 
