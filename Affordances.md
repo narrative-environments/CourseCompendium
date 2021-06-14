@@ -10,11 +10,11 @@ In Gibson's (1986, 1979) words, "an affordance is neither an objective property 
 
 Such affordances could be understood as ‘objective’, i.e. ‘reflective’ or ‘expressive’ of ‘properties’ that the chair ‘has’ or ‘possesses’, but this would be to adopt a reductive, essentialist approach. Affordances, more properly, are relations between perceivers/actors and objects. Any person may perceive/enact more than one affordance of the same ‘object’, depending on need or circumstance, thereby changing its ‘objecti-ive’ status. Persons from different cultural backgrounds may share perceptions of the same affordances; or they may see different ones.
 
-Furthermore, such environmental or ecological perception is part of an engagement with the ongoing situation(s) in which the perceiver/actor is actively partaking. It is through such situations that the environments or ecologies are partly constituted as environments and ecologies. That is, perception itself is an active scanning of situations and environments, not simply a passive reception of stimuli from environments. Perception, in other words, is multiply motivated and involves, as Merleau-Ponty affirms, the whole body in movement in domains constituted through intercorporeal interaction.
+Furthermore, such environmental or ecological perception is part of the ongoing situation(s) in which the perceiver, as actant, is actively partaking and constituting. It is through such situations that the environments or ecologies are in part, constituted as environmental and ecological realities. That is, perception itself is an active scanning of situations and environments, not simply a passive reception of stimuli from situations and environments. Perception, in other words, is multiply motivated and involves, as Merleau-Ponty affirms, the whole body in movement in domains constituted through intercorporeal interaction.
 
 **Affordances and Design**
 
-The Interaction Design Foundation develops the discussion of the use of the notion of affordances in the context of design. The key figure in the introduction of affordances into design is Don Norman.
+The Interaction Design Foundation develops the discussion of the use of the notion of affordances in the context of design. The key figure in the introduction of affordances into design discourse and practice is Don Norman.
 
 **References**
 
