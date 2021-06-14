@@ -1,5 +1,7 @@
 ## Agency
 
+**RELATED TERMS: Actor Network Theory; Architecture; Interaction Design; Narratology; Sociology; Human Actantiality; Branding; Agency**
+
 **Agency, de-centring the subject, situating the subject and distributed agency across a network**
 
 From the perspective of narrative environment design, the interest in ‘agency’ relates to structuralist and poststructuralist approaches, as well as Peircean semiotics, which de-centre the sovereign subject of the modern epoch, but _without effacing human agency_. Similarly to Michel Foucault and Jacques Derrida, C. S. Peirce is as much interested in situating subjectivity as he is in de-centring it. Among Peirce’s most significant achievements is that of exhibiting human beings as somatic, semiotic, and social actors caught up in processes over which they have very limited control and about which they have only fragmentary, fallible, and (often very) distorted understandings (Colapietro, 2007).
@@ -108,16 +110,7 @@ Law, J. (2007). Actor network theory and material semiotics. version of 25 April
 
 Law, J. and Urry, J. (2003). _Enacting the social._ Lancaster: Department of Sociology and the Centre for Science Studies, Lancaster University. Available at [http://www.lancs.ac.uk/fass/sociology/papers/law-urry-enacting-the-social.pdf](http://www.lancs.ac.uk/fass/sociology/papers/law-urry-enacting-the-social.pdf). Accessed 9 March 2007.
 
-RELATED TERMS
 
-* Actor Network Theory
-* Architecture
-* Interaction Design
-* Narratology
-* Sociology
-* Human Actantiality
-* Branding
-* Agency
 
 
 
