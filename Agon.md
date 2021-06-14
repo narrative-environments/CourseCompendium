@@ -1,6 +1,6 @@
 ## Agon
 
-**RELATED TERMS: [Agonism and Avant-Gardism](https://github.com/narrative-environments/CourseCompendium/blob/main/Agonism-and-Avant-Gardism.md)**
+**RELATED TERMS: [Agonism and Avant-Gardism](https://github.com/narrative-environments/CourseCompendium/blob/main/Agonism-and-Avant-Gardism.md); Narratology; Dramatic conflict; Protagonist; Antagonist; Human Actantiality; Dissensus - Ranciere; Focalisation**
 
 The word agon and its cognate terms, agonism, agonist, antagonist and protagonist are of great value in developing and understanding the dynamics of narrative environments, particularly when considered from the point of view of dramatic conflict. Agon is a way of developing the intricacies of dramatic conflict through such notions as contest and struggle, opening the potential to discuss these in playful or in political terms.
 
