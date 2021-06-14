@@ -1,6 +1,6 @@
 ## Agonism and Avant-Gardism
 
-RELATED TERMS: 
+**RELATED TERMS: Agon;**
 
 As is noted under the term [Agon](https://narrative-environments.github.io/CourseCompendium/Agon.html), the terms, agonism, agonist, antagonist and protagonist are of great value in developing and understanding the dynamics of narrative environments, particularly when considered from the point of view of dramatic conflict. Renato Poggioli (1968: 65), furthermore, argues that agonism is a moment of enormous import as a disposition within modern culture. The particular significance of agonism within avant-garde art is his specific area of interest, however.
 
