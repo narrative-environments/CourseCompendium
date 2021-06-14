@@ -8,4 +8,4 @@ It is analepsis which allows for prolepsis, or 'flash forward', to various other
 
 **References** 
 
-Selden, R., Widdowson, P. and Brooker, P. (2005). A Reader’s guide to contemporary literary theory, 5th ed. Harlow, UK: Pearson Longman.
+Selden, R., Widdowson, P. and Brooker, P. (2005). _A Reader’s guide to contemporary literary theory_, 5th ed. Harlow, UK: Pearson Longman.
