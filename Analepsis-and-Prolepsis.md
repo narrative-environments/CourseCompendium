@@ -6,6 +6,8 @@ A Greek tragedy usually starts with a ‘flashback’ or analepsis, a recapitula
 
 It is analepsis which allows for prolepsis, or 'flash forward', to various other moments in the narration by means of which the story is unfolded through the plot.
 
+In the design of narrative environments, such plot movements back and forth in time against a story timeline may be parallelled or contradicted by the spatial movements of the body against the contours of place.
+
 **References** 
 
 Selden, R., Widdowson, P. and Brooker, P. (2005). _A Reader’s guide to contemporary literary theory_, 5th ed. Harlow, UK: Pearson Longman.
