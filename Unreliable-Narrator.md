@@ -27,3 +27,7 @@ Chatman, S. (2016) ‘What novels can do that films can’t (and vice versa )’
 Kurtzleben, (2017). President Trump, unreliable narrator. _NPR_. Available at https://www.npr.org/2017/06/19/532601222/president-donald-trump-unreliable-narrator?t=1622561971951 [Accessed 1 June 2021] 
 
 Schafer, R. (1980) ‘Narration in the psychoanalytic dialogue’, _Critical Inquiry_, 99(5), pp. 383–389.
+
+**Other Resources**
+
+Lee, S. (2021) Unreliable narrator. _BBC Sounds_. Available at https://www.bbc.co.uk/sounds/play/m000wynk [Accessed 17 June 2021]
