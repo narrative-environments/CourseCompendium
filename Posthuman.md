@@ -19,6 +19,14 @@ In doing so, Hayles contends, they continue a humanist, idealist and universalis
 
 An account of medical and cultural approaches to the posthuman can be found in Andy Miah’s (2007) chapter “Posthumanism: A critical history”.
 
+**Posthuman and Transhumanism**
+
+Kevin LaGrandeur (2014) notes two significant differences between transhumanism and the posthuman. Firstly, the posthuman focuses on information and systems theories, i.e. cybernetics. Consequently, the posthuman has a primary relationship to digital technology. Secondly, the posthuman emphasises systems, such as humans, as distributed entities, in other words, as systems comprised of, and entangled with, other systems.
+
+Transhumanism does not emphasize either of these things.
+
+The transhuman as a project seeks to modify the human species via any kind of emerging science, including genetic engineering, digital technology and bioengineering. Prosthetics and other modifications are used to enhance, rather than compensate for, normal human functions (LaGrandeur, 2014).
+
 **Notes**
 
 **[1]** Adalaide Morris (2006: 4) suggests that: “Although the term “posthuman” has been defined in various ways, the common element in its use is a synergy between human beings and intelligent machines.”
@@ -27,7 +35,7 @@ Morris (2006: 35) further notes that the term “intelligent machine” first ga
 
 What is of more interest for the design of narrative environments is not machine intelligence per se, but how human, machine, intelligent machine and variously constituted environments, from built environments to soundscapes and atmospheres to ambiences, are enfolded and interact to form what might be called adaptive living systems with emergent (not simply embodied or programmed) intelligence.
 
-**Sources**
+**References**
 
 Barad, K., (2003). Posthumanist performativity: toward an understanding of how matter comes to matter. _Signs: Journal of Women in Culture and Society_, 28 (3), pp.801–831\. Available at: [http://www.jstor.org/stable/10.1086/345321](http://www.jstor.org/stable/10.1086/345321 "Barad")
 
@@ -48,6 +56,8 @@ Hayles, N.K. (2006). Unfinished work: from cyborg to cognisphere. Theory, Cultur
 Hayles, K. (1999). _How we became posthuman: virtual bodies in cybernetics, literature, and informatics_. Chicago Ill.: University of Chicago Press.
 
 Herbrechter, S. (2013). Rosi Braidotti (2013) The Posthuman. Cambridge: Polity Press. ISBN : 978-0-7456-4158-4 [Book review]. _Culture Machine_, (April). Available at: [http://www.culturemachine.net/index.php/cm/article/viewFile/495/516](http://www.culturemachine.net/index.php/cm/article/viewFile/495/516)
+
+LaGrandeur, K. (2014) What is the difference between posthumanism and transhumanism. _Institute for Ethics and Emerging Technologies_ https://archive.ieet.org/articles/lagrandeur20140729.html [Accessed 17 June 2021]
 
 Miah, A. (2007). Posthumanism: A critical history. In: _Medical Enhancements and Posthumanity_. New York, NY: Routledge, 1–29.
 
