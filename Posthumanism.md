@@ -14,11 +14,21 @@ Rossini (2006) explains that the term posthumanism first appeared on the academi
 
 After Nietzsche’s proclamation of the death of God in _Die fröhliche Wissenschaft_ (_The Gay Science_, 1882), Heidegger’s _Brief über den Humanismus_ (_Letter on Humanism_, 1947) in particular can be seen as the initiator of the posthumanism debate. This debate received a new and powerful impetus from the work of Michel Foucault, who proposed in the final sentence of his book _Les Mots et les Choses_ (_The Order of Things_, 1966), that the figure of “man would be erased, like a face drawn in sand at the edge of the sea.”
 
+**Posthuman and Transhumanism**
+
+Kevin LaGrandeur (2014) notes two significant differences between transhumanism and the posthuman. Firstly, the posthuman focuses on information and systems theories, i.e. cybernetics. Consequently, the posthuman has a primary relationship to digital technology. Secondly, the posthuman emphasises systems, such as humans, as distributed entities, in other words, as systems comprised of, and entangled with, other systems.  
+
+Transhumanism does not emphasize either of these things. 
+
+The transhuman as a project seeks to modify the human species via any kind of emerging science, including genetic engineering, digital technology and bioengineering. Prosthetics and other modifications are used to enhance, rather than compensate for, normal human functions (LaGrandeur, 2014).
+
 **References**
 
 Barad, K. (2007). _Meeting the universe halfway: quantum physics and the entanglement of matter and meaning_, Durham: Duke University Press.
 
+LaGrandeur, K. (2014) What is the difference between posthumanism and transhumanism. _Institute for Ethics and Transforming Technologies_ https://archive.ieet.org/articles/lagrandeur20140729.html [Accessed 17 June 2021]
+
 Rossini, M. (2006). To the dogs: companion speciesism and the new feminist materialism. _Kritikos_, 3 (September). Available at: [http://intertheory.org/rossini](http://intertheory.org/rossini)
 
-Wolfe, C. (2010) What is posthumanism? Minneapolis, MN: University of Minnesota Press.
+Wolfe, C. (2010) _What is posthumanism?_ Minneapolis, MN: University of Minnesota Press.
 
