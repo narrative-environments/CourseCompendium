@@ -31,3 +31,5 @@ Schafer, R. (1980) ‘Narration in the psychoanalytic dialogue’, _Critical Inq
 **Other Resources**
 
 Lee, S. (2021) Unreliable narrator. _BBC Sounds_. Available at https://www.bbc.co.uk/sounds/play/m000wynk [Accessed 17 June 2021]
+
+Sweet, M. (2020) The Unreliable narrator. -BBC Sounds_. Available at https://www.bbc.co.uk/sounds/play/m000gmv5 [Accessed 17 June 2021]
