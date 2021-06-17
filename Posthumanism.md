@@ -26,7 +26,7 @@ The transhuman as a project seeks to modify the human species via any kind of em
 
 Barad, K. (2007). _Meeting the universe halfway: quantum physics and the entanglement of matter and meaning_, Durham: Duke University Press.
 
-LaGrandeur, K. (2014) What is the difference between posthumanism and transhumanism. _Institute for Ethics and Transforming Technologies_ https://archive.ieet.org/articles/lagrandeur20140729.html [Accessed 17 June 2021]
+LaGrandeur, K. (2014) What is the difference between posthumanism and transhumanism. _Institute for Ethics and Emerging Technologies_ https://archive.ieet.org/articles/lagrandeur20140729.html [Accessed 17 June 2021]
 
 Rossini, M. (2006). To the dogs: companion speciesism and the new feminist materialism. _Kritikos_, 3 (September). Available at: [http://intertheory.org/rossini](http://intertheory.org/rossini)
 
