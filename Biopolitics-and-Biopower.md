@@ -1,6 +1,6 @@
 ## Biopolitics and biopower
 
-**RELATED TERMS: Apparatus – Dispositif; Body; Politics and the political; Disciplinary societies and Societies of control**
+**RELATED TERMS: Apparatus – Dispositif; Body; Politics and the political; Disciplinary societies and Societies of control; [Psychopower](https://github.com/narrative-environments/CourseCompendium/blob/main/Psychopower.md)**
 
 The term biopolitics or biopower is defined by Foucault as,
 
