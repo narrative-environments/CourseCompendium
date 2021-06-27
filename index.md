@@ -230,6 +230,7 @@ This is (and will always be) a work in progress. So far, the entries we have are
 * [Protagonist](Protagonist.md)
 * [Psychogeography](Psychogeography.md)
 * [Psychology](Psychology.md)
+* [Psychopower](Psychopower.md)
 * [Realism](Realism.md)
 * [Reception Theory and Reader-response Criticism](Reception-Theory.md)
 * [Re-Enactment](Re-Enactment.md)
