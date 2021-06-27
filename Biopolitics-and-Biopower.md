@@ -1,4 +1,4 @@
-## Biopolitics and biopower
+## Biopolitics and Biopower
 
 **RELATED TERMS: Apparatus – Dispositif; Body; Politics and the political; Disciplinary societies and Societies of control; [Psychopower](https://github.com/narrative-environments/CourseCompendium/blob/main/Psychopower.md)**
 
