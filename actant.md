@@ -8,7 +8,7 @@ In order to develop a consistent approach in which the narrative, the environmen
 
 One such theory is that which has developed around the term ‘actant’.
 
-An actant is capable of exterting influence in a narrative setting (epistemological, cultural), of effecting change in an environmental setting (ontological, ecological), and of altering perceptions, thoughts and emotions in a human subjective, social setting (experience, consciousness). In a narrative environment setting, an actant moves across these analytically distinct fields, bringing them into relationship and effecting transformations across them, creating new 'realities'.
+An actant is capable of exterting influence in a narrative setting (epistemological, cultural), of effecting change in an environmental setting (ontological, ecological), and of altering perceptions, thoughts and emotions in a human intercorporeal and intersubjective, social setting (experience, consciousness, affiliation, empathy). In a narrative environment setting, an actant moves across these analytically-distinct fields, bringing them into relationship and effecting transformations across them, creating new 'realities'.
 
 **A history of the term**
 
