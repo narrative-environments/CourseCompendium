@@ -247,6 +247,7 @@ This is (and will always be) a work in progress. So far, the entries we have are
 * [Scape Metaphors](Scape-Metaphors.md)
 * [Science](Science.md)
 * [Sculpture](Sculpture.md)
+* [Semiotic Square - Greimas](Semiotic-Square.md)
 * [Semiotics](Semiotics.md)
 * [Sensory Design](Sensory-Design.md)
 * [Service Design](Service-Design.md)
