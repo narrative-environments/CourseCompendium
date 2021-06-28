@@ -6,9 +6,15 @@
 
 In order to develop a consistent approach in which the narrative, the environmental and the people dimensions of narrative environments are all understood to act, it is necessary to adopt a theory of action that is post-humanist in the sense that it does not put human agency first and foremost, but contextualises it within a field of more complex systemic, networked or rhizomic performance and performativity, while also acknowledging the possibility that such fields of action can generate new contexts. 
 
-One such theory is that which has developed around the term ‘actant’.
+One such theory is that which has developed around the term ‘actant’, as 'material-semiotic' entity or an operational or performative collective.
 
 An actant is capable of exterting influence in a narrative setting (epistemological, cultural), of effecting change in an environmental setting (ontological, ecological), and of altering perceptions, thoughts and emotions in a human intercorporeal and intersubjective, social setting (experience, consciousness, affiliation, empathy). In a narrative environment setting, an actant moves across these analytically-distinct fields, bringing them into relationship and effecting transformations across them, creating new 'realities'.
+
+In the words of Donna Haraway, 
+
+>"Non-humans are not necessarily "actors" in the human sense, but they are part of the functional collective that makes up an actant. Action is not so much an ontological as a semiotic problem. This is perhaps as true for humans as non-humans, a way of looking at things that may provide exits from the methodological individualism inherent in concentrating constantly on who the agents and actors are in the sense of liberal theories of agency."
+
+In the design of narrative environments, actantiality is an ontological, semiotic, epistemological and experiential problem at one and the same time.
 
 **A history of the term**
 
