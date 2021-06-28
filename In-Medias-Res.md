@@ -2,6 +2,8 @@
 
 **RELATED TERMS: Story (fabula) and Plot (sjuzet or sjuzhet)**
 
+>"the world has always been in the middle of things in unruly and practical conversation, full of action and structured by a startling array of actants and of networking and unequal collectives." (Donna Haraway, _The Promises of Monsters_)
+
 Meir Sternberg (1992) counts Aristotle as taking the earliest and least explicit, but possibly the least unreasonable, anti-chronological position on narrative. This is due to his subordination of events to effects. Aristotle’s _Poetics_ views the arrangement of events in functional terms, as a means to an end, or, more properly, in teleological terms: poetic ends determine or explain means, so as to inform their form. This teleo-logic runs all the way through from Aristotle’s universals of art to his plot rules and variables, silently incorporating temporal (dis)order.
 
 Thus, at the most general level of teleology, the definition of art as mimesis finds its rationale for Aristotle in the universal pleasure felt in things imitated. As Aristotle’s argument descends from art through literary narrative or fiction to tragedy, it progressively refers specific forms and options of mimesis to their specific informing pleasurable effects, kinds of structure to kinds of pleasure, such as unity, surprise, catharsis.
