@@ -12,7 +12,7 @@ Thus, she uses the semiotic square to define four spaces as a means to explore h
 
 Haraway's semiotic square is as follows:
 
-![Haraway Semiotic Square](Haraway Semiotic Square.png)
+![Haraway Semiotic Square](Haraway-Semiotic-Square.png)
 
 **References**
 
