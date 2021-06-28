@@ -16,7 +16,7 @@ If you do not ise those media, people will not see your design. If you do use th
 
 Larry Rosen makes a distinction between addiction and obsession. He argues that people are obsessed by their devices and platforms, such as smartphones and Facebook. Simplifying greatly, he argues that addiction stems from a need to increase neurotransmitters, such as dopamine, endorphins and others, in our brain, while obsession stems from a need to decrease neurotransmitters that are related to anxiety. He adds the caveat that obsessions also increase other neurotransmitters that block positive, elevated moods and produce anxiety.
 
-Of relevance to the design of narrative environments is that anxiety spans addiction and obsession, both of which affect thw ability of attend and to focus.
+Of relevance to the design of narrative environments is that anxiety spans addiction and obsession, both of which affect the ability of attend and to focus. Both, in other words, affect human actantiality as capability to act-in-situation, to be able to recognise, cosntitute and act upon affordances.
 
 **References**
 
