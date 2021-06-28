@@ -10,7 +10,9 @@ She uses the much-criticized inability of structuralist devices like the semioti
 
 Thus, she uses the semiotic square to define four spaces as a means to explore how certain local-global struggles for meanings and embodiments of nature are occurring within them. This allows to come into view a contestable collective world that takes shape for us out of structures of difference.
 
+Haraway's semiotic square is as follows:
 
+![Haraway's Semiotic Square](Haraway Semiotic Square.png)
 
 **References**
 
