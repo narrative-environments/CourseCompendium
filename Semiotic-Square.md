@@ -10,13 +10,13 @@ She treats as a virtue the much-criticized inability of structuralist devices li
 
 Thus, she uses the semiotic square to define four spaces as a means to explore how certain local-global struggles for meanings and embodiments of nature are occurring within those spaces. This, a contestable collective world comes into view that takes shape for us out of structures of difference.
 
-Haraway's semiotic square is as follows:
+Haraway's (mis)interpretation of the structure of semiotic square is as follows:
 
 ![Haraway Semiotic Square](Haraway-Semiotic-Square.png)
 
-This is her (mis)interpretation of the structure of the semiotic square as set out by Greimas:
+The semiotic square as set out by Greimas is as follows:
 
-
+![Greimas Semiotic Square](Greimas-Semiotic-Square.png)
 
 **References**
 
