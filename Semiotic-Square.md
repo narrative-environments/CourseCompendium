@@ -23,10 +23,20 @@ The similarity to the traditional diagram for the square of opposition, as prese
 
 ![Square of Opposition](Square-of-Opposition.png)
 
+**Greimas and the Semiotic Square**
+
+John Corso (2014) explains that Greimas introduced the diagram of the semiotic square in his 1966 essay, “Les jeux des contraintes ‘sémiotiques,’”. This essay was translated into English as “The Interaction of Semiotic Constraints” (Greimas and Rastier, 1968), published in _Yale French Studies_. In the essay, Greimas and Rastier (1968: 88) state that this "presentation makes it isomorphic to the logical hexagon of R. Blanché ... as well as to the structures called, in mathematics, the Klein group, and, in psychology, the Piaget group”. Frederic Jameson (1972: 166) also notes a similarity to Levi-Strauss’s “culinary triangle” of raw-cooked-rotten. 
+
 **References**
+
+Corso, J. J. (2014) ‘What does Greimas’s semiotic square really do?’, _Mosaic: a journal for the interdisciplinary study of literature_, 47(1), pp. 69–89. doi: 10.1353/mos.2014.0006.
+
+Greimas, A. J. and Rastier, F. (1968) ‘The Interaction of semiotic constraints’, _Yale French Studies_, (41), pp. 86–105. Available at: http://www.jstor.org/stable/2929667 (Accessed: 14 December 2014).
 
 Haraway, D. J. (1992) ‘The Promises of monsters: a regenerative politics for inappropriate/d others’, in Grossberg, L., Nelson, C., and Treicher, P. A. (eds) _Cultural theory_. New York, NY: Routledge, pp. 295–337. 
 
 Hebert, L. (2006) The Semiotic square, _Signo - Applied Semiotics Theories_. Available at: http://www.signosemio.com/greimas/semiotic-square.asp (Accessed: 22 August 2014).
+
+Jameson, F. (1972) _The Prison-house of language: a critical account of structuralism and Russian formalism_. Princeton, NJ: Princeton University Press.
 
 Parsons, T. (2014) ‘The Traditional square of opposition’, _Stanford Encyclopedia of Philosophy_. Spring 2014. Available at: http://plato.stanford.edu/archives/spr2014/entries/square/ (Accessed: 24 December 2014).
