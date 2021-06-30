@@ -21,7 +21,7 @@ Source, Louis Hebert, 2006, _The Semiotic Square_
 
 The similarity to the traditional diagram for the square of opposition, as presented here by Terence Parsons (2012) is striking: 
 
-
+![Square of Opposition](Square-of-Opposition.png)
 
 **References**
 
@@ -29,3 +29,4 @@ Haraway, D. J. (1992) ‘The Promises of monsters: a regenerative politics for i
 
 Hebert, L. (2006) The Semiotic square, _Signo - Applied Semiotics Theories_. Available at: http://www.signosemio.com/greimas/semiotic-square.asp (Accessed: 22 August 2014).
 
+Parsons, T. (2014) ‘The Traditional square of opposition’, _Stanford Encyclopedia of Philosophy_. Spring 2014. Available at: http://plato.stanford.edu/archives/spr2014/entries/square/ (Accessed: 24 December 2014).
