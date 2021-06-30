@@ -17,8 +17,11 @@ Haraway's (mis)interpretation of the structure of semiotic square is as follows:
 The semiotic square as set out by Greimas is as follows:
 
 ![Greimas Semiotic Square](Greimas-Semiotic-Square.png)
+Source, Louis Hebert, 2006, _The Semiotic Square_
 
 **References**
 
 Haraway, D. J. (1992) ‘The Promises of monsters: a regenerative politics for inappropriate/d others’, in Grossberg, L., Nelson, C., and Treicher, P. A. (eds) _Cultural theory_. New York, NY: Routledge, pp. 295–337. 
+
+Hebert, L. (2006) The Semiotic square, _Signo - Applied Semiotics Theories_. Available at: http://www.signosemio.com/greimas/semiotic-square.asp (Accessed: 22 August 2014).
 
