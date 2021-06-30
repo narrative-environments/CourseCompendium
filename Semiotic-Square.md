@@ -14,7 +14,7 @@ Haraway's semiotic square is as follows:
 
 ![Haraway Semiotic Square](Haraway-Semiotic-Square.png)
 
-This is her (mis)interpretation of the structure of the semiotic square as outlined by Greimas:
+This is her (mis)interpretation of the structure of the semiotic square as set out by Greimas:
 
 ![Greimas Semiotic Square](Greimas-Semiotic-Square.png]
 
