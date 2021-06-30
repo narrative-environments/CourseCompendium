@@ -19,7 +19,7 @@ The semiotic square as set out by Greimas is as follows:
 ![Greimas Semiotic Square](Greimas-Semiotic-Square.png)
 Source, Louis Hebert, 2006, _The Semiotic Square_
 
-The similarity to the traditional diagram for the square of opposition, as presented here by Terence Parsons (2012) is striking: 
+The similarity to the traditional diagram for the square of opposition, as presented here by Terence Parsons (2014) is striking: 
 
 ![Square of Opposition](Square-of-Opposition.png)
 
