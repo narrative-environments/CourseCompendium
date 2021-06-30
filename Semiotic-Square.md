@@ -6,13 +6,17 @@ The kind of use that is made of Greimas' semiotic square in the design of narrat
 
 Haraway uses the term amodern to refer to "a view of the history of science as culture that insists on the absence of beginnings, enlightenments, and endings: the world has always been in the middle of things, in unruly and practical conversation, full of action and structured by a startling array of actants and of networking and unequal collectives."
 
-She uses the much-criticized inability of structuralist devices like the semiotic square to provide diachronic narratives as a virtue. Instead, Haraway's amodern history will have a geometry, "not of progress, but of permanent and multi-patterned interaction through which lives and worlds get built, human and unhuman."
+She treats as a virtue the much-criticized inability of structuralist devices like the semiotic square to provide diachronic narratives. Instead, Haraway's amodern history will have a geometry, "not of progress, but of permanent and multi-patterned interaction through which lives and worlds get built, human and unhuman."
 
-Thus, she uses the semiotic square to define four spaces as a means to explore how certain local-global struggles for meanings and embodiments of nature are occurring within them. This allows to come into view a contestable collective world that takes shape for us out of structures of difference.
+Thus, she uses the semiotic square to define four spaces as a means to explore how certain local-global struggles for meanings and embodiments of nature are occurring within those spaces. This, a contestable collective world comes into view that takes shape for us out of structures of difference.
 
 Haraway's semiotic square is as follows:
 
 ![Haraway Semiotic Square](Haraway-Semiotic-Square.png)
+
+This is her interpretation of the structure of the semiotic square as outlined by Greimas:
+
+![Semiotic-Square-Structure](Semiotic-Square-Structure.png]
 
 **References**
 
