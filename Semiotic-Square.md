@@ -19,6 +19,10 @@ The semiotic square as set out by Greimas is as follows:
 ![Greimas Semiotic Square](Greimas-Semiotic-Square.png)
 Source, Louis Hebert, 2006, _The Semiotic Square_
 
+The similarity to the traditional diagram for the square of opposition, as presented here by Terence Parsons (2012) is striking: 
+
+
+
 **References**
 
 Haraway, D. J. (1992) ‘The Promises of monsters: a regenerative politics for inappropriate/d others’, in Grossberg, L., Nelson, C., and Treicher, P. A. (eds) _Cultural theory_. New York, NY: Routledge, pp. 295–337. 
