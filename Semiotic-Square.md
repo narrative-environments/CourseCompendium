@@ -19,7 +19,7 @@ The semiotic square as set out by Greimas is as follows:
 ![Greimas Semiotic Square](Greimas-Semiotic-Square.png)
 Source, Louis Hebert, 2006, _The Semiotic Square_
 
-The similarity to the traditional diagram for the square of opposition, as presented below by Terence Parsons (2014), is striking. The top terms (A-B and A-E) are both in a relationship of contrariety (contraries); the diagonal terms (A-C, B-D, A-O, E-I) are in a relationship of contradiction (contradictions); the bottom terms (C and D, O and I) are also in a relationship of contrariety, but subordinate to the more general contrariety between the top terms (A and B, A and E) (sub-contraries), while the relationships between A-D and B-C, similarly to that between A-I and E-O, are sub-alterity (subaltrns).
+The similarity to the traditional diagram for the square of opposition, as presented below by Terence Parsons (2014), is striking. The top terms (A-B and A-E) are both in a relationship of contrariety (contraries); the diagonal terms (A-C, B-D, A-O, E-I) are in a relationship of contradiction (contradictions); the bottom terms (C and D, O and I) are also in a relationship of contrariety, but subordinate to the more general contrariety between the top terms (A and B, A and E) (sub-contraries), while the relationships between A-D and B-C, similarly to that between A-I and E-O, are sub-alterity (subalterns).
 
 ![Square of Opposition](Square-of-Opposition.png)
 
