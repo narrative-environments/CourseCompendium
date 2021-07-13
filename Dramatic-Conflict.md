@@ -6,7 +6,7 @@ The dramatic conflict is the persistent tension, the driving force, from which t
 
 The dramatic conflict might be described as equivalent to the nub of the problem in design conventions or the striking opportunity the designer identifies from research.
 
-Dramatic conflict can be seen as a struggle or contest, bringing into view an agonistic conception of narrative, in which protagonist and antagonist are engaged in a prolonged contestation. In actantial terms, this is constituted through unfolding of the relationships among the subject, the helper and the opponent.
+Dramatic conflict can be seen as a struggle or contest, bringing into view an agonistic conception of narrative, in which protagonist and antagonist are engaged in a prolonged contestation. In Greimasian actantial terms, this is constituted through unfolding of the relationships among the subject, the helper and the opponent.
 
 **References**
 
