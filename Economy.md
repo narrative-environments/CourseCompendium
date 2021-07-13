@@ -2,7 +2,7 @@
 
 RELATED TERMS: Ecology
 
-The Greek word _oikos_, meaning whole house or household, lies at the root of both the notions of economy and that of ecology. When _oikos_ is combined with _nomos_, meaning law or custom, to form economy, it is concerned with the management of the household. When it is combined with _logos_, meaning reason, word, speech, principle, or thought, to form ecology, it is concerned with knowledge of the household. 
+The Greek word _oikos_, meaning whole house or household, lies at the root of both the notions of economy and ecology. When _oikos_ is combined with _nomos_, meaning law or custom, to form economy, it is concerned with the management of the household. When it is combined with _logos_, meaning reason, word, speech, principle, or thought, to form ecology, it is concerned with knowledge of the household. 
 
 In modern times, economy and ecology have become separated and dissociated as (social) practices and as (academic) disciplines.
 
