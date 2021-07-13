@@ -10,7 +10,7 @@ The word ‘ecology’ was coined in 1866 by the German biologist Ernst Haeckel 
 
 Until the 17th or 18th centuries, economy referred to the management of the 'whole house', that is, of the polity as the association and community of citizens, while activities that served the purpose of making money were referred to as commerce. Economics, as a discipline, has become a narrow set of propositions dealing only with the economy as a separate and distinct subsystem of society. The economic subsystem’s impact on society and its social, ecological, cultural contexts have become 'externalities'.
 
-In the 21st century, there are moves to re-integrate economy and ecology and not to see them as seaprate and distinct. This is not without major difficulties, however, for example, concerning whether the entire ecology of the planet becomes narrowly commercialised, rather that the narrow discipline of economics opening to its wider contexts, ecologies and responsibbilities.
+In the 21st century, there are moves to re-integrate economy and ecology so that they are not seen as separate and distinct. This is not without major difficulties, however, for example, concerning whether the entire ecology of the planet becomes narrowly commercialised, rather that the narrow discipline of economics opening to its wider contexts, ecologies and responsibbilities.
 
 **References**
 
