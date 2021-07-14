@@ -14,9 +14,9 @@ As Edward Said (2003, 14) comments,
 
 Similarly, Keir Elam points to the intertextual basis of theatre as a frame. Appropriate decoding of a given text derives above all from the audience’s familiarity with other texts, a skill acquired by learning textual rules. The genesis of the performance is also intertextual, as it bears the traces of prior performances at every level from the written text through the mise en scene, the actor to the directorial style and so on. In this way, any text, according to Julia Kristeva (1970, 12), ‘is a permutation of texts, an intertextuality. In the space of a single text several énoncés from other texts cross and neutralize each other’. 
 
-The ‘ideal’ audience, given this multi-layered citationality, is one endowed with a sufficiently detailed, and judiciously employed, textual background to enable him to identify all relevant relations and use them as an interpretive matrix. In practice, people bring whatever level of skill they have attained to the decoding and appreciation of the text/performance, opening to the domain of reception theory and reader response criticism.
+The ‘ideal’ audience, given this multi-layered citationality, is one endowed with a sufficiently detailed, and judiciously employed, textual background to enable them to identify all relevant relations and use them as an interpretive matrix. In practice, people bring whatever level of skill they have attained to the decoding and appreciation of the text/performance, opening to the domain of reception theory and reader response criticism.
 
-In popular culture, intertextuality refers to the incorporation of meanings of one text within another in a reflexive fashion. For example, the television show _The Simpsons_ includes references to films, other television shows, and celebrities. These intertextual references assume that the viewer know the people and cultural products being referenced. 
+In popular culture, intertextuality refers to the incorporation of meanings of one text within another in a reflexive fashion. For example, the television show _The Simpsons_ includes references to films, other television shows and celebrities. These intertextual references assume that viewers know the people and cultural products being referenced. 
 
 **References**
 
