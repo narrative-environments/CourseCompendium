@@ -27,7 +27,7 @@ On this basis, she defines three approaches to a media-conscious narratology:
 
 * A cultural approach, which focuses on the behaviour of users and producers, as well as on the institutions that guarantee the existence of media.
 
-Space as a medium; Place as medium; Time as a medium
+**Space as a medium; Place as a medium; Time as a medium**
 
 In being defined as transmedial, the term ‘medium’ in the design of narrative environments is extended to include spatiality, placiality and temporality. That is, the notion of medium is taken deep into the territory that has been conventionally defined as ‘environment’. Thus, in the design of narrative environments, medium and environment are held in a chiasmic relation, such as discussed by Merleau-Ponty. 
 
