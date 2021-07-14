@@ -2,7 +2,9 @@
 
 **RELATED TERMS: Affordances; Mode and Medium**
 
-The design of narrative environments generally is considered to be a transmedia practice, taking advantage of the affordances offered by different media, from architectural, to artefactual, pictorial and written, so that the visitor-particioant has to work to piece the content together from each platform, but this does not mean that it may not on occasion also utilise cross-platform distribution or multimedia capabilities.
+" ... stories and their worlds are crucially shaped by the affordances and limitations of the media in which they are realized." (Ryan and Thon, 2014: 2)
+
+The design of narrative environments generally is considered to be a transmedia practice, taking advantage of the affordances offered by different media, from architectural, to artefactual, pictorial and written, so that the visitor-participant has to work to piece the content together from each platform, but this does not mean that it may not on occasion also utilise cross-platform distribution or multimedia capabilities. 
 
 Henry Jenkins (2016) contends that it is important to distinguish among the terms transmedia, cross-platform and multimedia. 
 
@@ -26,4 +28,6 @@ A transmedia project, on the other hand, would distribute these experiences acro
 Jenkins, H (2006) _Convergence Culture_. New York: New York University Press.
 
 Jenkins, H. (2016) Transmedia what?, _Immerse_. Available at: https://immerse.news/transmedia-what-15edf6b61daa (Accessed: 8 April 2021).
+
+Ryan, M.-L. and Thon, J.-N. (eds) (2014) _Storyworlds across media: toward a media- conscious narratology_. Lincoln, NE: University of Nebraska Press.
 
