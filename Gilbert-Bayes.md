@@ -1,4 +1,4 @@
-## Gilbert Bayes 
+## Gilbert Bayes - Washing post sculptures
 
 RELATED TERMS: 
 
