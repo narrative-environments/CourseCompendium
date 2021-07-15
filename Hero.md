@@ -6,11 +6,11 @@ In _The Hero with a thousand faces_, Joseph Campbell examines many of the world'
 
 Campbell shows how,
 
-"the heroic self seeks ... a higher way of holding and conducting oneself. This heroic way offers depth of insight and meaning. It is attentive to guides along the way, and invigorates creative life. We see that the journey of the hero and heroine are most often deepened via ongoing perils. These include losing one's way innumerable times, refusing the first call, thinking it is only one thing when it really is, in fact, quite another—as well as entanglements and confrontations with something of great and often frightening magnitude. Campbell points out that coming through such struggles causes the person to be infused with more vision, and to be strengthened by the spiritual life principle—which, more than anything else, encourages one to take courage to live with effrontery and mettle." (Clarissa Pinkola Estes, Introduction to the 2004 Commemorative Edition of _The Hero with a thousand faces_, p.xxiv)
+>"the heroic self seeks ... a higher way of holding and conducting oneself. This heroic way offers depth of insight and meaning. It is attentive to guides along the way, and invigorates creative life. We see that the journey of the hero and heroine are most often deepened via ongoing perils. These include losing one's way innumerable times, refusing the first call, thinking it is only one thing when it really is, in fact, quite another — as well as entanglements and confrontations with something of great and often frightening magnitude. Campbell points out that coming through such struggles causes the person to be infused with more vision, and to be strengthened by the spiritual life principle — which, more than anything else, encourages one to take courage to live with effrontery and mettle." (Clarissa Pinkola Estes, Introduction to the 2004 Commemorative Edition of _The Hero with a thousand faces_, p.xxiv)
 
 ## Hero object in Exhibition design 
 
-The main object in an exhibition
+The 'hero object' in an exhibition is the main or central object.
 
 
 ## Hero in Narratology
