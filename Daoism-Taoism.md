@@ -10,7 +10,7 @@ In order to effect a translation of the principles of the _dao_ into human daily
 
 While, in Daoism, the term ‘Dao’ is used to mean way, path and set of principles, it also has another sense. The fundamental assertion of Daoist philosophy is that there is an ultimate reality, and this is referred to as the _Dao_, as something formless yet complete, something that is real, ultimate and in some way the basis of all there is.
 
-Dao in narrative environments, while it exploits the senses of path and set of principles and implies learning, does not necessarily imply a belief in an ultimate ground or an ultimate reality; unless that ultimate ground is understood not as a prior grounding but as a simultaneous modality of ‘chaos’ or ‘spontaneity’.
+Dao in narrative environments, while it exploits the senses of path and set of principles and implies learning, does not necessarily imply a belief in an ultimate ground or an ultimate reality; unless that ultimate ground is understood not as a prior grounding but as a simultaneous modality of ‘chaos’ and/or ‘spontaneity’.
 
 **References**
 
