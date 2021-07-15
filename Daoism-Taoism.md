@@ -6,7 +6,7 @@ As Di (2016: 45) explains, the character _dao_ literally means the road one trav
 
 It is in the sense of ‘set of principles’ that it is used in the _Analects_ of Confucius. To follow the _dao_ in Confucian terms is to follow the set of moral principles expounded in that text (Wilkinson, 1997: viii). For Confucius, the essence of education is to study, pursue, and live the _dao_, and to teach and learn holistically (Di, 2016: 45).
 
-In order to effect a translation of the principles of the _dao_ into human daily learning, experience, and existence, _Xueji_, like many Chinese classic writings, advocates the cultivation of character and moral development (Di, 2016: 47).
+In order to effect a translation of the principles of the _dao_ into human daily learning, experience and existence, _Xueji_, like many Chinese classic writings, advocates the cultivation of character and moral development (Di, 2016: 47).
 
 While, in Daoism, the term ‘Dao’ is used to mean way, path and set of principles, it also has another sense. The fundamental assertion of Daoist philosophy is that there is an ultimate reality, and this is referred to as the _Dao_, as something formless yet complete, something that is real, ultimate and in some way the basis of all there is.
 
