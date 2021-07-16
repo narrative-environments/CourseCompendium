@@ -35,13 +35,15 @@ The question of the relationship between medium and environment opens up the fur
 
 **Notes**
 
-**[1]** Marie-Laure Ryan (2014: 44, n3) points out that Lars Ellestrom has developed a classification of media concepts that comes close to her own. Ellestrom proposes that there are ‘basic media’, which includes such semiotic categories as auditory text, still image and iconic body performance; ‘qualified media, such as film, dance and photography; and ‘technical media’, which realise or display basic and qualified media, for example a screen for television, a specific kind of paper for photography and the human body for dance. 
+**[1]** Marie-Laure Ryan (2014: 44, n3) points out that Lars Ellestrom (2010) has developed a classification of media concepts that comes close to her own. Ellestrom proposes that there are ‘basic media’, which includes such semiotic categories as auditory text, still image and iconic body performance; ‘qualified media, such as film, dance and photography; and ‘technical media’, which realise or display basic and qualified media, for example a screen for television, a specific kind of paper for photography and the human body for dance. 
 
-Furthermore, Ellestrom contends that each medium has four modalities: material, such as the human body, paper and clay); sensorial, such as sight, hearing and taste; spatiotemporal, extending in time, space and/or both; and semiotic, such as convention, resemblance and contiguity. 
+Furthermore, Ellestrom contends that each medium has four modalities: material, such as the human body, paper and clay; sensorial, such as sight, hearing and taste; spatiotemporal, extending in time, space and/or both; and semiotic, such as convention, resemblance and contiguity. 
 
 Ryan suggests that each of these modalities could be subsumed under the semiotic category because they all concern the basic properties of signs, which could then be renamed ‘basic principle of signification’.
 
 **References**
+
+Ellerstrom, L. (2010) ‘The Modalities of media: a model for understanding intermedial relations’, in Ellestrom, L. (ed.) _Media borders, multimodality and intermediality_. Houndmills, Basingstoke, UK: Palgrave Macmillan.
 
 Ryan, M.-L. (2014) ‘Story/worlds/media: tuning the instruments of a media-conscious narratology’, in Ryan, M.-L. and Thon, J.-N. (eds) Storyworlds across Media. Toward a Media-Conscious Narratology. Lincoln, NE: University of Nebraska Press, pp. 25–49.
 
