@@ -25,13 +25,21 @@ On this basis, she defines three approaches to a media-conscious narratology:
 
 * a technical approach, which explores such issues as how technologies configure the relationship between sender and receiver, for example, one to one, few to many, many to many, and close or remote in either space or time, how they affect dissemination, storage, and cognition and what affordances certain types of material supports bring to storytelling; and 
 
-* A cultural approach, which focuses on the behaviour of users and producers, as well as on the institutions that guarantee the existence of media.
+* A cultural approach, which focuses on the behaviour of users and producers, as well as on the institutions that guarantee the existence of media. **[1]**
 
 **Space as a medium; Place as a medium; Time as a medium**
 
 In being defined as transmedial, the term ‘medium’ in the design of narrative environments is extended to include spatiality, placiality and temporality. That is, the notion of medium is taken deep into the territory that has been conventionally defined as ‘environment’. Thus, in the design of narrative environments, medium and environment are held in a chiasmic relation, such as discussed by Merleau-Ponty. 
 
 The question of the relationship between medium and environment opens up the further question of whether it is more proper to describe narrative environments as trans-semiotic or inter-semiotic rather that transmedial or intermedial, since any specific narrative environment may involve a cascade of media and environments, drawing upon signs and semiosis from across a range of different materialities, from the more tangible to the less tangible.
+
+**Notes**
+
+**[1]** Marie-Laure Ryan (2014: 44, n3) points out that Lars Ellestrom has developed a classification of media concepts that comes close to her own. Ellestrom proposes that there are ‘basic media’, which includes such semiotic categories as auditory text, still image and iconic body performance; ‘qualified media, such as film, dance and photography; and ‘technical media’, which realise or display basic and qualified media, for example a screen for television, a specific kind of paper for photography and the human body for dance. 
+
+Furthermore, Ellestrom contends that each medium has four modalities: material, such as the human body, paper and clay); sensorial, such as sight, hearing and taste; spatiotemporal, extending in time, space and/or both; and semiotic, such as convention, resemblance and contiguity. 
+
+Ryan suggests that each of these modalities could be subsumed under the semiotic category because they all concern the basic properties of signs, which could then be renamed ‘basic principle of signification’.
 
 **References**
 
