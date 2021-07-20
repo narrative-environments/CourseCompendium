@@ -16,7 +16,7 @@ Edited by Allan Parsons on 10 April 2021
 
 This is (and will always be) a work in progress. So far, the entries we have are as follows:
 
-* [Actant](actant.md)
+* [Actant](Actant.md)
 * [Actantial Model - Greimas](Actantial-Model-Greimas.md)
 * [Actantiality](Actantiality.md)
 * [Actor-Network Theory](Actor-Network-Theory.md)
