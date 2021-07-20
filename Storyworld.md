@@ -4,7 +4,7 @@
 
 The design of narrative environments involves the articulation of (interpreted) narrative world/worlds and (embodied) lifeworld/lifeworlds. This articulation gives rise to a storyworld. A storyworld is not a mere sequence of events to be followed, such as might be presented, for example, in a strict structuralist analysis, but is rather an emotionally engaging world in which the reader, viewer, audience or participant situates himself, herself or themselves, by means of which the associative field of a storyworld is created. In the words of Ryan and Thon (2014: 3), "while the author creates the storyworld through the production of signs, it is the reader, spectator, listener, or player [or participant] who uses ... a finished text [or narrative environment] to construct a mental image of this world."
 
-The notion of storyworld involves an extension of the thinking of the classical, structuralist narratologists, who failed to come to terms with the referential or world-creating properties of narrative (Herman, 2009: 71). This was partly due to the exclusion of the referent in favour of the signifier and signified in the Saussurean language theory that informed the structuralists’ approach.
+The notion of storyworld involves an extension of the thinking of the classical, structuralist narratologists, who failed to come to terms with the referential or world-creating properties of narrative (Herman, 2009: 71). This was partly due to the exclusion of the referent in favour of the signifier and signified in the Saussurean language theory that informed the structuralists’ approach. Marie-Laure Ryan 
 
 Since the late 1980s, however, scholars of narrative have been more concerned with how readers of print narratives, interlocutors in face-to-face discourse and viewers of films use textual cues to build up representations of the worlds evoked by stories, i.e. storyworlds. Such approaches to narrative inquiry, while building on the work of classical, structuralist narratologists, such as Roland Barthes, Gerard Genette, A. J. Greimas, and Tzvetan Todorov, supplement it with concepts and methods that were unavailable to story analysts during the heyday of the structuralist revolution.
 
@@ -35,6 +35,8 @@ Herman, D. (2005). Storyworld. In: Routledge Encyclopedia of Narrative Theory, e
 Herman, D. (2009). Narrative ways of worldmaking. In: Heinan, S., and Sommer, R., eds. _Narratology in the age of cross-disciplinary narrative research_. Berlin, DE: Walter De Gruyter, 71–87.
 
 Horvath, G. (2010). _From sequence to scenario: the historiography and theory of visual narration_ [PhD thesis]. School of World Art Studies and Museology, University of East Anglia. Available from https://ueaeprints.uea.ac.uk/25603/1/2010Horv%C3%A1thGPhD.pdf [Accessed 13 December 2015].
+
+Ryan, M.-L. (2014) ‘Story/worlds/media: tuning the instruments of a media-conscious narratology’, in Ryan, M.-L. and Thon, J.-N. (eds) _Storyworlds across Media. Toward a Media-Conscious Narratology_. Lincoln, NE: University of Nebraska Press, pp. 25–49.
 
 Ryan, M.-L. and Thon, J.-N. (eds) (2014) _Storyworlds across media: toward a media-conscious narratology_. Lincoln, NE: University of Nebraska Press.
 
