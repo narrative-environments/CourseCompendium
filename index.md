@@ -8,11 +8,13 @@ The design of narrative environments, being transformative in character, also li
 
 The design of narrative environments employs a tripartite model: people, narrative and environment, which form a network as an open, responsive adaptive system. 
 
-While you may enter the Compendium by starting from any term, as your investigation develops you will become aware of the networked interconnection of the terms. As you navigate the Compendium,  you will discover concepts, methods and theories that you can employ in the construction of your narrative environment.
+While you may enter the Compendium by starting from any term, as your investigation develops you will become aware of the networked interconnection of the terms. As you navigate the Compendium,  you will follow certain narrative threads interconnecting the terms, but you will also become aware that the overall pattern of the Compendium does not form a single, linear narrative nor a singular hierarchical structure. Following the principles of the design of narrative environments, the Compendium is rhizomic and heterarchical.
+
+In practical terms, you will discover concepts, methods and theories that you can employ in the design and construction of your narrative environment.
 
 The Compendium seeks to enable you to understand how meanings, values, ethical stances and political dynamics emerge for situated actors through particular design configurations. It also enables you to question, to propose, to facilitate and to act in the pursuit of your design goals.
 
-Edited by Allan Parsons on 10 April 2021
+Edited by Allan Parsons on 10 April 2021, revised 21 July 2021.
 
 This is (and will always be) a work in progress. So far, the entries we have are as follows:
 
