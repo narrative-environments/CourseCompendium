@@ -60,9 +60,13 @@ Borrowing from Latour, Jane Bennett comments that,
 
 >“While the smallest or simplest body or bit may indeed express a vital impetus, conatus or clinamen, an actant never really acts alone. Its efficacy or agency always depends on the collaboration, cooperation, or interactive interference of many bodies and forces. A lot happens to the concept of agency once nonhuman things are figured less as social constructions and more as actors, and once humans themselves are assessed not as autonoms but as vital materialities.” (Bennett, 2010: 21)
 
+How to cite this entry, using an author-date system:
+
+Parsons, A. (2021). Actant. _MANE Compendium_. Available at https://narrative-environments.github.io/CourseCompendium/Actant.html [Accessed DD-MM-YEAR].
+
 **References**
 
-Akrich, M. and Latour, B. (1992). A Summary of a convenient vocabulary for the semiotics of human and nonhiman assemblies. In: Bijker, W.E., and Law, J., eds. _Shaping technology/building society: studies in sociotechical change_. Cambridge, MA: MIT Press, 259–264.
+Akrich, M. and Latour, B. (1992). A Summary of a convenient vocabulary for the semiotics of human and nonhuman assemblies. In: Bijker, W.E., and Law, J., eds. _Shaping technology/building society: studies in sociotechical change_. Cambridge, MA: MIT Press, 259–264.
 
 Beetz, J. (2013). Latour with Greimas Actor-Network Theory and Semiotics. _Academia.edu_. Available from https://www.academia.edu/11233971/Latour_with_Greimas_-_Actor-Network_Theory_and_Semiotics [Accessed 7 August 2015].
 
