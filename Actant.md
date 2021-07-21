@@ -54,11 +54,11 @@ Thirdly, an actant may or may not appear as a presence in the narrative, nor doe
 
 In the context of actor-network theory, Akrich and Latour (1992: 259) define the term actant as:
 
-“Whatever acts or shifts actions, action itself being defined by a list of performances through trials; from these performances are deduced a set of competences with which the actant is endowed; the fusion point of a metal is a trial through which the strength of an alloy is defined; the bankruptcy of a company is a trial through which the faithfulness of an ally may be defined; an actor is an actant endowed with a character (usually anthropomorphic).”
+>“Whatever acts or shifts actions, action itself being defined by a list of performances through trials; from these performances are deduced a set of competences with which the actant is endowed; the fusion point of a metal is a trial through which the strength of an alloy is defined; the bankruptcy of a company is a trial through which the faithfulness of an ally may be defined; an actor is an actant endowed with a character (usually anthropomorphic).”
 
 Borrowing from Latour, Jane Bennett comments that,
 
-“While the smallest or simplest body or bit may indeed express a vital impetus, conatus or clinamen, an actant never really acts alone. Its efficacy or agency always depends on the collaboration, cooperation, or interactive interference of many bodies and forces. A lot happens to the concept of agency once nonhuman things are figured less as social constructions and more as actors, and once humans themselves are assessed not as autonoms but as vital materialities.” (Bennett, 2010: 21)
+>“While the smallest or simplest body or bit may indeed express a vital impetus, conatus or clinamen, an actant never really acts alone. Its efficacy or agency always depends on the collaboration, cooperation, or interactive interference of many bodies and forces. A lot happens to the concept of agency once nonhuman things are figured less as social constructions and more as actors, and once humans themselves are assessed not as autonoms but as vital materialities.” (Bennett, 2010: 21)
 
 **References**
 
@@ -78,7 +78,7 @@ Lenoir, T. (1994). Was that last turn a right turn? The semiotic turn and A.J. G
 
 Melcuk, I. (2004). Actants in semantics and syntax. _Linguistics_, 42 (1–2), 1–66, 247–291\. Available from http://olst.ling.umontreal.ca/pdf/MelcukActants.pdf [Accessed 9 March 2018].
 
-Rulewicz, W. (1997). A Grammar of narrativity: Algirdas Julien Greimas. The Glasgow Review, (3). Available at:[http://www.arts.gla.ac.uk/STELLA/COMET/glasgrev/issue3/rudz.htm](http://www.arts.gla.ac.uk/STELLA/COMET/glasgrev/issue3/rudz.htm) [Accessed September 21, 2014].
+Rulewicz, W. (1997). A Grammar of narrativity: Algirdas Julien Greimas. _The Glasgow Review_, (3). Available at:[http://www.arts.gla.ac.uk/STELLA/COMET/glasgrev/issue3/rudz.htm](http://www.arts.gla.ac.uk/STELLA/COMET/glasgrev/issue3/rudz.htm) [Accessed September 21, 2014].
 
 Tesniere, L. (2015). _Elements of structural syntax_. Translated by T. Osborne and S. Kahane. Amsterdam, NL: John Benjamins.
 
