@@ -60,7 +60,7 @@ Borrowing from Latour, Jane Bennett comments that,
 
 >“While the smallest or simplest body or bit may indeed express a vital impetus, conatus or clinamen, an actant never really acts alone. Its efficacy or agency always depends on the collaboration, cooperation, or interactive interference of many bodies and forces. A lot happens to the concept of agency once nonhuman things are figured less as social constructions and more as actors, and once humans themselves are assessed not as autonoms but as vital materialities.” (Bennett, 2010: 21)
 
-How to cite this entry, using an author-date system:
+**How to cite this entry, using an author-date system:**
 
 Parsons, A. (2021). Actant. _MANE Compendium_. Available at https://narrative-environments.github.io/CourseCompendium/Actant.html [Accessed DD-MM-YEAR].
 
