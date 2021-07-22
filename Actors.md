@@ -1,6 +1,6 @@
 ## Actors
 
-**RELATED TERMS: Actor Network Theory; Actant;**
+**RELATED TERMS: Actor-Network Theory; Actant;**
 
 Actors are to be distinguished from actants.
 
@@ -9,6 +9,12 @@ Actors are the concrete characters of a story or the _dramatis personae_ of a pl
 Thus, A. J. Greimas distinguishes between actants, which belong to narrative syntax, and actors, which are recognisable in the particular discourse in which they are manifested (Greimas 1987: 106). In simple terms, actors are the things in a narrative that have names, such as the King, Tom, Excalibur, while actants are the narrative units they manifest and which have a functional role in the narrative, such as helper, opponent, sender and receiver.
 
 Actors always have agency (the ability or the competency to act/act upon), although not necessarily intentionality (conscious intention to act), the ability to reflect upon their action or to act reflexively in the course of inter-action (the ability to alter one’s position on the basis of conscious intentionality and reflective awareness during an inter-action).
+
+**Note**
+
+It may be necessary to retain both of the terms actor, with its common-sense associations and connotations, and actant, with its more technical meaning. For example, Ponti (2010) uses both terms in her discussion of how it may be possible to design a socio-technical system:
+
+>In ANT [Actor-Network Theory] an _actor_ is a semiotic concept, that is, an entity that can act and influence other entities – it is an actant – and it can be anything, because this “actantiality” does not presuppose human motivations or intentions (Latour, 1998). For this reason, actor is a hybrid category that includes both human beings and nonhumans, such as technological artifacts, and does not entail social asymmetries or hierarchies. The heterogeneity implied by the notion of actor allows to take into account the participation and influence of nonhuman actors, including artifacts and organisations. I argue that this aspect is important to describe and design a new sociotechnical system such as a collaboratory [a collaborative workplace]."
 
 **References**
 
