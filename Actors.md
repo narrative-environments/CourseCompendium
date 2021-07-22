@@ -24,5 +24,7 @@ It may be necessary, then, to retain both of the terms actor, with its common-se
 
 Greimas, A. J. (1987). _On Meaning_ . Minneapolis: University of Minnesota Press.
 
+Ponti, M. (2010) Actors in collaboration: sociotechnical Influence on practice-research collaboration. Swedish School of Library and Information Science, the Center for Collaborative Innovation. doi: http://bada.hb.se/bitstream/2320/5458/2/Avhandlingen.pdf.
+
 Porter Abbott, H. (2002) _The Cambridge Introduction to Narrative_ , Cambridge, UK: Cambridge University Press.
 
