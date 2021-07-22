@@ -12,7 +12,7 @@ While you may enter the Compendium by starting from any term, as your investigat
 
 In practical terms, you will discover concepts, methods and theories that you can employ in the design and construction of your narrative environment.
 
-The Compendium seeks to enable you to understand how meanings, values, ethical stances and political dynamics emerge for situated actors through particular design configurations. It also enables you to question, to propose, to facilitate and to act in the pursuit of your design goals.
+The Compendium seeks to enable you to understand how meanings, values, ethical stances and political dynamics emerge for situated actors, or actants, a terms whose meaning will become clear to you, through particular design configurations. It also enables you to question, to propose, to facilitate and to act in the pursuit of your design goals.
 
 Edited by Allan Parsons on 10 April 2021, revised 21 July 2021.
 
