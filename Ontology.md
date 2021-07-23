@@ -1,8 +1,8 @@
 ## Ontology
 
-**RELATED TERMS: [Epistemology](https://github.com/narrative-environments/CourseCompendium/blob/248547121800a42e81149a2d1546ac5344815e3d/Epistemology.md); Ontological Metalepsis; Ontological Designing; Computer Science; Information science; World-forming, World-making, World-building; Philosophy; Phenomenology**
+**RELATED TERMS: [Epistemology](https://github.com/narrative-environments/CourseCompendium/blob/248547121800a42e81149a2d1546ac5344815e3d/Epistemology.md); Methodology and Method; Ontological Metalepsis; Ontological Designing; Computer Science; Information science; World-forming, World-making, World-building; Philosophy; Phenomenology**
 
-In philosophy, ontology is the inquiry into, or theory of, being. It was coined in the early 17th century in order to avoid some of the ambiguities of the term ‘metaphysics’. It has come to mean the general theory of what there is, of what exists.
+In philosophy, ontology is the inquiry into, or theory of, being. It was coined in the early 17th century in order to avoid some of the ambiguities of the term ‘metaphysics’. It has come to mean the general theory of what there is, of what exists. As the study of being, ontology includes, at the very least, the study of what is, or what exists, including the study of the nature of specific existents; and the study of how existents exist (Lawson, 2015). **[1]**
 
 This usage of the term should not be confused with that in computer science and information science where an ontology is a representation of a set of concepts within a domain and the relationships between those concepts. It is used to reason about the properties of that domain, and may be used to define the domain.
 
@@ -46,6 +46,10 @@ However, Escobar suggests that ontological design remains relatively undeveloped
 
 Taken as the interaction between understanding and creation, design is ontological in that it is a conversation about possibilities; It is about the making of worlds and knowledges otherwise, that is, worlds and knowledges constructed on the basis of different ontological commitments, likely to yield collective ways of living less marked by modernist forms of domination. This brings to attention more explicitly the politics of design.
 
+**Notes**
+
+**[1]** Tony Lawson notes that the term ‘ontologia’ appears to have been coined in 1613 by two philosophers working independently of each other, Jacob Lorhard, in _Theatrum Philosophicum_ and Rudolf Göckel in _Lexicon Philosophicum_. In its English form, the first occurrence seems to be in Bailey’s 1721 Dictionary, where ontology is defined as ‘an account of being in the abstract’. Thus, ontology as the science or study of being should be distinguished from both epistemology, which is a concern with knowledge, and methodology proper, a concern with method.
+
 **References**
 
 Blaser, Mario. 2010\. _Storytelling: globalization from the Chaco and beyond_. Durham: Duke University Press.
@@ -61,6 +65,8 @@ Jary, D. and Jary, J. (2000). _Collins dictionary [of] sociology_, 3rd ed. Glasg
 Kelly, J.D. (2014). Introduction: The ontological turn in French philosophical anthropology. _HAU: Journal of Ethnographic Theory_, 4 (1), 259–269\. Available from http://haujournal.org/index.php/hau/article/view/hau4.1.011 [Accessed 23 April 2016].
 
 Latour, B. (1988). _The Pasteurization of France_. Cambridge, MA: Harvard University Press.
+
+Lawson, T. (2015) ‘A conception of social ontology’, in Pratten, S. (ed.) _Social Ontology and Modern Economics_. London, UK: Routledge, pp. 19–52.
 
 Maturana, H.and Varela, F. (1987). _The Tree of knowledge: the biological roots of human understanding_. Berkeley: Shambhala.
 
