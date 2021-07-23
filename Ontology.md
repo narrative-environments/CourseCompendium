@@ -1,6 +1,6 @@
 ## Ontology
 
-**RELATED TERMS: [Epistemology](https://github.com/narrative-environments/CourseCompendium/blob/248547121800a42e81149a2d1546ac5344815e3d/Epistemology.md); Methodology and Method; Ontological Metalepsis; Ontological Designing; Computer Science; Information science; World-forming, World-making, World-building; Philosophy; Phenomenology**
+**RELATED TERMS: [Epistemology](https://github.com/narrative-environments/CourseCompendium/blob/248547121800a42e81149a2d1546ac5344815e3d/Epistemology.md); [Methodology and Method](https://github.com/narrative-environments/CourseCompendium/blob/main/Methodology.md); Ontological Metalepsis; Ontological Designing; Computer Science; Information science; World-forming, World-making, World-building; Philosophy; Phenomenology**
 
 In philosophy, ontology is the inquiry into, or theory of, being. It was coined in the early 17th century in order to avoid some of the ambiguities of the term ‘metaphysics’. It has come to mean the general theory of what there is, of what exists. As the study of being, ontology includes, at the very least, the study of what is, or what exists, including the study of the nature of specific existents; and the study of how existents exist (Lawson, 2015). **[1]**
 
