@@ -32,6 +32,10 @@ As Jenkins explains,
 
 An example of the use of the term 'world-building' in the context of cinema can be found in Simran Hans (2021) review of the film _Cruella_ (2021). Hans writes, "Set in 1970s London against the backdrop of the emerging punk scene, this playful prequel [to _101 Dalmations_] by Craig Gillespie ... is a fine feat of world-building".
 
+**Reworlding**
+
+Donna Haraway also uses the term 'reworlding' to refer to the actions taken to address or mitigate the problems arising during the Anthropocene.
+
 **References**
 
 Arendt, H. (1958). _The Human condition_. Chicago, IL: University of Chicago Press.
