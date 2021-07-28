@@ -1,6 +1,6 @@
 ## Epistemology
 
-**RELATED TERMS: [Ontology](https://github.com/narrative-environments/CourseCompendium/blob/main/Ontology.md); Philosophy**
+**RELATED TERMS: [Ontology](https://github.com/narrative-environments/CourseCompendium/blob/main/Ontology.md); [Methodology and Method](https://github.com/narrative-environments/CourseCompendium/blob/main/Methodology.md); Philosophy**
 
 
 Epistemology or the theory of knowledge is the branch of philosophy that studies the origin, nature, methods, validity, and limits of human knowledge.
