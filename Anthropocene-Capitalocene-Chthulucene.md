@@ -18,11 +18,17 @@ Haraway also argues that a third term is needed: Chthulucene, a word derived fro
 
 For a review of three books published in 2015-2016 on the topic of the Anthropocene, see Kunkel (2017).
 
+**Discussion**
+
+Lemmens and Hui (2017) suggest that Peter Sloterdijk, approaching it from an anthropotechnic perspective, and Bernard Stiegler, from an anthropotechnogenic perspective, both offer interesting and pertinent philosophical diagnoses of the Anthropocene. For both, the Anthropocene marks the necessity, for the anthropos, radically to change the course and the very nature of the technogenic adventure from which it is born and upon which it vitally depends. Both also suggest a response to the Anthropocene: a homeotechnological revolution in the case of Sloterdijk; and a negentropic turn of technology in the case of Stiegler. In both cases, this is immediately a technopolitical issue, entailing an immunopolitics for Sloterdijk and a pharmacological noopolitics for Stiegler.
+
 **References**
 
 Haraway, D. (2014). Anthropocene, capitalocene, chthulucene: staying with the trouble. _Open Transcripts_. Available from [http://opentranscripts.org/transcript/anthropocene-capitalocene-chthulucene/](http://opentranscripts.org/transcript/anthropocene-capitalocene-chthulucene/) [Accessed 23 December 2016].
 
 Kunkel, B. (2017). The Capitalocene. _London Review of Books_, 39 (5), 22–28\. Available from [https://www.lrb.co.uk/v39/n05/benjamin-kunkel/the-capitalocene](https://www.lrb.co.uk/v39/n05/benjamin-kunkel/the-capitalocene) [Accessed 1 March 2017].
+
+Lemmens, P. and Hui, Y. (2017) ‘Reframing the technosphere: Peter Sloterdijk and Bernard Stiegler’s anthropotechnological diagnoses of the Anthropocene’, _Krisis: Journal for Contemporary Philosophy_, 2, pp. 26–41.
 
 Lewis, S.L. and Maslin, M.A. (2015). Defining the Anthropocene. _Nature_, 519 (7542), 171–180\. Available from [http://dx.doi.org/10.1038/nature14258](http://dx.doi.org/10.1038/nature14258) [Accessed 25 April 2019].
 
