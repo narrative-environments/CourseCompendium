@@ -8,7 +8,7 @@ Decoloniality, on the other hand, is an epistemological category that takes colo
 
 **Online resources**
 
-The Decolonising Design Group of Bloomsbury Publishing has produced a lesson plan that examines how design practitioners and theorists can make sense of the concepts of decolonization and decoloniality in the context of our own situated practices. It is available here:
+The Decolonising Design Group of Bloomsbury Publishing has produced a lesson plan that examines how design practitioners and theorists can make sense of the concepts of decolonisation and decoloniality in the context of our own situated practices. It is available here:
 https://www.bloomsburydesignlibrary.com/article?docid=b-9781350097964&tocid=b-9781350097964-003
 
 **References**
