@@ -62,7 +62,7 @@ Borrowing from Latour, Jane Bennett comments that,
 
 **How to cite this entry, using an author-date system:**
 
-Parsons, A. (2021). Actant. _MANE Compendium_. Available at https://narrative-environments.github.io/CourseCompendium/Actant.html [Accessed DD-MM-YEAR].
+Parsons, A. (2021). Actant. _MANE Compendium_. Available at https://narrative-environments.github.io/CourseCompendium/Actant.html [Accessed Day Month Year].
 
 **References**
 
