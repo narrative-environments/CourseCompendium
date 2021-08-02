@@ -32,7 +32,7 @@ Peisa, J. (2008). _The Unable individual. The actantial analyses of three Chines
 
 **How to cite this entry, using an author-date system:**
 
-Parsons, A. (2021). Actantial model - Greimas. _MANE Compendium_. Available at https://narrative-environments.github.io/CourseCompendium/Actant.html [Accessed Day Month Year].
+Parsons, A. (2021). Actantial model - Greimas. _MANE Compendium_. Available at https://narrative-environments.github.io/CourseCompendium/Actantial-Model-Greimas.html [Accessed Day Month Year].
 
 **Further Reading**
 
