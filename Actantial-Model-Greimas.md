@@ -30,6 +30,10 @@ Kwiat, J. (2008). _From Aristotle to Gabriel: a summary of the narratology liter
 
 Peisa, J. (2008). _The Unable individual. The actantial analyses of three Chinese films and discussion on their representations of the individual’s position in contemporary Chinese society_ [Master’s thesis]. University of Helsinki. Available from https://helda.helsinki.fi/handle/10138/19218 [Accessed 12 September 2015].
 
+**How to cite this entry, using an author-date system:**
+
+Parsons, A. (2021). Actantial model - Greimas. _MANE Compendium_. Available at https://narrative-environments.github.io/CourseCompendium/Actant.html [Accessed Day Month Year].
+
 **Further Reading**
 
 If you are interested in pursuing further research into A. J. Greimas and his work in semantics, semiotics and narratology, it is worth having a look at _Sign Systems Studies_, Vol 45, No 1/2 (2017): Special issue: A. J. Greimas – a life in semiotics. It can be found at [http://www.sss.ut.ee/index.php/sss/](http://www.sss.ut.ee/index.php/sss/)
