@@ -1,6 +1,6 @@
 ## Actor-Network Theory
 
-**RELATED TERMS: [Actant](https://narrative-environments.github.io/CourseCompendium/Actant.html); [Actantiality](https://narrative-environments.github.io/CourseCompendium/Actantiality.html); Actantial model - Greimas; Theoretical practice; Ethnomethodology; Latour; Storyworld; Apparatus – Dispositif; Object-oriented ontology**
+**RELATED TERMS: [Actant](https://narrative-environments.github.io/CourseCompendium/Actant.html); [Actantiality](https://narrative-environments.github.io/CourseCompendium/Actantiality.html); [Actantial model - Greimas](https://narrative-environments.github.io/CourseCompendium/Actantial-Model-Greimas.html); Theoretical practice; Ethnomethodology; Latour; Storyworld; Apparatus – Dispositif; Object-oriented ontology**
 
 According to Jary and Jary (2000), actor network theory combines post-structuralist insights with detailed empirical studies of scientific practices and technologies, organisations and social processes. It builds on the work of Bruno Latour, John Law and Michel Callon. The focus of actor network theory is on the reality and transformability of networks, as against such notions as institutions and society. Its conception of the social is as a circulatory field of forces beyond the agency-structure debate.
 
