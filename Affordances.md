@@ -18,7 +18,7 @@ The Interaction Design Foundation develops the discussion of the use of the noti
 
 **References**
 
-Edgeworth, M. (2016). Grounded objects. Archaeology and speculative realism. _Archaeological Dialogues_, 23 (01), 93–113\. Available from http://www.journals.cambridge.org/abstract_S138020381600012X [Accessed 21 June 2016].
+Edgeworth, M. (2016). Grounded objects. Archaeology and speculative realism. _Archaeological Dialogues_, 23 (01), 93–113\. Available from [http://www.journals.cambridge.org/abstract_S138020381600012X](http://www.journals.cambridge.org/abstract_S138020381600012X) [Accessed 21 June 2016].
 
 Gibson, J. J. (1986, 1979) ‘The theory of affordances’, in _The ecological approach to visual perception_. Hillsdale, NJ: Lawrence Erlbaum, pp. 127–143.
 
