@@ -1,6 +1,6 @@
 ## Affordances
 
-**RELATED TERMS: [Actantiality](https://github.com/narrative-environments/CourseCompendium/blob/main/Actantiality.md); New Materialism; [Lifeworld - Lebenswelt - Umwelt](https://github.com/narrative-environments/CourseCompendium/blob/main/Lifeworld.md); Method and methodology; Phenomenology; Disciplinary societies and Societies of control**
+**RELATED TERMS: [Actantiality](https://narrative-environments.github.io/CourseCompendium/Actantiality.html); New Materialism; [Lifeworld - Lebenswelt - Umwelt](https://github.com/narrative-environments/CourseCompendium/blob/main/Lifeworld.md); Method and methodology; Phenomenology; Disciplinary societies and Societies of control**
 
 The notion of affordance is important for narrative environment design as it emphasises the active nature of perception; the importance of the moving body in perception; the co-constitution of the human, the environmental and the ecological; and the interactive nature of perceptual, meaning-making and world-making actions and processes (i.e. the making of lifeworlds as domains of meaningfulness and sustainable life-forms).
 
