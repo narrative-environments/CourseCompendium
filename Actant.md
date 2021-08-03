@@ -1,6 +1,6 @@
 **Actant**
 
-**RELATED TERMS: [Actantial Model - Greimas](https://narrative-environments.github.io/CourseCompendium/Actantial-Model-Greimas.html); Actor-network theory; Actor; Agency; Human actantiality; Avatar**
+**RELATED TERMS: [Actantiality](https://narrative-environments.github.io/CourseCompendium/Actantiality.html); [Actantial Model - Greimas](https://narrative-environments.github.io/CourseCompendium/Actantial-Model-Greimas.html); [Actor-network theory](https://narrative-environments.github.io/CourseCompendium/Actor-Network-Theory.html); Actor; Agency; Human actantiality; Avatar**
 
 **Why actant?**
 
