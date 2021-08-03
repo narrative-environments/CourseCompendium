@@ -1,6 +1,6 @@
 ## Actantial model - Greimas
 
-**RELATED TERMS: [Actant](https://github.com/narrative-environments/CourseCompendium/blob/main/Actant.md); [Actantiality](https://github.com/narrative-environments/CourseCompendium/blob/main/Actantiality.md); Human actantiality; [Actor-Network Theory](https://narrative-environments.github.io/CourseCompendium/Actor-Network-Theory.html);**
+**RELATED TERMS: [Actant](https://github.com/narrative-environments/CourseCompendium/blob/main/Actant.md); [Actantiality](https://github.com/narrative-environments/CourseCompendium/blob/main/Actantiality.md); [Actor-Network Theory](https://narrative-environments.github.io/CourseCompendium/Actor-Network-Theory.html); Human actantiality**
 
 Joanna Kwiat (2008: 43) suggests that the actantial model of narrative structure proposed by Greimas (1983) drew on at least four theories: Levi-Strauss’ theory of opposition, which states that a given concept A is impossible to comprehend without the equal and opposite concept Not A, and how A necessarily entails Not A, and thereby every possibility between; the syntactical functioning of discourse; the inventory of actants proposed by Vladimir Propp, which he called “dramatis personae”; and the inventory of actants proposed by Etienne Souriau, which he referred to as “dramaturgic functions”.
 
