@@ -8,7 +8,7 @@ Chris Salter writes that,
 
 >“Performance as practice, method, and worldview is becoming one of the major paradigms of the twenty-first century, not only in the arts but also the sciences. As euphoria for the simulated and the virtual that marked the end of the twentieth century subsides, suddenly everyone from new media artists to architects, physicists, ethnographers, archaeologists, and interaction designers are speaking of embodiment, situatedness, presence, and materiality. In short, everything has become performative.” (Salter, 2010: xxi)
 
-## Performative in Narrative environment design
+## Performative in the design of narrative environments
 
 In the design of narrative environments, performative typically applies to the behaviour that is evoked in participants when they, through engagement, express themselves ‘unconsciously’, as part of a system or network of performativity or actantiality, rather than ‘consciously’ and deliberately, which is more in the realm of performance.
 
