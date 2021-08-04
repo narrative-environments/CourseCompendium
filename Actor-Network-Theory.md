@@ -37,8 +37,6 @@ Jary, D. and Jary, J. (2000). _Collins dictionary of sociology_, 3rd ed. Glasgow
 
 Latour, B. (1996). On actor-network theory. A few clarificaitons plus more than a few complications. _Soziale Welt_, 47, 369–381\. Available from http://www.bruno-latour.fr/sites/default/files/P-67 ACTOR-NETWORK.pdf [Accessed 6 February 2016].
 
-The following items are held in University of the Arts libraries: Latour, B. (2005). [Reassembling the Social: An Introduction to Actor-network-theory](http://voyager.arts.ac.uk/cgi-bin/Pwebrecon.cgi?DB=local&BBID=286778). Oxford: Oxford University Press.
-
 **Further reading**
 
 Latour, B. (2005). _Reassembling the Social: An Introduction to Actor-network-theory_. Oxford: Oxford University Press.
