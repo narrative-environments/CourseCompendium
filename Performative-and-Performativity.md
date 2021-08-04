@@ -10,7 +10,7 @@ Chris Salter writes that,
 
 ## Performative in Narrative environment design
 
-In Narrative Environment design performative typically applies to the behaviour that is evoked in participants when they, through engagement, express themselves ‘unconsciously’ rather than ‘consciously’ which is more in the realm of performance.
+In the design of narrative environments, performative typically applies to the behaviour that is evoked in participants when they, through engagement, express themselves ‘unconsciously’, as part of a system or network of performativity or actantiality, rather than ‘consciously’ and deliberately, which is more in the realm of performance.
 
 ## Performative in Philosophy
 
