@@ -1,6 +1,6 @@
 ## Performance
 
-**RELATED TERMS: Happenings; Performance Art; Performativity; Metalepsis**
+**RELATED TERMS: [Actantiality](https://narrative-environments.github.io/CourseCompendium/Actantiality.html); Happenings; Performance Art; Performative and Performativity; Metalepsis**
 
 The terms performance and performative are important for the design of narrative environments because, it is argued, they are performed by a participant. This performance takes on a different character depending on the narrative environment itself and may involve a combination of consumption by a consumer; reception by a reader, spectator or audience; or instrumental use by a user, as well as scripted or unscripted (improvisational) actions and decisions by the participant. 
 
