@@ -6,11 +6,7 @@ The relevance of the notions of performative and performativity, alongside of pe
 
 Chris Salter writes that, 
 
-“Performance as practice, method, and worldview is becoming one of the major paradigms of the twenty-first century, not only in the arts but also the sciences. As euphoria for the simulated and the virtual that marked the end of the twentieth century subsides, suddenly everyone from new media artists to architects, physicists, ethnographers, archaeologists, and interaction designers are speaking of embodiment, situatedness, presence, and materiality. In short, everything has become performative.” (Salter, 2010: xxi)
-
-**References**
-
-Salter, C. (2010). Introduction. In: _Entangled: technology and the transformation of performance_. Cambridge, MA: MIT Press, xxi–xxxix.
+>“Performance as practice, method, and worldview is becoming one of the major paradigms of the twenty-first century, not only in the arts but also the sciences. As euphoria for the simulated and the virtual that marked the end of the twentieth century subsides, suddenly everyone from new media artists to architects, physicists, ethnographers, archaeologists, and interaction designers are speaking of embodiment, situatedness, presence, and materiality. In short, everything has become performative.” (Salter, 2010: xxi)
 
 ## Performative in Narrative environment design
 
@@ -25,4 +21,11 @@ The difficulties, and indeed the more interesting questions, arise when it is re
 Matters get even more interesting when the notion of “in normal circumstances” is opened to question (what are they?) and the question of whether the person uttering the performative fully intends to do what they say they will do, for example, whether they really intend to be there at the specified place at the specified time when they say “I promise to be there” (as noted above, concerning whether a promise was actually made, or some other act performed, such as a deception). The utterer may be lying, joking or may have forgotten a previous arrangement that they have made in which they promised to be somewhere else, i.e. intentionally or unintentionally invalidating the performative act. Alternatively, they may be uttering the sentence in the context of acting in a play.
 
 In short, circumstances are the important factor, and their ‘normality’ should not simply be assumed but carefully considered.
+
+**References**
+
+Austin, J. L. (1970) ‘Performative utterances’, in _Philosophical papers_. 2nd edn. Oxford: Oxford University Press.
+
+Salter, C. (2010). Introduction. In: _Entangled: technology and the transformation of performance_. Cambridge, MA: MIT Press, xxi–xxxix.
+
 
