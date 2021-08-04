@@ -1,6 +1,6 @@
 ## Actors
 
-**RELATED TERMS: [Actor-Network Theory](https://narrative-environments.github.io/CourseCompendium/Actor-Network-Theory.html); [Actant](https://narrative-environments.github.io/CourseCompendium/Actant.html);**
+**RELATED TERMS: [Actant](https://narrative-environments.github.io/CourseCompendium/Actant.html); [Actor-Network Theory](https://narrative-environments.github.io/CourseCompendium/Actor-Network-Theory.html)**
 
 Actors are to be distinguished from actants.
 
