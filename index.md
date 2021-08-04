@@ -207,7 +207,7 @@ This is (and will always be) a work in progress. So far, the entries we have are
 * [Passant](Passant.md)
 * [People-Centred Design](People-Centred-Design.md)
 * [Performance](Performance.md)
-* [Performative and Performativity](Performative.md)
+* [Performative and Performativity](Performative-and-Performativity.md)
 * [Peter Zumthor - Serpentine Pavilion](Peter-Zumthor-Pavilion.md)
 * [Phenomenology](Phenomenology.md)
 * [Philosophy](Philosophy.md)
