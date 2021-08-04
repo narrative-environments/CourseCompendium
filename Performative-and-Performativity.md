@@ -2,7 +2,7 @@
 
 **RELATED TERMS: Performance; Actant; Paradigm; Methodology and Method**
 
-The relevance of the notions of performative and performativity, alongside of performance, to the design of narrative environments is that they are performed or enacted. In being enacted, they constitute a field of actantiality in which different levels of narrative, different levels of existence and different modes of existence are intertwined, forming a tangled hierarchy in which specific diegetic or ontological metalepses (transgressions from one level of narrative to another or from a narrative modality of existence to a more everyday mode of existence) may be realised. In these ways, the interweaving of the material and the immaterial aspects of cultural practices can be explored as well as the inter-relationships between the actual (the 'is') and the potential (the 'as if').
+The relevance of the notions of performative and performativity, alongside that of performance, to the design of narrative environments is that narrative environments are performed or enacted. In being enacted, they constitute a field of actantiality or performativity in which different levels of narrative, different levels of existence and different modes of existence are intertwined, forming a tangled hierarchy in which specific diegetic or ontological metalepses (transgressions from one level of narrative to another or from a narrative modality of existence to a more everyday mode of existence) may be realised. In these ways, the interweaving of the material and the immaterial aspects of cultural practices can be explored as well as the inter-relationships between the actual (the 'is') and the potential (the 'as if').
 
 Chris Salter writes that, 
 
