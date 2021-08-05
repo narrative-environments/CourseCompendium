@@ -1,6 +1,6 @@
 ## World-forming, World-making, World-building
 
-**RELATED TERMS: Theoretical practice; Design of Narrative environments; Sloterdijk; Arendt; Heidegger; Ontology; Lifeworld - Lebenswelt - Umwelt; [Terraforming](https://github.com/narrative-environments/CourseCompendium/blob/main/Terraforming.md)**
+**RELATED TERMS: Theoretical practice; Design of Narrative environments; Sloterdijk; Arendt; Heidegger; Ontology; Lifeworld - Lebenswelt - Umwelt; [Terraforming](https://narrative-environments.github.io/CourseCompendium/Terraforming.html)**
 
 As noted elsewhere, for example in the Design of Narrative Environments entry and the Theoretical Practice entry, a narrative environment may be said to constitute a world, and its approach to design could be considered ontological. The philosophical sources for this kind of thinking can be found in phenomenology, notably in the work of Heidegger, Arendt, Merleau-Ponty and Sloterdijk, as well as in anthropology. From the perspective of the design of narrative environments, as a transmedia practice, world-making, world-forming or world-building practices are design practices, albeit of differing degrees of complexity.
 
