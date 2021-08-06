@@ -42,7 +42,7 @@ Realism, as Roman Jakobson (1987) defines it, is “an artistic trend which aims
 
 Jakobson points out that this immediately faces us with a dilemma. Realism may be taken to refer to the aspiration and intent of the author, i.e. it is conceived by its author as a display of verisimilitude (meaning A). It is conceived as intending to be true to life. Alternatively, a work may be called realistic if the person judging it perceives it as being true to life (meaning B).
 
-In the first case, we evaluate on an intrinsic basis, in terms of the (literary or other artistic) conventions used (the diegesic universe, in Souriau’s phrase), the structure and rhetoric of the work. In the second case, the reader’s individual impression is the decisive criterion (the imaginary world constructed by the reader/spectator/auditor ‘measured’ against or compared with/contrasted with the symbolic world the reader/spectator/auditor inhabits), reception and interpretation of the work.
+In the first case, we evaluate on an intrinsic basis, in terms of the (literary or other artistic) conventions used (the diegetic universe, in Souriau’s phrase), the structure and rhetoric of the work. In the second case, the reader’s individual impression is the decisive criterion (the imaginary world constructed by the reader/spectator/auditor ‘measured’ against or compared with/contrasted with the symbolic world the reader/spectator/auditor inhabits), reception and interpretation of the work.
 
 Jakobson considers that these two distinct meanings have been irredeemably confounded in the history art, such that the question of whether a given work is realistic or not is covertly reduced to the question of what attitude the reader/spectator/auditor takes toward it.
 
