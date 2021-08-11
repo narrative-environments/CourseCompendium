@@ -2,7 +2,7 @@
 
 **RELATED TERMS: Collecting; Material Culture; Representation; Narrative Ecology; [Events](https://github.com/narrative-environments/CourseCompendium/blob/main/Events.md)**
 
-Since the late 20th century, there has been a 'return to things' in the social sciences and humanities, to the extent that Bill Brown, a scholar of American literature, has called for a 'thing theory'. This movement contravenes an earlier focus on representation and the long scholarly tradition that separated subject from object, mind from matter. Among these  approaches, human existence and social life are understood to depend on material things and are entangled with them. People and things are relationally produced. (Hodder, 2014)
+Since the late 20th century, there has been a 'return to things' in the social sciences and humanities, to the extent that Bill Brown (2001), a scholar of American literature, has called for a 'thing theory'. This movement contravenes an earlier focus on representation and the long scholarly tradition that separated subject from object, mind from matter. Among these  approaches, human existence and social life are understood to depend on material things and are entangled with them. People and things are relationally produced. (Hodder, 2014)
 
 The design of narrative environments is in accord with this perspective.
 
