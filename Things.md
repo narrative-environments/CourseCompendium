@@ -26,6 +26,8 @@ The things that are most “thinglike”, that is seemingly durable, are more pr
 
 **References**
 
+Brown, B. (2001) ‘Thing theory’, _Critical Inquiry_, 28(1), pp. 1–22. Available at: http://www.jstor.org/stable/10.2307/1344258 (Accessed: 14 November 2012).
+
 Hodder, I. (2014) ‘The Entanglements of humans and things: a long-term view’, _New Literary History_, 45(1), pp. 19–36. doi: 10.1353/nlh.2014.0005.
 
 Rovelli, C. (2018) _The Order of time_. Translated by E. Segre and S. Carnell. New York, NY: Riverhead Books.
