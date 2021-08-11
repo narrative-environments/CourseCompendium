@@ -1,5 +1,7 @@
 ## Anthropo-Scenes
 
+**RELATED TERMS; Anthropocene - Capitalocene - Chthulucene; Postanthropocentrism; Posthuman; Posthumanism; Cultural geography, Human geography, Social geography**
+
 One strand of narrative environments may be defined as Anthropo-Scenes: they concern what the world is like both now, what it might be like in times to come and what life, including human life, in those present and future worlds is like and might be like. This is to acknowledge the importance of narrative in understanding and communicating issues related to the notion of an ‘anthropocene’, a concept which begins its life in the discourse of Earth System Science but which has given rise to a wider intellectual event-space termed the Anthropo-Scene, a term denoting “a flurry of activity with far-reaching ontological, epistemic, political and aesthetic consequences” (Lorimer, 2016).
 
 Castree (2015) argues that,
@@ -16,21 +18,14 @@ Lorimer, J. (2017). The Anthropo-scene: A guide for the perplexed. _Social Studi
 
 **Other sources**
 
-Anthropo-scene: art and nature in a manufactured era [Art exhibition website] [http://Anthroposcene.weebly.com/](http://anthroposcene.weebly.com/)<span class="Apple-converted-space"></span>
+Anthropo-scene: art and nature in a manufactured era [Art exhibition website] [http://Anthroposcene.weebly.com/](http://anthroposcene.weebly.com/)
 
 Climaginaries [Website] [https://www.climaginaries.org](https://www.climaginaries.org)
 
 Narrating Climate Futures [Website] [https://www.climatefutures.lu.se/climate-fiction/anthropo-scenes](https://www.climatefutures.lu.se/climate-fiction/anthropo-scenes)
 
-Technology is our next nature: Anthropo-Scene: [https://www.nextnature.net/search/Anthropo-scene/](https://www.nextnature.net/search/Anthropo-scene/)<span class="Apple-converted-space"></span>
+Technology is our next nature: Anthropo-Scene: [https://www.nextnature.net/search/Anthropo-scene/](https://www.nextnature.net/search/Anthropo-scene/)
 
 The Anthropo.scene [Blog] [http://jeremyjschmidt.com/](http://jeremyjschmidt.com/)
 
-RELATED TERMS
-
-* Anthropocene (Capitalocene, Chthulucene)
-* Postanthropocentrism
-* Posthuman
-* Posthumanism
-* Cultural geography, Human geography, Social geography
 
