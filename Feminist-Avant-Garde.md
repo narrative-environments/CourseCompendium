@@ -22,5 +22,5 @@ Schor, G. et al. (2015). _Feminist avant-garde: art of the 1970s, the Sammlung V
 
 **Video resources**
 
-Rebel Women: The Great Art Fight Back, 22:30 18/06/2018, BBC4, 60 mins. Available from https://learningonscreen.ac.uk/ondemand/index.php/prog/1172DA83?bcast=126923343 [Accessed 10 Mar 2019]
+Rebel Women: The Great Art Fight Back, 22:30 18/06/2018, BBC4, 60 mins. Available from [https://learningonscreen.ac.uk/ondemand/index.php/prog/1172DA83?bcast=126923343[(https://learningonscreen.ac.uk/ondemand/index.php/prog/1172DA83?bcast=126923343) [Accessed 10 Mar 2019]
 
