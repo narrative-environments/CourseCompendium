@@ -1,6 +1,6 @@
 ## Material Culture
 
-**RELATED TERMS: Anthropology; 
+**RELATED TERMS: Anthropology;**
 
 Material culture is a notion crucial to the design of narrative environments. As Daniel Miller (2005) highlights, the less aware we are of the objects that surround us, the more powerfully they can determine our anticipated actions by setting the scene and encouraging normative behaviour, withour being open to challenge. They assert without seeming to assert. Thus, objects determine what takes place to the extent that we remain unconscious of their capacity to do so. 
 
