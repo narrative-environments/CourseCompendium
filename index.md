@@ -1,4 +1,4 @@
-**Hello! Welcome to the Narrative Environments Course Compendium!**
+**Hello! Welcome to the MA Narrative Environments (MANE) Course Compendium!**
 
 The design of narrative environments lies at the intersection of design as social practice taking place within, while re-shaping, public space; design as commercial practice taking place within, while re-shaping, global and local marketplaces; design as spatial practice taking place within, while re-shaping, natural, urban and digital environments; and design as academic discipline, taking place within, while re-shaping, the interdisciplinarity of the university. 
 
