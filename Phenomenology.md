@@ -38,6 +38,8 @@ Merleau-Ponty calls the lived unity of the mind–body-world system ‘the lived
 
 That otherness, in the context of narrative environment design, is understood both in terms of temporality, as narrating, and spatiality, as environing.
 
+Allan Parsons, revised April 2021
+
 **References**
 
 Bullington, J. (2013). The Expression of the psychosomatic body from a phenomenological perspective. In: _The Expression of the Psychosomatic Body from a Phenomenological Perspective_. Dordrecht, NL: Springer, 19–37.
