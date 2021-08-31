@@ -60,7 +60,7 @@ Borrowing from Latour, Jane Bennett comments that,
 
 >“While the smallest or simplest body or bit may indeed express a vital impetus, conatus or clinamen, an actant never really acts alone. Its efficacy or agency always depends on the collaboration, cooperation, or interactive interference of many bodies and forces. A lot happens to the concept of agency once nonhuman things are figured less as social constructions and more as actors, and once humans themselves are assessed not as autonoms but as vital materialities.” (Bennett, 2010: 21)
 
-Allan Parsons, revised Aprile 2021
+Allan Parsons, revised April 2021
 
 **How to cite this entry, using an author-date system:**
 
