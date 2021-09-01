@@ -1,6 +1,6 @@
 # Technology
 
-**RELATED TERMS: [Remembering: Mnemonics, Mnemotechne and Memory](https://github.com/narrative-environments/CourseCompendium/blob/main/Remembering.md)**
+**RELATED TERMS: [Remembering: Mnemonics, Mnemotechne and Memory](https://narrative-environments.github.io/CourseCompendium/Remembering.html)**
 
 In the context of the design of narrative environments, technologies are understood to be interconnected systems, media or frames. At any one time, there is an accumulation or ecology of systems. Over time, within such ecologies, certain systemic media frames achieve dominance, while previously dominant systems become subordinate. They do not simply disappear, however. 
 
