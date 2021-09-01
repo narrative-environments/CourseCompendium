@@ -1,6 +1,6 @@
 ## Vocatives: Calling, Recalling and Modes of Address
 
-**RELATED TERMS: [Remembering: Mnemonics, Mnemotechnics and Memory](https://github.com/narrative-environments/CourseCompendium/blob/main/Remembering.md); **
+**RELATED TERMS: [Remembering: Mnemonics, Mnemotechnics and Memory](https://github.com/narrative-environments/CourseCompendium/Remembering.html);**
 
 A vocative expression is one in which a person is directly referred to in dialogue, for example, by their name, their job title or position or by a term of endearment, respect or disrespect.
 
