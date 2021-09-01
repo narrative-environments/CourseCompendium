@@ -1,6 +1,6 @@
 ## Remembering: Mnemonics, Mnemotechne and Memory
 
-**RELATED TERMS: [Vocatives](https://github.com/narrative-environments/CourseCompendium/Vocatives.html); [Technology](https://narrative-environments.github.io/CourseCompendium/Technology.html)**
+**RELATED TERMS: [Vocatives](https://narrative-environments.github.io/CourseCompendium/Vocatives.html); [Technology](https://narrative-environments.github.io/CourseCompendium/Technology.html)**
 
 Scott Newstok (2021) comments that contemporary cognitive science validates what ancient memory practitioners already knew: that physical configurations reinforce recollection, whether on the page of a book, on the stage of a theatre or, we would add, in a narrative environment. The Romans called their spatial art of memory _the method of loci_, or 'places'; in ancient Greek, this is _the method of topoi_. This method was widely used by by orators and others from classical, through medieval, up until early modern times.
 
