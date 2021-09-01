@@ -16,6 +16,6 @@ Stiegler (2009: 1-2) states that,
 
 **References**
 
-Stiegler, B. (1998) _Technics and Time 1: the fault of Epimethetheus_. Translated by R. Beardsworth and G. Collins. Stanford, CA: Stanford University Press.
+Stiegler, B. (1998) _Technics and Time 1: the fault of Epimetheus_. Translated by R. Beardsworth and G. Collins. Stanford, CA: Stanford University Press.
 
 Stiegler, B. (2009) _Technics and time 2: disorientation_. Translated by S. Barker. Stanford, CA: Stanford University Press.
