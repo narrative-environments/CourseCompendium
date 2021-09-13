@@ -257,7 +257,7 @@ This is (and will always be) a work in progress. So far, the entries we have are
 * [Sir John Soane Museum](Sir-John-Soane-Museum.md)
 * [Site-Specific](Site-Specific.md)
 * [Situationist International](Situationist-International.md)
-* [Sloterdijk](Sloterdijk.png)
+* [Sloterdijk](Sloterdijk.md)
 * [Social Anthropology](Social-Anthropology.md)
 * [Social Science](Social-Science.md)
 * [Socially Engaged Art](Socially-Engaged-Art.md)
