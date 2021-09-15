@@ -1,4 +1,4 @@
-#Design Thinking
+# Design Thinking
 
 **RELATED TERMS: POV**
 
