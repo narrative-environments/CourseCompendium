@@ -1,6 +1,6 @@
 # POV
 
-**RELATED TERMS: Focalisation; Design Thinking**
+**RELATED TERMS: Focalisation; [Design Thinking](https://narrative-environments.github.io/CourseCompendium/Design-Thinking.html)**
 
 In design thinking, as a specific 5-step method (Empathise, Define, Ideate, Prototype and Test) associated with IDEO, POV, or point of view, is a written statement that expresses the problem(s) that the design team is trying to address. This may also be called a problem statement: an expression of the problem or problems that clients or customers have identified during the ‘Empathise’ phase. Writing the POV statement is a central component of the ‘Define’ stage of design thinking.
 
