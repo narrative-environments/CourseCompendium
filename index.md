@@ -226,6 +226,7 @@ This is (and will always be) a work in progress. So far, the entries we have are
 * [Posthumanities](Posthumanities.md)
 * [Postmodernism](Postmodernism.md)
 * [Poststructuralism](Poststructuralism.md)
+* [POV](POV.md)
 * [Practice](Practice.md)
 * [Praxis](Praxis.md)
 * [Present-at-hand (Vorhanden) and Ready-to-hand (Zuhanden)](Present-at-Hand.md)
