@@ -1,4 +1,4 @@
-#POV
+# POV
 
 **RELATED TERMS: Focalisation; Design Thinking**
 
