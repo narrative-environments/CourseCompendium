@@ -1,6 +1,6 @@
 # Design Thinking
 
-**RELATED TERMS: POV**
+**RELATED TERMS: [POV](https://narrative-environments.github.io/CourseCompendium/POV.html)**
 
 Design thinking is a human-centric approach to assist businesses to improve their existing products and generate new ideas about possible products and services. It is a creative approach to problem solving. Although not invented by IDEO, it has come to be closely associated with the five-step method developed by that design practice. An evolving approach, its five steps were initially formalised as: Empathise, Define, Ideate, Prototype and Test.
 
