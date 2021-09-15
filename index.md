@@ -85,6 +85,7 @@ This is (and will always be) a work in progress. So far, the entries we have are
 * [Design of Narrative Environments](Design-of-Narrative-Environments.md)
 * [Design Paradoxes](Design-Paradoxes.md)
 * [Design Practice and Functionalism](Design-Practice.md)
+* [Design Thinking](Design-Thinking.md)
 * [Detournement](Detournement.md)
 * [Device to Root Out Evil](Device-to-Root-Out-Evil.md)
 * [Diegese](Diegese.md)
