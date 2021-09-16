@@ -6,6 +6,10 @@ RELATED TERMS:
 
 Photograph: Rainer Lück http://1RL.de – 17 July 2009 – Used under CC BY-SA 3.0 licence
 
+>“Humanity becomes a political concept. Its members are no longer travellers on the ship of fools that is abstracted universalism, but workers on the consistently concrete and discrete project of a global immune design.” (Couture, 2016: 73)
+
+Excerpt From: Jean-Pierre Couture. “Sloterdijk”. Apple Books. 
+
 The work of German philosopher Peter Sloterdijk (1947-) has direct relevance for the design and analysis of narrative environments. As with all theorists, his work may be considered to constitute a particular kind of text-based narrative environment as well as a particular kind of environmental discourse (i.e. discourse about the environment and environment as discourse and as apparatus) **[1]**.
 
 Sloterdijk argues, following through on the initial Heideggerian insight, that Dasein (there-being or here-being), i.e. ‘being thrown into the world’, is to be thrown into an envelope of some kind, To define humans is to define the envelopes, the life support systems, that make it possible for them to breathe, to live. Furthermore, all of the envelopes or life support systems into which people are born (‘thrown’) are artificial, constructed, designed. These envelopes are called ‘spheres’ by Sloterdijk, and the study of them he calls spherology.
@@ -24,7 +28,9 @@ This may also yield an interesting way of exploring the processes of metalepsis 
 
 **[2]** For a comprehensive discussion of metalepsis, see Pier (2013).
 
-**Readings**
+**References**
+
+Couture, J.-P. (2016) _Sloterdijk_. Cambridge, UK: Polity.
 
 Hofstadter, Douglas (1979). _Gödel, Escher, Bach: an Eternal Golden Braid_. New York: Basic Books.
 
