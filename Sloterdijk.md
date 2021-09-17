@@ -6,9 +6,7 @@ RELATED TERMS:
 
 Photograph: Rainer Lück http://1RL.de – 17 July 2009 – Used under CC BY-SA 3.0 licence
 
->“Humanity becomes a political concept. Its members are no longer travellers on the ship of fools that is abstracted universalism, but workers on the consistently concrete and discrete project of a global immune design.” (Couture, 2016: 73)
-
-Excerpt From: Jean-Pierre Couture. “Sloterdijk”. Apple Books. 
+>“Humanity becomes a political concept. Its members are no longer travellers on the ship of fools that is abstracted universalism, but workers on the consistently concrete and discrete project of a global immune design.” (Couture, 2016: 73) 
 
 The work of German philosopher Peter Sloterdijk (1947-) has direct relevance for the design and analysis of narrative environments. As with all theorists, his work may be considered to constitute a particular kind of text-based narrative environment as well as a particular kind of environmental discourse (i.e. discourse about the environment and environment as discourse and as apparatus) **[1]**.
 
