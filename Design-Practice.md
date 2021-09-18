@@ -1,6 +1,6 @@
 ## Design practice and functionalism
 
-RELATED TERMS: Co-design; Creative thinking; Design History; Modernism; People-centred design; Postmodernism; Practice; Product Design; Theoretical practice; User-centred design; User-driven design; Utopia and Utopian thinking; Ontological designing; Philosophy; Narrative environment design; Critical thinking; Modernity; Latour
+**RELATED TERMS: Co-design; Creative thinking; Design History; Modernism; People-centred design; Postmodernism; Practice; Product Design; Theoretical practice; User-centred design; User-driven design; Utopia and Utopian thinking; Ontological designing; Philosophy; Narrative environment design; Critical thinking; Modernity; Latour**
 
 Buchanan (1998: 64) considers the development of design in the 20th century to have had three distinct periods,
 
