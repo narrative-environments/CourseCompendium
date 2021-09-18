@@ -1,6 +1,6 @@
 ## Diegetic levels
 
-RELATED TERMS: Diegese; 
+**RELATED TERMS: Diegese;**
 
 _Use for_ Narrative levels. _See also_ Frame narratives and Embedded narratives
 
