@@ -37,6 +37,8 @@ Haraway, D. J. (1992) ‘The Promises of monsters: a regenerative politics for i
 
 Hebert, L. (2006) The Semiotic square, _Signo - Applied Semiotics Theories_. Available at: http://www.signosemio.com/greimas/semiotic-square.asp (Accessed: 22 August 2014).
 
+Hebert, L. (2020) _An Introduction to applied semiotics: tools for text and image analysis_. Translated by J. Tabler. London, UK: Routledge.
+
 Jameson, F. (1972) _The Prison-house of language: a critical account of structuralism and Russian formalism_. Princeton, NJ: Princeton University Press.
 
 Parsons, T. (2014) ‘The Traditional square of opposition’, _Stanford Encyclopedia of Philosophy_. Spring 2014. Available at: http://plato.stanford.edu/archives/spr2014/entries/square/ (Accessed: 24 December 2014).
