@@ -12,7 +12,5 @@ Narrative environments are at the more complex end of the spectrum.
 
 Bertalanffy, L. von (1968). _General system theory: foundations, development, applications_. New York, NY: George Braziller.
 
-Rollag, K. (1998). _Keith’s Organizational Theory WebSite Prototype_. Available at http://faculty.babson.edu/krollag/org_site/toc.html [Accessed 27 February 2016]
-
 Scott, W. R. (1992). _Organizations: Rational, Natural, and Open Systems_. Englewood Cliffs, NJ, Prentice Hall.
 
