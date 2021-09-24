@@ -19,3 +19,5 @@ If there exists a connection between art and politics, Ranciere argues, it shoul
 **References**
 
 Ranciere, J. (2004). _The Politics of aesthetics: the distribution of the sensible_. London, UK: Continuum.
+
+Ranciere, J. (2010) _Dissensus: on politics and aesthetics_. Translated by S. Corcoran. London, UK: Continuum.
