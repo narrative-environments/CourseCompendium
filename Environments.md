@@ -6,5 +6,5 @@ Environments are mixed-media constructions or assemblages usually designed for a
 
 **References**
 
-Kaprow, A. (2014) ‘Assemblages, environments and happenings’, in Brayshaw, T. and Witts, N. (eds) _The Twentieth-Century Performance Reader_. 3rd edn. London, UK: Routledge, pp. 277–287.
+Kaprow, A. (2014) ‘Assemblages, environments and happenings’, in Brayshaw, T. and Witts, N. (eds) _The Twentieth-Century Performance Reader_. 3rd ed. London, UK: Routledge, pp. 277–287.
 
