@@ -1,6 +1,6 @@
 ## Environments
 
-RELATED TERMS: Installation
+**RELATED TERMS: Installation; Happenings**
 
 Environments are mixed-media constructions or assemblages usually designed for a specific place and for a temporary period of time. It is an alternative term for installation art. The term was first used by artist Allan Kaprow in 1958 to describe his own large-scale artworks which transformed interior spaces.
 
