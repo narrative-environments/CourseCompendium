@@ -36,7 +36,7 @@ It was against this Goethean and Schillerian formulation of the theory that Brec
 
 “Goethe and Schiller said that the epic poet presents the event as totally past, while the dramatic poet presents it as totally present. The epic poet relates what has happened in calm contemplation. The actor, on the other hand, is in exactly the opposite position: he represents himself as a definite individual; he wants the spectators to participate in his action, to feel the sufferings of his soul and of his body with him, share his embarrassments and forget their own personalities for the sake of his. The spectator must not be allowed to rise to thoughtful contemplation; he must passionately follow the action; his imagination is completely silenced.”
 
-Brecht considered such a theatre to be a fraud. Brecht. Ever the rationalist, Brecht demanded a theatre of critical thoughtfulness, or what he called initially an epic theatre and later a dialectical theatre. This was a theatre that aims to prevent the identification of the audience with the characters; nor can it allow the identification of the actor with the character.
+Brecht considered such a theatre to be a fraud. Ever the rationalist, Brecht demanded a theatre of critical thoughtfulness, or what he called initially an epic theatre and later a dialectical theatre. This was a theatre that aims to prevent the identification of the audience with the characters; nor can it allow the identification of the actor with the character.
 
 In this way, the study of (abstract, universal) human nature is replaced by a study of (concrete, particular) human, social relations.
 
