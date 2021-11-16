@@ -42,7 +42,9 @@ https://www.youtube.com/embed/0Bzg5nelgDA?start=45
 
 Brown, M. (2018). Stalinist Truman Show: artist paid 400 people to live as Soviet citizens. _Guardian_, 1 September. Available from [https://www.theguardian.com/world/2018/aug/31/stalinist-truman-show-artist-paid-400-people-to-live-as-soviet-citizens](https://www.theguardian.com/world/2018/aug/31/stalinist-truman-show-artist-paid-400-people-to-live-as-soviet-citizens) [Accessed 2 September 2018].
 
-Meek, J. (2015). Diary. _London Review of Books_, 37 (19), 42-43\. Available from [<span class="s1">https://www.lrb.co.uk/v37/n19/james-meek/diary</span>](https://www.lrb.co.uk/v37/n19/james-meek/diary) [Accessed 2 September 2018].
+Meek, J. (2015). Diary. _London Review of Books_, 37 (19), 42-43\. Available from [https://www.lrb.co.uk/v37/n19/james-meek/diary](https://www.lrb.co.uk/v37/n19/james-meek/diary) [Accessed 2 September 2018].
 
 Rose, S. (2019). Inside Dau, the ‘Stalinist Truman Show’: ‘I had absolute freedom – until the KGB grabbed me’. _Guardian_, 26 January. Available from [https://www.theguardian.com/film/2019/jan/26/inside-the-stalinist-truman-show-dau-i-had-absolute-freedom-until-the-kgb-grabbed-me](https://www.theguardian.com/film/2019/jan/26/inside-the-stalinist-truman-show-dau-i-had-absolute-freedom-until-the-kgb-grabbed-me) [Accessed 27 January 2019].
+
+Zaezjev, A. (2020) ‘From dusk till “DAU”: the rise of heterotopic cinema in the times of pandemic’, Baltic Screen Media Review, 8, pp. 69–81. Available from: [https://www.sciendo.com/article/10.2478/bsmr-2020-0007](https://www.sciendo.com/article/10.2478/bsmr-2020-0007)(Accessed: 16 November 2021).
 
