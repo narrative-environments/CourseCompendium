@@ -38,7 +38,8 @@ A review of the Parisian version of the Dau project, which opens in early 2019, 
 
 https://www.youtube.com/embed/0Bzg5nelgDA?start=45
 
-The DAU website is here: [https://www.dau.com/en](https://www.dau.com/en)
+The **DAU website** is here: [https://www.dau.com/en](https://www.dau.com/en)
+
 **References**
 
 Brown, M. (2018). Stalinist Truman Show: artist paid 400 people to live as Soviet citizens. _Guardian_, 1 September. Available from [https://www.theguardian.com/world/2018/aug/31/stalinist-truman-show-artist-paid-400-people-to-live-as-soviet-citizens](https://www.theguardian.com/world/2018/aug/31/stalinist-truman-show-artist-paid-400-people-to-live-as-soviet-citizens) [Accessed 2 September 2018].
