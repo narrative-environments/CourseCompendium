@@ -38,7 +38,7 @@ A review of the Parisian version of the Dau project, which opens in early 2019, 
 
 https://www.youtube.com/embed/0Bzg5nelgDA?start=45
 
-The **DAU website** is here: [https://www.dau.com/en](https://www.dau.com/en)
+The **DAU cinema website** is here: [https://www.dau.com/en](https://www.dau.com/en)
 
 **References**
 
