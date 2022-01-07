@@ -24,7 +24,7 @@ Some design theorists have borrowed the notion of the auteur from film theory in
 
 ## Intentionality in Graphic Design
 
-Intentionality is a usefull term in graphic Design in relation to the purpose or function of the design by its creator or intended audience.  
+Intentionality is a useful term in graphic Design in relation to the purpose or function of the design by its creator or intended audience.  
 It is often discussed in philosophical terms, especially in relation to language – some philosophers argue that intentionality is characteristic of a concept or an intention. In philosophy, intentionality is related to mental states such as remembering, believing, knowing or experiencing as well as to the concept of free will.
 
 ## Layout in Graphic Design
