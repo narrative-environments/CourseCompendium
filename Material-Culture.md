@@ -2,9 +2,9 @@
 
 **RELATED TERMS: Anthropology;**
 
-Material culture is a notion crucial to the design of narrative environments. As Daniel Miller (2005) highlights, the less aware we are of the objects that surround us, the more powerfully they can determine our anticipated actions by setting the scene and encouraging normative behaviour, withour being open to challenge. They assert without seeming to assert. Thus, objects determine what takes place to the extent that we remain unconscious of their capacity to do so. 
+Material culture is a notion crucial to the design of narrative environments. As Daniel Miller (2005) highlights, the less aware we are of the objects that surround us, the more powerfully they can determine our anticipated actions by setting the scene and encouraging normative behaviour, without being open to challenge. They assert without seeming to assert. Thus, objects determine what takes place to the extent that we remain unconscious of their capacity to do so. 
 
-Part of the task of the design of narrative environment is to make explicit the capacity of objects and environments to act, that is, their actantiality, their status as actants, and to use that awareness of 'objective' actantiality to bring to attantion, and possibly to alter, the ways we act and interact. 
+Part of the task of the design of narrative environments is to make explicit the capacity of objects and environments to act, that is, their actantiality, their status as actants, and to use that awareness of 'objective' actantiality to bring to attention, and possibly to alter, the ways we act and interact. 
 
 Such a perspective, Miller (2005, 5) argues, can properly be described as that of 'material culture', "since it implies that much of what we are, exists not through our consciousness or body, but as an exterior environment that habituates and prompts us." 
 
