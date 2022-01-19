@@ -10,13 +10,13 @@ Psychopower results in the massive destruction of attention, exacerbated by '24/
 
 In this context, a challenge for the design of narrative environments might be expressed as follows: 
 
-How can you use the 'weapons of mass distraction' (broadcast media plus internet-based media) to gain the attention of people in order to focus on the problems (at various scales) in which they are entangled?
+How can you use the 'weapons of mass distraction' (broadcast media plus internet-based media) to gain the attention of people in order to focus on the potentially problematic situations (at various scales) in which they are entangled?
 
-If you do not ise those media, people will not see your design. If you do use those media, they will be unable to act on it, because they will not be attending to it and focusing on it (rosen, 2012). A furher difficulty is that, given the proliferation of information and misinformation, people will find it difficult to decise what to trust in order to act upon it (Quill, 2014).
+If you do not use those media, people will not see your design. If you do use those media, they will be unable to act on it, because they will not be attending to it and focusing on it (Rosen, 2012). A further difficulty is that, given the proliferation of information and misinformation, people will find it difficult to decide what to trust in order to act upon it (Quill, 2014).
 
 Larry Rosen makes a distinction between addiction and obsession. He argues that people are obsessed by their devices and platforms, such as smartphones and Facebook. Simplifying greatly, he argues that addiction stems from a need to increase neurotransmitters, such as dopamine, endorphins and others, in our brain, while obsession stems from a need to decrease neurotransmitters that are related to anxiety. He adds the caveat that obsessions also increase other neurotransmitters that block positive, elevated moods and produce anxiety.
 
-Of relevance to the design of narrative environments is that anxiety spans addiction and obsession, both of which affect the ability of attend and to focus. Both, in other words, affect human actantiality as capability to act-in-situation, to be able to recognise, cosntitute and act upon affordances.
+Of relevance to the design of narrative environments is that anxiety spans addiction and obsession, both of which affect the ability of attend and to focus. Both, in other words, affect human actantiality as capability to act-in-situation, to be able to recognise, constitute and act upon affordances.
 
 **References**
 
