@@ -17,6 +17,8 @@ Vaneigem, R. (2001). _The revolution of everyday life_. London, UK: Rebel Press.
 <iframe src="https://www.youtube.com/embed/IoUIHBSiVAY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>  
 _The Society of the Spectacle_, Guy Debord, 1973,
 
+This video is viewable here: https://youtu.be/IoUIHBSiVAY
+
 **Sources**
 
 Bonnett, A. (1989). Situationism, geography, and poststructuralism. _Environment and Planning D: Society and Space_, 7 (2), 131–146.
