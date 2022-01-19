@@ -30,5 +30,4 @@ Links
 
 [Situationist International Online](http://www.cddc.vt.edu/sionline/index.html)
 
-Alternative version of _The Society of the Spectacle_, with an unauthorised voiceover by Paul Chan: [https://www.youtube.com/watch?v=r2YeJpkrTOQ](https://www.youtube.com/watch?v=r2YeJpkrTOQ)
 
