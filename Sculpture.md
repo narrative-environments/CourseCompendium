@@ -28,7 +28,7 @@ However, since this was a convention and is not immutable, this logic began to f
 
 Modernist sculpture, Krauss concludes, is thus nomadic. The sculpture reaches downward to absorb the pedestal into itself an away from actual place. Through the representation of its own materials or the process of construction, the sculpture depicts its own autonomy. Brancusi’s work is taken by Krauss to be exemplary in this respect.
 
-If this is the case, Krauss process, in being the negative condition of the monument, modernist sculpture had a kind of idealist space to explore, cut off from temporal and spatial representation, a domain that could, for a while, be profitably mapped out but which by 1950 began to be exhausted.
+If this is the case, Krauss proceeds, in being the negative condition of the monument, modernist sculpture had a kind of idealist space to explore, cut off from temporal and spatial representation, a domain that could, for a while, be profitably mapped out but which by 1950 began to be exhausted.
 
 In short, it began to be experienced increasingly as pure negativity. Sculpture became something that was possible to locate only in terms of what it was not. By the 1960s, sculpture was what was on or in front of a building that was not the building, or what was in the landscape that was not the landscape, such as exemplified by works by Robert Morris in the early 1960s. Sculpture had ceased to be a positivity and was now the category that resulted from the addition of the not-landscape to the not-architecture:
 
@@ -36,7 +36,7 @@ In short, it began to be experienced increasingly as pure negativity. Sculpture 
 
 These terms, the not-landscape and the not-architecture, express a strict opposition between the built and the not-built, the artificial and the natural, between which the production of sculpture seemed to be suspended.
 
-These terms can be transformed by a simple inversion into the same polar opposites but this time expressed positively, i.e. the not-architecture is another way of expressing the term landscape, according to the logic of a retain kind of expansion, and the not-landscape is another way of expressing the term architecture. This expansion, Krauss explains, is called a Klein group in mathematics and a Piaget group in the structuralist-inspired human sciences. [This expansion is also, it should be added at this point, called a semiotic square in Greimas’ semantics and narratology, a notation that bears some relationship to the Aristotelian logic square, as diagrammed by Apuleius. Furthermore, such notations are developed by Jacques Lacan in the context of psychoanalysis in the form of the Schema-L.]
+These terms can be transformed by a simple inversion into the same polar opposites but this time expressed positively, i.e. the not-architecture is another way of expressing the term landscape, according to the logic of a certain kind of expansion, and the not-landscape is another way of expressing the term architecture. This expansion, Krauss explains, is called a Klein group in mathematics and a Piaget group in the structuralist-inspired human sciences. [This expansion is also, it should be added at this point, called a semiotic square in Greimas’ semantics and narratology, a notation that bears some relationship to the Aristotelian logic square, as diagrammed by Apuleius. Furthermore, such notations are developed by Jacques Lacan in the context of psychoanalysis in the form of the Schema-L.]
 
 By means of this logical expansion, binaries are transformed into a quaternary field:
 
