@@ -17,7 +17,7 @@ Webster concludes, "Affordance does not happen to something, for the thing is co
 
 **Questions**
 
-The relationship between actantiality and affordance is central to what actually happens or transpires, between the 'I can' and the 'I did', between potentiality and actuality. Might Jerome Bruner's conception of 'agentivity', as a focus on agent and action, and Husserl's notion of 'I cans', as in I can throw, I can calculate, I can judge and so on, contribute to the developmnt of this nexus?
+The relationship between actantiality and affordance is central to what actually happens or transpires, between the 'I can' and the 'I did', between potentiality and actuality. Might Jerome Bruner's conception of 'agentivity', as a focus on agent and action, and Husserl's notion of 'I cans', as in I can throw, I can calculate, I can judge and so on, contribute to the development of this nexus?
 
 **References**
 
